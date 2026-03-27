@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Wrath of the Righteous - Campaign Notes</title>
+      <link>https://BarbaDev42.github.io/wotr-campaign</link>
+      <description>Last 10 notes on Wrath of the Righteous - Campaign Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>00_Campaign Dashboard</title>
+    <link>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/00_Campaign-Dashboard</link>
+    <guid>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/00_Campaign-Dashboard</guid>
+    <description><![CDATA[ Campaign Dashboard Current Party Current Location Active Quests Last Session Quick Links 01_Session Index 02_NPC Index 03_Location Index 04_Quest Index 05_Party Index . ]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:37:23 GMT</pubDate>
+  </item><item>
+    <title>01_Session Index</title>
+    <link>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/01_Session-Index</link>
+    <guid>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/01_Session-Index</guid>
+    <description><![CDATA[ LIST FROM &quot;01_Sessions&quot; SORT file.name ASC. ]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:37:23 GMT</pubDate>
+  </item><item>
+    <title>02_NPC Index</title>
+    <link>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/02_NPC-Index</link>
+    <guid>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/02_NPC-Index</guid>
+    <description><![CDATA[ TABLE faction, location FROM &quot;03_NPCs&quot;. ]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:37:23 GMT</pubDate>
+  </item><item>
+    <title>03_Location Index</title>
+    <link>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/03_Location-Index</link>
+    <guid>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/03_Location-Index</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:37:23 GMT</pubDate>
+  </item><item>
+    <title>04_Quest Index</title>
+    <link>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/04_Quest-Index</link>
+    <guid>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/04_Quest-Index</guid>
+    <description><![CDATA[ TABLE status, giver FROM &quot;05_Quests&quot;. ]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:37:23 GMT</pubDate>
+  </item><item>
+    <title>05_Party Index</title>
+    <link>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/05_Party-Index</link>
+    <guid>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/00_Index/05_Party-Index</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:37:23 GMT</pubDate>
+  </item><item>
+    <title>Session 001</title>
+    <link>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/01_Sessions/Session-001</link>
+    <guid>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/01_Sessions/Session-001</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:37:23 GMT</pubDate>
+  </item><item>
+    <title>Kaelen Vortanis</title>
+    <link>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/02_Party/Members/Kaelen-Vortanis</link>
+    <guid>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/02_Party/Members/Kaelen-Vortanis</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:37:23 GMT</pubDate>
+  </item><item>
+    <title>Party Inventory</title>
+    <link>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/02_Party/Party-Inventory</link>
+    <guid>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/02_Party/Party-Inventory</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:37:23 GMT</pubDate>
+  </item><item>
+    <title>NPC 1</title>
+    <link>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/03_NPCs/NPC-1</link>
+    <guid>https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/03_NPCs/NPC-1</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 27 Mar 2026 17:37:23 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
