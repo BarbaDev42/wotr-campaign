@@ -1,16 +1,26 @@
 ---
-title: Wrath of the Righteous - Campaign Notes
+title: Wrath of the Righteous — Note di Campagna
+description: Note condivise della nostra campagna Pathfinder Wrath of the Righteous.
+tags: [index]
 ---
 
 # Wrath of the Righteous
 
-Welcome to the campaign notes for our Wrath of the Righteous Pathfinder campaign.
+Benvenuti nelle note condivise della nostra campagna *Wrath of the Righteous*. Questa wiki è mantenuta dai giocatori e aggiornata dopo ogni sessione.
 
-## Quick Links
+---
 
-- [[00_Campaign Dashboard]]
-- [[01_Session Index]]
-- [[02_NPC Index]]
-- [[03_Location Index]]
-- [[04_Quest Index]]
-- [[05_Party Index]]
+## Naviga
+
+| Sezione | Descrizione |
+|---------|-------------|
+| [[00_Campaign Dashboard\|Dashboard]] | Stato attuale della campagna |
+| [[01_Session Index\|Sessioni]] | Note di ogni sessione |
+| [[05_Party Index\|Il Gruppo]] | I nostri personaggi |
+| [[02_NPC Index\|PNG]] | Tutti quelli che abbiamo incontrato |
+| [[03_Location Index\|Luoghi]] | I posti che abbiamo visitato |
+| [[04_Quest Index\|Missioni]] | Missioni attive e completate |
+
+---
+
+*Per il changelog consulta la cronologia dei commit Git.*

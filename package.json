@@ -18,10 +18,10 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "sync": "bash scripts/sync.sh",
+    "sync": "powershell -ExecutionPolicy Bypass -File scripts/sync.ps1",
     "build": "npx quartz build",
     "serve": "npx quartz build --serve",
-    "publish": "bash scripts/sync.sh && git add . && git commit -m 'Update notes' && git push"
+    "publish": "powershell -ExecutionPolicy Bypass -File scripts/sync.ps1 && git add . && git commit -m \"Update notes\" && git push"
   },
   "engines": {
     "npm": ">=10.9.2",
