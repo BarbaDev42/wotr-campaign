@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head><title>Sessione 001</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Wrath of the Righteous - Campaign Notes"/><meta property="og:title" content="Sessione 001"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Sessione 001"/><meta name="twitter:description" content="Il festival di Kenabres si trasforma in tragedia. Il gruppo si risveglia nelle profondità della terra."/><meta property="og:description" content="Il festival di Kenabres si trasforma in tragedia. Il gruppo si risveglia nelle profondità della terra."/><meta property="og:image:alt" content="Il festival di Kenabres si trasforma in tragedia. Il gruppo si risveglia nelle profondità della terra."/><meta property="twitter:domain" content="BarbaDev42.github.io/wotr-campaign"/><meta property="og:url" content="https://barbadev42.github.io/wotr-campaign/Wrath-of-the-Righteous/01_Sessions/Sessione-001"/><meta property="twitter:url" content="https://barbadev42.github.io/wotr-campaign/Wrath-of-the-Righteous/01_Sessions/Sessione-001"/><link rel="icon" href="../../static/icon.png"/><meta name="description" content="Il festival di Kenabres si trasforma in tragedia. Il gruppo si risveglia nelle profondità della terra."/><meta name="generator" content="Quartz"/><link href="../../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL2hvbWUvcnVubmVyL3dvcmsvd290ci1jYW1wYWlnbi93b3RyLWNhbXBhaWduL3F1YXJ0ei9jb21wb25lbnRzL3N0eWxlcyIsInNvdXJjZXMiOlsibWVybWFpZC5pbmxpbmUuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTs7O0FBS0Y7RUFDRTtFQUNBOzs7QUFJSjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xuICAgICAgdHJhbnNmb3JtLW9yaWdpbjogMCAwO1xuICAgICAgdHJhbnNpdGlvbjogdHJhbnNmb3JtIDAuMXMgZWFzZTtcbiAgICAgIG92ZXJmbG93OiB2aXNpYmxlO1xuICAgICAgbWluLWhlaWdodDogMjAwcHg7XG4gICAgICBtaW4td2lkdGg6IDIwMHB4O1xuXG4gICAgICBwcmUge1xuICAgICAgICBtYXJnaW46IDA7XG4gICAgICAgIGJvcmRlcjogbm9uZTtcbiAgICAgIH1cblxuICAgICAgc3ZnIHtcbiAgICAgICAgbWF4LXdpZHRoOiBub25lO1xuICAgICAgICBoZWlnaHQ6IGF1dG87XG4gICAgICB9XG4gICAgfVxuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRyb2xzIHtcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICAgIGJvdHRvbTogMjBweDtcbiAgICAgIHJpZ2h0OiAyMHB4O1xuICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgIGdhcDogOHB4O1xuICAgICAgcGFkZGluZzogOHB4O1xuICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgIGJvcmRlci1yYWRpdXM6IDZweDtcbiAgICAgIGJveC1zaGFkb3c6IDAgMnB4IDRweCByZ2JhKDAsIDAsIDAsIDAuMSk7XG4gICAgICB6LWluZGV4OiAyO1xuXG4gICAgICAubWVybWFpZC1jb250cm9sLWJ1dHRvbiB7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICB3aWR0aDogMzJweDtcbiAgICAgICAgaGVpZ2h0OiAzMnB4O1xuICAgICAgICBwYWRkaW5nOiAwO1xuICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodCk7XG4gICAgICAgIGNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgICAgICAgYm9yZGVyLXJhZGl1czogNHB4O1xuICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgICAgIGZvbnQtc2l6ZTogMTZweDtcbiAgICAgICAgZm9udC1mYW1pbHk6IHZhcigtLWJvZHlGb250KTtcbiAgICAgICAgdHJhbnNpdGlvbjogYWxsIDAuMnMgZWFzZTtcblxuICAgICAgICAmOmhvdmVyIHtcbiAgICAgICAgICBiYWNrZ3JvdW5kOiB2YXIoLS1saWdodGdyYXkpO1xuICAgICAgICB9XG5cbiAgICAgICAgJjphY3RpdmUge1xuICAgICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlWSgxcHgpO1xuICAgICAgICB9XG5cbiAgICAgICAgLy8gU3R5bGUgdGhlIHJlc2V0IGJ1dHRvbiBkaWZmZXJlbnRseVxuICAgICAgICAmOm50aC1jaGlsZCgyKSB7XG4gICAgICAgICAgd2lkdGg6IGF1dG87XG4gICAgICAgICAgcGFkZGluZzogMCAxMnB4O1xuICAgICAgICAgIGZvbnQtc2l6ZTogMTRweDtcbiAgICAgICAgfVxuICAgICAgfVxuICAgIH1cbiAgfVxufVxuIl19 */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://BarbaDev42.github.io/wotr-campaign/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/01_Sessions/Sessione-001-og-image.webp"/><meta property="og:image:url" content="https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/01_Sessions/Sessione-001-og-image.webp"/><meta name="twitter:image" content="https://BarbaDev42.github.io/wotr-campaign/Wrath-of-the-Righteous/01_Sessions/Sessione-001-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Wrath-of-the-Righteous/01_Sessions/Sessione-001"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../..">Wrath of the Righteous - Campaign Notes</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Search</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-19"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-19" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../Wrath-of-the-Righteous/">Wrath of the Righteous</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../Wrath-of-the-Righteous/01_Sessions/">01_Sessions</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Sessione 001</a></div></nav><h1 class="article-title">Sessione 001</h1><p show-comma="true" class="content-meta"><time datetime="4713-08-16T00:00:00.000Z">Aug 16, 4713</time><span>7 min read</span></p><ul class="tags"><li><a href="../../tags/sessione" class="internal tag-link">sessione</a></li></ul></div></div><article class="popover-hint"><h1 id="sessione-001--la-caduta-di-kenabres">Sessione 001 — La Caduta di Kenabres<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#sessione-001--la-caduta-di-kenabres" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<blockquote>
+<p><em>Il cielo era azzurro, la gente festeggiava, e nessuno immaginava che quel mezzogiorno sarebbe diventato l’inizio di tutto.</em></p>
+</blockquote>
+<hr/>
+<h2 id="cosa-è-successo">Cosa è successo<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#cosa-è-successo" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="situazione-iniziale">Situazione iniziale<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#situazione-iniziale" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Il 16 agosto del 4713 A.R., la città di <a href="../../Wrath-of-the-Righteous/04_Locations/Kenabres" class="internal" data-slug="Wrath-of-the-Righteous/04_Locations/Kenabres">Kenabres</a> fremeva di vita. <a href="../../Wrath-of-the-Righteous/03_NPCs/Hulrun-Shappok" class="internal alias" data-slug="Wrath-of-the-Righteous/03_NPCs/Hulrun-Shappok">Hulrun Shappok</a>, inquisitore umano e seconda autorità del <a href="../../Wrath-of-the-Righteous/08_Lore/Mendev" class="internal" data-slug="Wrath-of-the-Righteous/08_Lore/Mendev">Mendev</a> dopo la regina Galfrey, aveva indetto un grande festival per segnare l’imminente raduno di una nuova crociata. Era un uomo che aveva costruito la propria fama sulla prima crociata, dove il suo zelo — forse troppo acceso — lo aveva portato a guidare una brutale caccia alle streghe. Quella fama gli aveva fruttato il titolo di prelato, ma le voci interne mormoravano che ultimamente Hulrun stesse cominciando a fare i conti con se stesso.</p>
+<p>Poco importava, quel giorno. Kenabres ballava.</p>
+<hr/>
+<h3 id="gli-incontri-nella-piazza">Gli incontri nella piazza<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gli-incontri-nella-piazza" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>La <a href="../../Wrath-of-the-Righteous/04_Locations/Piazza-di-Clydwell" class="internal alias" data-slug="Wrath-of-the-Righteous/04_Locations/Piazza-di-Clydwell">Piazza di Clydwell</a>, cuore dell’anello centrale della città, era gremita di gente. Ad ovest incombeva la <a href="../../Wrath-of-the-Righteous/08_Lore/Piaga-del-Mondo" class="internal alias" data-slug="Wrath-of-the-Righteous/08_Lore/Piaga-del-Mondo">Piaga del Mondo</a>, ferita aperta nel ventre del mondo; ad est svettava una basilica dedicata a <a href="../../Wrath-of-the-Righteous/08_Lore/Iomedae" class="internal" data-slug="Wrath-of-the-Righteous/08_Lore/Iomedae">Iomedae</a>. In mezzo, tra bancarelle, duelli simulati e risate di bambini, il festival prendeva forma.</p>
+<p>Fu lì che <a href="../../Wrath-of-the-Righteous/02_Party/Members/Caslek-Makiya" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Caslek-Makiya">Caslek Makiya</a> — tabaxi dalla pelliccia dorata screziata di nero, occhi castani, fisico snello avvolto in abiti semplici e un’armatura di cuoio — incrociò per caso <a href="../../Wrath-of-the-Righteous/02_Party/Members/Agira" class="internal" data-slug="Wrath-of-the-Righteous/02_Party/Members/Agira">Agira</a>, un giovane mezzelfo dai capelli bianchi e dagli occhi blu scuro percorsi da pattern di stelle, con un sorriso che sembrava incollato sul viso. Si scontrarono, si scusarono, e come spesso accade tra sconosciuti in un giorno di festa, cominciarono a parlare.</p>
+<p>Si lasciarono trascinare verso una bancarella gestita da soldati, attratti dall’odore del cibo caldo. Dietro il bancone c’era <a href="../../Wrath-of-the-Righteous/02_Party/Members/Tamar-Darkmane" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Tamar-Darkmane">Tamar Darkmane</a>: capelli rossi, occhi azzurri, sguardo burbero come quello di chi ha visto troppo per stupirsi ancora di qualcosa. Portava vesti comode sotto un’armatura a scaglie, e al collo un simbolo di <a href="../../Wrath-of-the-Righteous/08_Lore/Sarenrae" class="internal" data-slug="Wrath-of-the-Righteous/08_Lore/Sarenrae">Sarenrae</a> che non stava lì per caso.</p>
+<p>A un tavolo vicino sedeva <a href="../../Wrath-of-the-Righteous/02_Party/Members/Vlamyra-Ruzclaw" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Vlamyra-Ruzclaw">Vlamyra Ruzclaw</a>, una dragonide dalla pelle color rubino, che osservava la folla con un’espressione di chi preferirebbe essere altrove. Indossava un’armatura completa e teneva due spade a portata di mano — la postura di qualcuno che non si fida mai del tutto della pace.</p>
+<p>Poco dopo arrivò anche <a href="../../Wrath-of-the-Righteous/02_Party/Members/Kaelen-Vortanis" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Kaelen-Vortanis">Kaelen Vortanis</a>, reduce da un turno di riparazioni, che si sistemò alla bancarella con l’aria pratica di chi sa dove si mangia bene senza fare troppe storie.</p>
+<hr/>
+<h3 id="volti-noti-nella-folla">Volti noti nella folla<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#volti-noti-nella-folla" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Tra la gente, qualcuno riconobbe una coppia che si distingueva dal resto: <a href="../../Wrath-of-the-Righteous/03_NPCs/Irabeth" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Irabeth">Irabeth</a>, mezza orco paladina di Iomedae — con, stranamente, una spada dall’aspetto fin troppo ordinario per una seguace della Dama della Spada — e accanto a lei <a href="../../Wrath-of-the-Righteous/03_NPCs/Anevia" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Anevia">Anevia</a>, una ranger dall’aspetto agile e attento. Le due sembravano a proprio agio, integrate nella celebrazione, ma con quella consapevolezza silenziosa di chi non abbassa mai del tutto la guardia.</p>
+<p>Poco distante c’era anche <a href="../../Wrath-of-the-Righteous/03_NPCs/Aravashnial" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Aravashnial">Aravashnial</a>, un elfo studioso che lavorava alla biblioteca della città. Arcanista di professione, osservava il festival con l’occhio di chi studia i fenomeni più che viverli.</p>
+<hr/>
+<h3 id="la-caduta">La caduta<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#la-caduta" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Quasi a mezzogiorno, la folla si radunò per il discorso ufficiale. <a href="../../Wrath-of-the-Righteous/03_NPCs/Hulrun-Shappok" class="internal alias" data-slug="Wrath-of-the-Righteous/03_NPCs/Hulrun-Shappok">Hulrun Shappok</a> salì sul palco e aprì la bocca per parlare.</p>
+<p>Poi, tutto smise di esistere.</p>
+<p>Un dolore sordo alla testa. Il nero. Il rumore di rocce che cedono, urla che si spezzano, polvere che sale a onde soffocanti.</p>
+<p>Quando i sensi tornarono, il gruppo si ritrovò in una caverna sotterranea, centinaia di metri sotto il livello del suolo. Corpi ricoperti di terriccio. Poca luce. Meno certezze.</p>
+<p><a href="../../Wrath-of-the-Righteous/02_Party/Members/Tamar-Darkmane" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Tamar-Darkmane">Tamar Darkmane</a> fu il primo a reagire: accese una luce, rompendo il buio abbastanza da permettere a tutti di capire dove si trovavano. Nessuno aveva subito danni gravi — una fortuna quasi sospetta.</p>
+<p>Non tutti erano stati così fortunati. <a href="../../Wrath-of-the-Righteous/03_NPCs/Aravashnial" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Aravashnial">Aravashnial</a> era tra i sopravvissuti, ma la caduta lo aveva privato della vista: cieco, disorientato, ma vivo. <a href="../../Wrath-of-the-Righteous/03_NPCs/Anevia" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Anevia">Anevia</a> era intrappolata sotto un masso con una gamba rotta; <a href="../../Wrath-of-the-Righteous/02_Party/Members/Vlamyra-Ruzclaw" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Vlamyra-Ruzclaw">Vlamyra Ruzclaw</a> e <a href="../../Wrath-of-the-Righteous/02_Party/Members/Kaelen-Vortanis" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Kaelen-Vortanis">Spark</a> la liberarono, e quest’ultima improvvisò un bendaggio di fortuna. <a href="../../Wrath-of-the-Righteous/02_Party/Members/Tamar-Darkmane" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Tamar-Darkmane">Tamar Darkmane</a> nel frattempo aiutava un’altra figura a rialzarsi — un certo <a href="../../Wrath-of-the-Righteous/03_NPCs/Horgus" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Horgus">Horgus</a>, che sembrava incline a lamentarsi più che a ringraziare.</p>
+<p><a href="../../Wrath-of-the-Righteous/02_Party/Members/Caslek-Makiya" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Caslek-Makiya">Caslek</a>, nel caos, trovò il tempo per recitare la parte del ferito.</p>
+<hr/>
+<h3 id="quello-che-era-successo-prima-della-caduta">Quello che era successo prima della caduta<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#quello-che-era-successo-prima-della-caduta" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Nei momenti di confusione, mentre il gruppo raccoglieva i cocci della propria lucidità, emersero frammenti di memoria — o forse visioni.</p>
+<p><a href="../../Wrath-of-the-Righteous/03_NPCs/Terendelev" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Terendelev">Terendelev</a>, drago d’argento, custode di Kenabres, aveva combattuto nel cielo sopra la piazza.</p>
+<p>Contro di lei: <a href="../../Wrath-of-the-Righteous/03_NPCs/Khorramzadeh" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Khorramzadeh">Khorramzadeh</a>, il Re della Tempesta, uno dei grandi demoni signori della Piaga del Mondo.</p>
+<p>Il risultato di quello scontro era scritto nel silenzio di centinaia di metri di roccia sopra le loro teste.</p>
+<hr/>
+<h3 id="esplorazione-della-caverna">Esplorazione della caverna<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#esplorazione-della-caverna" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>La caverna aveva soffitti alti e pareti decorate — vestigia di un’epoca precedente. Kenabres era costruita sopra strati di storia: gallerie della prima crociata, famiglie di crociati mai tornate, un esilio scelto nel sottosuolo di cui si era persa la memoria.</p>
+<p>Dal fondo della caverna arrivò uno sguardo: un ragno nero, immobile, che osservava il gruppo in silenzio. Non attaccò. Sparì.</p>
+<p><a href="../../Wrath-of-the-Righteous/02_Party/Members/Kaelen-Vortanis" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Kaelen-Vortanis">Kaelen</a>, con la sua consueta tendenza a non resistere alla curiosità, si avvicinò a qualcosa che aveva intravisto sotto la creatura. Le larve che stavano divorando i resti di un ragno gigante non apprezzarono l’interruzione e la colpirono — ma il bottino valse il colpo: <strong>cinque scaglie di drago argento</strong>, artefatti minori.</p>
+<p>La scaglia raccolta da Kaelen si rivelò capace di lanciare <em>Disguise Self</em> tre volte al giorno, con un bonus di +4 ai tiri di Inganno contro creature malvagie.</p>
+<p>Il gruppo si mosse verso una strettoia. <a href="../../Wrath-of-the-Righteous/02_Party/Members/Caslek-Makiya" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Caslek-Makiya">Caslek</a> andò avanti, trovò un’altura, trovò scarafaggi giganti — e tornò indietro di corsa con gli insetti alle calcagna. Combattimento, caos, vittoria.</p>
+<p>Il percorso alternativo fu più generoso: sulla seconda altura, <a href="../../Wrath-of-the-Righteous/02_Party/Members/Caslek-Makiya" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Caslek-Makiya">Caslek</a> — con l’aiuto di <a href="../../Wrath-of-the-Righteous/02_Party/Members/Vlamyra-Ruzclaw" class="internal alias" data-slug="Wrath-of-the-Righteous/02_Party/Members/Vlamyra-Ruzclaw">Vlamyra Ruzclaw</a> — trovò uno zaino in condizioni perfette. Dentro: razioni da viaggio per dieci giorni, un acciarino con pietra focaia, triboli, due fiaschette d’olio, dodici frecce, due pozioni. Calò una corda per gli altri.</p>
+<p>Il gruppo scese. Avanzò. Non sapeva ancora dove stava andando, ma sapeva che non c’era modo di tornare indietro.</p>
+<hr/>
+<h2 id="la-prospettiva-del-gruppo">La prospettiva del gruppo<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#la-prospettiva-del-gruppo" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Il festival avrebbe dovuto essere un giorno qualunque — uno di quelli in cui si mangia qualcosa, si chiacchiera con degli sconosciuti, e ci si dimentica per qualche ora che si vive all’ombra della Piaga del Mondo. Invece è diventato il momento in cui tutto è cambiato, anche se nessuno lo sa ancora con certezza.</p>
+<p>Il gruppo non esisteva prima di quel giorno. Ora esiste per necessità.</p>
+<h3 id="decisioni-prese">Decisioni prese<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#decisioni-prese" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Soccorrere i feriti prima di muoversi — Anevia liberata, Aravashnial guidato.</li>
+<li>Esplorare i due percorsi disponibili piuttosto che fermarsi ad aspettare.</li>
+<li>Recuperare le risorse trovate (scaglie, zaino) senza esitazione.</li>
+</ul>
+<h3 id="cosa-abbiamo-scoperto">Cosa abbiamo scoperto<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#cosa-abbiamo-scoperto" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<ul>
+<li>Kenabres è stata attaccata — probabilmente è caduta, o sta cadendo.</li>
+<li>Terendelev, il drago protettore della città, ha combattuto contro Khorramzadeh il Re della Tempesta.</li>
+<li>Le caverne sottostanti hanno una storia: le gallerie della prima crociata, famiglie scomparse, un esilio volontario.</li>
+<li>Le scaglie di Terendelev hanno proprietà magiche.</li>
+</ul>
+<hr/>
+<h2 id="png-incontrati">PNG incontrati<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#png-incontrati" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>PNG</th><th>Prima volta?</th><th>Impressione</th></tr></thead><tbody><tr><td><a href="../../Wrath-of-the-Righteous/03_NPCs/Hulrun-Shappok" class="internal alias" data-slug="Wrath-of-the-Righteous/03_NPCs/Hulrun-Shappok">Hulrun Shappok</a></td><td>Sì</td><td>Autorevole, complesso, assente dopo la caduta</td></tr><tr><td><a href="../../Wrath-of-the-Righteous/03_NPCs/Irabeth" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Irabeth">Irabeth</a></td><td>Sì</td><td>Affidabile, paladina con una spada strana</td></tr><tr><td><a href="../../Wrath-of-the-Righteous/03_NPCs/Anevia" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Anevia">Anevia</a></td><td>Sì</td><td>Competente, ferita, grata</td></tr><tr><td><a href="../../Wrath-of-the-Righteous/03_NPCs/Aravashnial" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Aravashnial">Aravashnial</a></td><td>Sì</td><td>Studioso, ora cieco, vulnerabile</td></tr><tr><td><a href="../../Wrath-of-the-Righteous/03_NPCs/Horgus" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Horgus">Horgus</a></td><td>Sì</td><td>Sopravvissuto, carattere scontroso</td></tr><tr><td><a href="../../Wrath-of-the-Righteous/03_NPCs/Terendelev" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Terendelev">Terendelev</a></td><td>Sì (visione)</td><td>Drago protettore, destino incerto</td></tr><tr><td><a href="../../Wrath-of-the-Righteous/03_NPCs/Khorramzadeh" class="internal" data-slug="Wrath-of-the-Righteous/03_NPCs/Khorramzadeh">Khorramzadeh</a></td><td>Sì (visione)</td><td>Demone signore, enorme minaccia</td></tr></tbody></table></div>
+<hr/>
+<h2 id="luoghi-visitati">Luoghi visitati<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#luoghi-visitati" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../../Wrath-of-the-Righteous/04_Locations/Kenabres" class="internal" data-slug="Wrath-of-the-Righteous/04_Locations/Kenabres">Kenabres</a></li>
+<li><a href="../../Wrath-of-the-Righteous/04_Locations/Piazza-di-Clydwell" class="internal alias" data-slug="Wrath-of-the-Righteous/04_Locations/Piazza-di-Clydwell">Piazza di Clydwell</a></li>
+<li><a href="../../Wrath-of-the-Righteous/04_Locations/Caverne-Sotterranee-di-Kenabres" class="internal alias" data-slug="Wrath-of-the-Righteous/04_Locations/Caverne-Sotterranee-di-Kenabres">Caverne Sotterranee di Kenabres</a></li>
+</ul>
+<hr/>
+<h2 id="missioni-e-agganci">Missioni e agganci<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#missioni-e-agganci" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Missione</th><th>Stato</th><th>Note</th></tr></thead><tbody><tr><td>Risalire in superficie</td><td>Iniziata</td><td>Il gruppo deve trovare una via d’uscita dalle caverne</td></tr><tr><td>Scoprire cosa è successo a Kenabres</td><td>Iniziata</td><td>La città è stata attaccata, le informazioni sono frammentarie</td></tr></tbody></table></div>
+<hr/>
+<h2 id="bottino-e-ricompense">Bottino e ricompense<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bottino-e-ricompense" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Oggetto</th><th>Chi ce l’ha</th><th>Note</th></tr></thead><tbody><tr><td><a href="../../Wrath-of-the-Righteous/07_Items/Scaglia-di-Drago-Argento" class="internal alias" data-slug="Wrath-of-the-Righteous/07_Items/Scaglia-di-Drago-Argento">Scaglia di Drago Argento</a></td><td>Kaelen</td><td>+4 Inganno vs malvagi, Disguise Self 3/gg</td></tr><tr><td><a href="../../Wrath-of-the-Righteous/07_Items/Scaglia-di-Drago-Argento" class="internal alias" data-slug="Wrath-of-the-Righteous/07_Items/Scaglia-di-Drago-Argento">Scaglia di Drago Argento</a> ×4</td><td>Gruppo</td><td>Da assegnare</td></tr><tr><td>Razioni da viaggio (10 giorni)</td><td>Gruppo</td><td>Dallo zaino trovato</td></tr><tr><td>Acciarino e pietra focaia</td><td>Gruppo</td><td></td></tr><tr><td>Triboli</td><td>Gruppo</td><td></td></tr><tr><td>Olio (×2 fiaschette)</td><td>Gruppo</td><td></td></tr><tr><td>Frecce (×12)</td><td>Gruppo</td><td></td></tr><tr><td>Pozioni (×2)</td><td>Gruppo</td><td>Tipo da identificare</td></tr></tbody></table></div>
+<hr/>
+<h2 id="indizi-e-domande-aperte">Indizi e domande aperte<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#indizi-e-domande-aperte" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li>Dove sono Hulrun e gli altri cittadini?</li>
+<li>Terendelev è morto/a?</li>
+<li>Khorramzadeh è ancora in città?</li>
+<li>Chi erano le famiglie che si rifugiarono nelle gallerie durante la prima crociata?</li>
+</ul>
+<hr/>
+<h2 id="prossima-sessione">Prossima sessione<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#prossima-sessione" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" disabled/> Trovare una via d’uscita dalle caverne</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Capire in che condizioni è Kenabres</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Portare in salvo Anevia e Aravashnial</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-3" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#sessione-001--la-caduta-di-kenabres" data-for="sessione-001--la-caduta-di-kenabres">Sessione 001 — La Caduta di Kenabres</a></li><li class="depth-1"><a href="#cosa-è-successo" data-for="cosa-è-successo">Cosa è successo</a></li><li class="depth-2"><a href="#situazione-iniziale" data-for="situazione-iniziale">Situazione iniziale</a></li><li class="depth-2"><a href="#gli-incontri-nella-piazza" data-for="gli-incontri-nella-piazza">Gli incontri nella piazza</a></li><li class="depth-2"><a href="#volti-noti-nella-folla" data-for="volti-noti-nella-folla">Volti noti nella folla</a></li><li class="depth-2"><a href="#la-caduta" data-for="la-caduta">La caduta</a></li><li class="depth-2"><a href="#quello-che-era-successo-prima-della-caduta" data-for="quello-che-era-successo-prima-della-caduta">Quello che era successo prima della caduta</a></li><li class="depth-2"><a href="#esplorazione-della-caverna" data-for="esplorazione-della-caverna">Esplorazione della caverna</a></li><li class="depth-1"><a href="#la-prospettiva-del-gruppo" data-for="la-prospettiva-del-gruppo">La prospettiva del gruppo</a></li><li class="depth-2"><a href="#decisioni-prese" data-for="decisioni-prese">Decisioni prese</a></li><li class="depth-2"><a href="#cosa-abbiamo-scoperto" data-for="cosa-abbiamo-scoperto">Cosa abbiamo scoperto</a></li><li class="depth-1"><a href="#png-incontrati" data-for="png-incontrati">PNG incontrati</a></li><li class="depth-1"><a href="#luoghi-visitati" data-for="luoghi-visitati">Luoghi visitati</a></li><li class="depth-1"><a href="#missioni-e-agganci" data-for="missioni-e-agganci">Missioni e agganci</a></li><li class="depth-1"><a href="#bottino-e-ricompense" data-for="bottino-e-ricompense">Bottino e ricompense</a></li><li class="depth-1"><a href="#indizi-e-domande-aperte" data-for="indizi-e-domande-aperte">Indizi e domande aperte</a></li><li class="depth-1"><a href="#prossima-sessione" data-for="prossima-sessione">Prossima sessione</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="../../Wrath-of-the-Righteous/02_Party/Members/Agira" class="internal">Agira</a></li><li><a href="../../Wrath-of-the-Righteous/02_Party/Members/Caslek-Makiya" class="internal">Caslek Makiya</a></li><li><a href="../../Wrath-of-the-Righteous/02_Party/Members/Kaelen-Vortanis" class="internal">Kaelen Vortanis (Spark)</a></li><li><a href="../../Wrath-of-the-Righteous/02_Party/Members/Tamar-Darkmane" class="internal">Tamar Darkmane</a></li><li><a href="../../Wrath-of-the-Righteous/02_Party/Members/Vlamyra-Ruzclaw" class="internal">Vlamyra Ruzclaw</a></li><li><a href="../../Wrath-of-the-Righteous/03_NPCs/Anevia" class="internal">Anevia</a></li><li><a href="../../Wrath-of-the-Righteous/03_NPCs/Aravashnial" class="internal">Aravashnial</a></li><li><a href="../../Wrath-of-the-Righteous/03_NPCs/Horgus" class="internal">Horgus</a></li><li><a href="../../Wrath-of-the-Righteous/03_NPCs/Hulrun-Shappok" class="internal">Hulrun Shappok</a></li><li><a href="../../Wrath-of-the-Righteous/03_NPCs/Irabeth" class="internal">Irabeth</a></li><li><a href="../../Wrath-of-the-Righteous/03_NPCs/Khorramzadeh" class="internal">Khorramzadeh</a></li><li><a href="../../Wrath-of-the-Righteous/03_NPCs/Terendelev" class="internal">Terendelev</a></li><li><a href="../../Wrath-of-the-Righteous/04_Locations/Caverne-Sotterranee-di-Kenabres" class="internal">Caverne Sotterranee di Kenabres</a></li><li><a href="../../Wrath-of-the-Righteous/04_Locations/Kenabres" class="internal">Kenabres</a></li><li><a href="../../Wrath-of-the-Righteous/04_Locations/La-Mandorla" class="internal">La Mandorla</a></li><li><a href="../../Wrath-of-the-Righteous/04_Locations/Piazza-di-Clydwell" class="internal">Piazza di Clydwell</a></li><li><a href="../../Wrath-of-the-Righteous/07_Items/Scaglia-di-Drago-Argento" class="internal">Scaglia di Drago Argento</a></li><li><a href="../../Wrath-of-the-Righteous/07_Items/Zaino-del-Sopravvissuto" class="internal">Zaino del Sopravvissuto</a></li><li><a href="../../Wrath-of-the-Righteous/08_Lore/La-Caduta-di-Kenabres" class="internal">La Caduta di Kenabres</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script src="../../postscript.js" type="module" data-persist="true"></script></html>
