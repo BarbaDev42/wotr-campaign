@@ -38,12 +38,12 @@ tags: [index, dashboard]
 
 ## Sessioni Recenti
 
-<!-- QueryToSerialize: TABLE date AS "Data", location AS "Luogo" FROM "Wrath of the Righteous/01_Sessions" SORT date DESC LIMIT 5 -->
-<!-- SerializedQuery: TABLE date AS "Data", location AS "Luogo" FROM "Wrath of the Righteous/01_Sessions" SORT date DESC LIMIT 5 -->
+<!-- QueryToSerialize: TABLE date_ingame AS "Data in-game", date_played AS "Giocata il", location AS "Luogo" FROM "Wrath of the Righteous/01_Sessions" SORT date_played DESC LIMIT 5 -->
+<!-- SerializedQuery: TABLE date_ingame AS "Data in-game", date_played AS "Giocata il", location AS "Luogo" FROM "Wrath of the Righteous/01_Sessions" SORT date_played DESC LIMIT 5 -->
 
-| File                                                                 | Data            | Luogo                                                         |
-| -------------------------------------------------------------------- | --------------- | ------------------------------------------------------------- |
-| [[Sessione 001]] | August 16, 4713 | [[Kenabres]] |
+| File                                                                 | Data in-game    | Giocata il     | Luogo                                                         |
+| -------------------------------------------------------------------- | --------------- | -------------- | ------------------------------------------------------------- |
+| [[Sessione 001]] | August 16, 4713 | March 26, 2026 | [[Kenabres]] |
 
 <!-- SerializedQuery END -->
 

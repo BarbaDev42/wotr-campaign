@@ -6,11 +6,11 @@ tags: [index, sessioni]
 
 # Indice Sessioni
 
-<!-- QueryToSerialize: TABLE date AS "Data", location AS "Luogo", party_level AS "Livello" FROM "Wrath of the Righteous/01_Sessions" SORT date ASC -->
-<!-- SerializedQuery: TABLE date AS "Data", location AS "Luogo", party_level AS "Livello" FROM "Wrath of the Righteous/01_Sessions" SORT date ASC -->
+<!-- QueryToSerialize: TABLE date_ingame AS "Data in-game", date_played AS "Giocata il", location AS "Luogo", party_level AS "Livello" FROM "Wrath of the Righteous/01_Sessions" SORT date_played ASC -->
+<!-- SerializedQuery: TABLE date_ingame AS "Data in-game", date_played AS "Giocata il", location AS "Luogo", party_level AS "Livello" FROM "Wrath of the Righteous/01_Sessions" SORT date_played ASC -->
 
-| File                                                                 | Data            | Luogo                                                         | Livello |
-| -------------------------------------------------------------------- | --------------- | ------------------------------------------------------------- | ------- |
-| [[Sessione 001]] | August 16, 4713 | [[Kenabres]] | 1       |
+| File                                                                 | Data in-game    | Giocata il     | Luogo                                                         | Livello |
+| -------------------------------------------------------------------- | --------------- | -------------- | ------------------------------------------------------------- | ------- |
+| [[Sessione 001]] | August 16, 4713 | March 26, 2026 | [[Kenabres]] | 1       |
 
 <!-- SerializedQuery END -->

@@ -32,7 +32,7 @@ description: Scaglia appartenuta a Terendelev, drago protettore di Kenabres. Con
 
 ## Descrizione
 
-Scaglie di colore argenteo, ancora lucide nonostante le circostanze. Provengono dal corpo (o dai resti) di [[Terendelev]], il drago d'argento protettore di Kenabres. Cinque scaglie recuperate in totale da [[Kaelen Vortanis]], che si è avvicinata al corpo del drago nelle caverne sotterranee.
+Scaglie di colore argenteo, ancora lucide nonostante le circostanze. La loro origine esatta è misteriosa: sono state recuperate da [[Kaelen Vortanis|Spark]] dalla carcassa di un ragno gigante morto nelle [[Caverne Sotterranee di Kenabres]], dove delle larve lo stavano divorando dall'interno. Appartengono con ogni probabilità a [[Terendelev]], il drago d'argento protettore di Kenabres — ma come siano finite dentro quel ragno è ancora ignoto.
 
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Sessione 001
 session_number: 1
-date: 4713-08-16
+date_ingame: 4713-08-16
+date_played: 2026-03-26
 location: "[[Kenabres]]"
 party_level: 1
 tags:
@@ -81,9 +82,9 @@ Il risultato di quello scontro era scritto nel silenzio di centinaia di metri di
 
 La caverna aveva soffitti alti e pareti decorate — vestigia di un'epoca precedente. Kenabres era costruita sopra strati di storia: gallerie della prima crociata, famiglie di crociati mai tornate, un esilio scelto nel sottosuolo di cui si era persa la memoria.
 
-Dal fondo della caverna arrivò uno sguardo: un ragno nero, immobile, che osservava il gruppo in silenzio. Non attaccò. Sparì.
+Dal fondo della caverna arrivò uno sguardo: un ragno nero, enorme, immobile. [[Tamar Darkmane]], con un tiro di percezione, capì che la creatura era morta — e che qualcosa al suo interno la stava divorando dall'interno.
 
-[[Kaelen Vortanis|Kaelen]], con la sua consueta tendenza a non resistere alla curiosità, si avvicinò a qualcosa che aveva intravisto sotto la creatura. Le larve che stavano divorando i resti di un ragno gigante non apprezzarono l'interruzione e la colpirono — ma il bottino valse il colpo: **cinque scaglie di drago argento**, artefatti minori.
+[[Kaelen Vortanis|Kaelen]], con la sua consueta tendenza a non resistere alla curiosità, si avvicinò agli stessi resti. Le larve che stavano banchettando dentro la carcassa del ragno non apprezzarono l'interruzione e la colpirono — ma il bottino valse il colpo: **cinque scaglie di drago argento**, artefatti minori.
 
 La scaglia raccolta da Kaelen si rivelò capace di lanciare *Disguise Self* tre volte al giorno, con un bonus di +4 ai tiri di Inganno contro creature malvagie.
 
@@ -165,7 +166,6 @@ Il gruppo non esisteva prima di quel giorno. Ora esiste per necessità.
 ## Indizi e domande aperte
 
 - Dove sono Hulrun e gli altri cittadini?
-- Terendelev è morto/a?
 - Khorramzadeh è ancora in città?
 - Chi erano le famiglie che si rifugiarono nelle gallerie durante la prima crociata?
 
@@ -176,3 +176,31 @@ Il gruppo non esisteva prima di quel giorno. Ora esiste per necessità.
 - [ ] Trovare una via d'uscita dalle caverne
 - [ ] Capire in che condizioni è Kenabres
 - [ ] Portare in salvo Anevia e Aravashnial
+
+---
+
+## Riassunto per la sessione successiva
+
+> *Leggere qui prima di iniziare la prossima sessione.*
+
+### Dove siamo
+Nelle [[Caverne Sotterranee di Kenabres]], centinaia di metri sotto [[Kenabres]]. Il gruppo ha appena superato una strettoia dopo aver eliminato un gruppo di scarafaggi giganti e recuperato uno zaino su un'altura. Ha calato una corda e sta avanzando in profondità, senza sapere dove il percorso li conduca.
+
+### Con chi siamo
+- **Gruppo:** [[Caslek Makiya]], [[Agira]], [[Tamar Darkmane]], [[Vlamyra Ruzclaw]], [[Kaelen Vortanis]], [[Kaelen Vortanis|Spark]]
+- **Feriti / da assistere:** [[Anevia]] (gamba rotta, bendaggio improvvisato), [[Aravashnial]] (cieco, necessita guida)
+- **Scontroso ma presente:** [[Horgus]]
+
+### Cosa dobbiamo fare
+Trovare un percorso per risalire in superficie. Non si sa se esiste una via d'uscita, né cosa troveremo più avanti nelle gallerie.
+
+### Tensioni aperte
+- [[Kenabres]] è sotto attacco: [[Khorramzadeh]] ha distrutto la Mandorla e probabilmente la città è caduta o sta cadendo. Non sappiamo cosa troveremo in superficie.
+- [[Terendelev]] è morta — l'ultima protezione magica di Kenabres è venuta meno.
+- Nei resti di un ragno gigante morto c'erano larve che lo divoravano dall'interno — e da lì sono venute le scaglie. Cosa stava facendo quel ragno nelle caverne?
+- Le 4 [[Scaglia di Drago Argento|scaglie di drago argento]] non assegnate andrebbero identificate e distribuite.
+- Le 2 pozioni trovate nello zaino non sono state ancora identificate.
+
+### Non dimenticare
+- Caslek ha finto di essere ferito dopo la caduta — qualcuno nel gruppo potrebbe ricordarselo.
+- Le caverne hanno decorazioni sulle pareti: qualcuno ci viveva, probabilmente famiglie di crociati della prima crociata.

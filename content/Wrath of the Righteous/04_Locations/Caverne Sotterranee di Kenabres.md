@@ -40,7 +40,7 @@ Durante la prima crociata, molte famiglie di crociati scomparvero o scelsero un 
 ## Zone notevoli
 
 - **Sala del crollo** — dove il gruppo è atterrato dopo la caduta dalla [[Piazza di Clydwell]]
-- **Corpo del drago** — resti (parziali?) di [[Terendelev]], da cui si sono recuperate le scaglie magiche; presenti larve e creature
+- **Carcassa del ragno gigante** — ragno nero di grandi dimensioni trovato morto nel fondo della caverna; al suo interno larve che lo divoravano, da cui sono state recuperate le scaglie di drago argento
 - **Primo percorso (altura con scarafaggi)** — altura infestata da scarafaggi giganti, ora libera
 - **Secondo percorso (altura con zaino)** — dove è stato trovato lo zaino con le razioni e i materiali
 
@@ -53,7 +53,7 @@ Durante la prima crociata, molte famiglie di crociati scomparvero o scelsero un 
 | [[Anevia]] | Sopravvissuta, gamba rotta |
 | [[Aravashnial]] | Sopravvissuto, cieco |
 | [[Horgus]] | Sopravvissuto, scontroso |
-| Ragno nero | Creatura non identificata — osservava il gruppo in silenzio |
+| Ragno nero (morto) | Carcassa trovata nel fondo della caverna; qualcosa lo stava divorando dall'interno |
 
 ---
 
@@ -65,9 +65,9 @@ Le gallerie esistono almeno dalla prima crociata. Si vocifera che famiglie di cr
 
 ## Creature incontrate
 
-- Larve (vicino ai resti del drago)
+- Larve (dentro la carcassa del ragno gigante)
 - Scarafaggi giganti (primo percorso)
-- Ragno nero (non identificato, non ostile — per ora)
+- Ragno nero gigante (morto — causa morte sconosciuta)
 
 ---
 
