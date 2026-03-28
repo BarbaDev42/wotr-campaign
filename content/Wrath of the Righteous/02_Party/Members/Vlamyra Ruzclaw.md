@@ -1,11 +1,13 @@
 ---
 title: Vlamyra Ruzclaw
 race: Dragonide (Rossa)
-class: 
+class:
 level: 1
-player: 
+player: Nina
 type: character
-tags: [personaggio, gruppo]
+tags:
+  - personaggio
+  - gruppo
 description: Dragonide rossa armata fino ai denti, sempre un po' a disagio in mezzo alla folla.
 ---
 

@@ -1,12 +1,15 @@
 ---
-title: "Kaelen Vortanis (Spark)"
-aliases: [Spark]
-race: 
-class: 
+title: Kaelen Vortanis (Spark)
+aliases:
+  - Spark
+race: Tiefling
+class:
 level: 1
-player: 
+player: Blue
 type: character
-tags: [personaggio, gruppo]
+tags:
+  - personaggio
+  - gruppo
 description: Pratica, curiosa fino all'imprudenza, capace di rattoppare sia ferite che situazioni.
 ---
 

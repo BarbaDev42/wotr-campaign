@@ -1,11 +1,13 @@
 ---
 title: Agira
 race: Mezzelfo
-class: 
+class:
 level: 1
-player: 
+player: Luca
 type: character
-tags: [personaggio, gruppo]
+tags:
+  - personaggio
+  - gruppo
 description: Giovane mezzelfo dal sorriso perenne e dagli occhi stellati.
 ---
 

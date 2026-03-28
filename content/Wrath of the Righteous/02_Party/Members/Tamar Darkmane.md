@@ -1,11 +1,13 @@
 ---
 title: Tamar Darkmane
 race: Umano
-class: 
+class:
 level: 1
-player: 
+player: Piro
 type: character
-tags: [personaggio, gruppo]
+tags:
+  - personaggio
+  - gruppo
 description: Soldato devoto a Sarenrae, burbero ma affidabile quando conta.
 ---
 

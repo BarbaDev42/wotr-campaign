@@ -3,7 +3,7 @@ title: Caslek Makiya
 race: Tabaxi
 class:
 level: 1
-player:
+player: Anti
 type: character
 tags:
   - personaggio
