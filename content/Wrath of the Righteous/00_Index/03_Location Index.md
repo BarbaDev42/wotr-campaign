@@ -6,8 +6,14 @@ tags: [index, luoghi]
 
 # Indice Luoghi
 
-```dataview
-TABLE region AS "Regione", type AS "Tipo", first_visited AS "Prima visita"
-FROM "Wrath of the Righteous/04_Locations"
-SORT file.name ASC
-```
+<!-- QueryToSerialize: TABLE region AS "Regione", type AS "Tipo", first_visited AS "Prima visita" FROM "Wrath of the Righteous/04_Locations" SORT file.name ASC -->
+<!-- SerializedQuery: TABLE region AS "Regione", type AS "Tipo", first_visited AS "Prima visita" FROM "Wrath of the Righteous/04_Locations" SORT file.name ASC -->
+
+| File                                                                                                        | Regione                                                                                                     | Tipo                           | Prima visita                                                         |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------- |
+| [[Caverne Sotterranee di Kenabres]] | [[Caverne Sotterranee di Kenabres]] | Dungeon / Gallerie storiche    | [[Sessione 001]] |
+| [[Kenabres]]                                               | [[Mendev]]                                                        | Città                          | [[Sessione 001]] |
+| [[La Mandorla]]                                         | [[Kenabres]]                                               | Fortezza / Struttura difensiva | \-                                                                   |
+| [[Piazza di Clydwell]]                           | [[Kenabres]]                                               | Piazza pubblica                | [[Sessione 001]] |
+
+<!-- SerializedQuery END -->

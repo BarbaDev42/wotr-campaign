@@ -1,10 +1,13 @@
 ---
 title: Kenabres
-region: Mendev
+region: "[[Mendev]]"
 type: Città
 status: Sotto attacco / Parzialmente distrutta
-first_visited: Sessione 001
-tags: [luogo, città, mendev]
+first_visited: "[[Sessione 001]]"
+tags:
+  - luogo
+  - città
+  - mendev
 description: Città di frontiera del Mendev, porta della resistenza contro la Piaga del Mondo. Attaccata il 16 agosto 4713.
 ---
 

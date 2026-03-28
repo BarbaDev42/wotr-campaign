@@ -8,33 +8,44 @@ tags: [index, dashboard]
 
 ## Il Gruppo
 
-```dataview
-TABLE race AS "Razza", class AS "Classe", level AS "Livello", player AS "Giocatore"
-FROM "Wrath of the Righteous/02_Party/Members"
-SORT file.name ASC
-```
+<!-- QueryToSerialize: TABLE race AS "Razza", class AS "Classe", level AS "Livello", player AS "Giocatore" FROM "Wrath of the Righteous/02_Party/Members" SORT file.name ASC -->
+<!-- SerializedQuery: TABLE race AS "Razza", class AS "Classe", level AS "Livello", player AS "Giocatore" FROM "Wrath of the Righteous/02_Party/Members" SORT file.name ASC -->
+
+| File                                                                            | Razza             | Classe | Livello | Giocatore |
+| ------------------------------------------------------------------------------- | ----------------- | ------ | ------- | --------- |
+| [[Agira]]                     | Mezzelfo          | \-     | 1       | Luca      |
+| [[Caslek Makiya]]     | Tabaxi            | \-     | 1       | Anti      |
+| [[Kaelen Vortanis]] | Tiefling          | \-     | 1       | Blue      |
+| [[Tamar Darkmane]]   | Umano             | \-     | 1       | Piro      |
+| [[Vlamyra Ruzclaw]] | Dragonide (Rossa) | \-     | 1       | Nina      |
+
+<!-- SerializedQuery END -->
 
 ---
 
 ## Missioni Attive
 
-```dataview
-TABLE status AS "Stato", giver AS "Committente", location AS "Luogo"
-FROM "Wrath of the Righteous/05_Quests"
-WHERE status = "Attiva"
-SORT file.name ASC
-```
+<!-- QueryToSerialize: TABLE status AS "Stato", giver AS "Committente", location AS "Luogo" FROM "Wrath of the Righteous/05_Quests" WHERE status = "Attiva" SORT file.name ASC -->
+<!-- SerializedQuery: TABLE status AS "Stato", giver AS "Committente", location AS "Luogo" FROM "Wrath of the Righteous/05_Quests" WHERE status = "Attiva" SORT file.name ASC -->
+
+| File                                                     | Stato  | Committente | Luogo |
+| -------------------------------------------------------- | ------ | ----------- | ----- |
+| [[Quest 1]] | Attiva | \-          | \-    |
+
+<!-- SerializedQuery END -->
 
 ---
 
 ## Sessioni Recenti
 
-```dataview
-TABLE date AS "Data", location AS "Luogo"
-FROM "Wrath of the Righteous/01_Sessions"
-SORT date DESC
-LIMIT 5
-```
+<!-- QueryToSerialize: TABLE date AS "Data", location AS "Luogo" FROM "Wrath of the Righteous/01_Sessions" SORT date DESC LIMIT 5 -->
+<!-- SerializedQuery: TABLE date AS "Data", location AS "Luogo" FROM "Wrath of the Righteous/01_Sessions" SORT date DESC LIMIT 5 -->
+
+| File                                                                 | Data            | Luogo                                                         |
+| -------------------------------------------------------------------- | --------------- | ------------------------------------------------------------- |
+| [[Sessione 001]] | August 16, 4713 | [[Kenabres]] |
+
+<!-- SerializedQuery END -->
 
 ---
 

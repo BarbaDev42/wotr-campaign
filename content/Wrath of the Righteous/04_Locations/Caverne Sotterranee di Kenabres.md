@@ -1,10 +1,14 @@
 ---
 title: Caverne Sotterranee di Kenabres
-region: Kenabres (sottosuolo)
+region: "[[Caverne Sotterranee di Kenabres]]"
 type: Dungeon / Gallerie storiche
 status: Pericoloso — esplorazione in corso
-first_visited: Sessione 001
-tags: [luogo, caverna, kenabres, sottosuolo]
+first_visited: "[[Sessione 001]]"
+tags:
+  - luogo
+  - caverna
+  - kenabres
+  - sottosuolo
 description: Rete di gallerie e caverne centinaia di metri sotto Kenabres. Reliquie della prima crociata, creature ostili, e segreti dimenticati.
 ---
 

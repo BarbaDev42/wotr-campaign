@@ -1,10 +1,13 @@
 ---
 title: La Mandorla
-region: Kenabres
+region: "[[Kenabres]]"
 type: Fortezza / Struttura difensiva
 status: Distrutta
-first_visited: 
-tags: [luogo, kenabres, distrutto]
+first_visited:
+tags:
+  - luogo
+  - kenabres
+  - distrutto
 description: Fortezza a ovest di Kenabres che custodiva la pietra di guardia. Distrutta nell'attacco del 16 agosto 4713.
 ---
 

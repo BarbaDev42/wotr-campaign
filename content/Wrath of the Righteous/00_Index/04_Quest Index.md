@@ -8,27 +8,31 @@ tags: [index, missioni]
 
 ## Attive
 
-```dataview
-TABLE giver AS "Committente", location AS "Luogo", session_started AS "Iniziata"
-FROM "Wrath of the Righteous/05_Quests"
-WHERE status = "Attiva"
-SORT file.name ASC
-```
+<!-- QueryToSerialize: TABLE giver AS "Committente", location AS "Luogo", session_started AS "Iniziata" FROM "Wrath of the Righteous/05_Quests" WHERE status = "Attiva" SORT file.name ASC -->
+<!-- SerializedQuery: TABLE giver AS "Committente", location AS "Luogo", session_started AS "Iniziata" FROM "Wrath of the Righteous/05_Quests" WHERE status = "Attiva" SORT file.name ASC -->
+
+| File                                                     | Committente | Luogo | Iniziata |
+| -------------------------------------------------------- | ----------- | ----- | -------- |
+| [[Quest 1]] | \-          | \-    | \-       |
+
+<!-- SerializedQuery END -->
 
 ## Completate
 
-```dataview
-TABLE giver AS "Committente", session_completed AS "Completata"
-FROM "Wrath of the Righteous/05_Quests"
-WHERE status = "Completata"
-SORT file.name ASC
-```
+<!-- QueryToSerialize: TABLE giver AS "Committente", session_completed AS "Completata" FROM "Wrath of the Righteous/05_Quests" WHERE status = "Completata" SORT file.name ASC -->
+<!-- SerializedQuery: TABLE giver AS "Committente", session_completed AS "Completata" FROM "Wrath of the Righteous/05_Quests" WHERE status = "Completata" SORT file.name ASC -->
+
+| File | Committente | Completata |
+| ---- | ----------- | ---------- |
+
+<!-- SerializedQuery END -->
 
 ## Fallite / Abbandonate
 
-```dataview
-TABLE giver AS "Committente"
-FROM "Wrath of the Righteous/05_Quests"
-WHERE status = "Fallita" OR status = "Abbandonata"
-SORT file.name ASC
-```
+<!-- QueryToSerialize: TABLE giver AS "Committente" FROM "Wrath of the Righteous/05_Quests" WHERE status = "Fallita" OR status = "Abbandonata" SORT file.name ASC -->
+<!-- SerializedQuery: TABLE giver AS "Committente" FROM "Wrath of the Righteous/05_Quests" WHERE status = "Fallita" OR status = "Abbandonata" SORT file.name ASC -->
+
+| File | Committente |
+| ---- | ----------- |
+
+<!-- SerializedQuery END -->

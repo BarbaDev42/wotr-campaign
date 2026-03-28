@@ -1,10 +1,12 @@
 ---
 title: Piazza di Clydwell
-region: Kenabres
+region: "[[Kenabres]]"
 type: Piazza pubblica
 status: Distrutta / Crollata
-first_visited: Sessione 001
-tags: [luogo, kenabres]
+first_visited: "[[Sessione 001]]"
+tags:
+  - luogo
+  - kenabres
 description: Il cuore dell'anello centrale di Kenabres. Luogo del festival e del crollo.
 ---
 
