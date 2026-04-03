@@ -42,6 +42,9 @@ Elfo di aspetto studioso, arcanista di professione. Lavora (lavorava?) alla bibl
 - Sopravvissuto alla caduta nelle caverne.
 - Ha perso la vista nell'impatto — cecità presumibilmente permanente senza cure magiche adeguate.
 - Fa parte del gruppo dei sopravvissuti.
+- Elfo di età avanzata — ha sentito leggende della prima crociata molti anni fa.
+- Conosce la storia dei crociati che si rifugiarono nel sottosuolo dopo l'infezione abissale.
+- Man mano che avanza nelle caverne, la sua inquietudine per la cecità aumenta.
 
 ---
 
@@ -57,9 +60,12 @@ Elfo di aspetto studioso, arcanista di professione. Lavora (lavorava?) alla bibl
 | Sessione | Cosa è successo |
 |----------|----------------|
 | [[Sessione 001]] | Trovato cieco tra i sopravvissuti della caduta; viene guidato dal gruppo |
+| [[Sessione 002]] | Crescente inquietudine per la cecità; ha riconosciuto le incisioni come opera dei crociati della prima crociata; ha raccontato la leggenda del plotone infettato e rifugiatosi sottoterra; vuole toccare le pareti per "leggere" la storia |
 
 ---
 
 ## Speculazioni
 
-- Cosa sa sulla storia delle caverne sottostanti Kenabres? La sua conoscenza della biblioteca potrebbe rivelarsi preziosa.
+- La sua conoscenza delle caverne si è rivelata preziosa: conosce la leggenda dei [[Discendenti della Prima Crociata]].
+- Quanto altro sa sulla storia di Kenabres e del Mendev che potrebbe tornare utile?
+- Cosa succederebbe se recuperasse la vista — potrebbe continuare a ricercare le creature mutate?

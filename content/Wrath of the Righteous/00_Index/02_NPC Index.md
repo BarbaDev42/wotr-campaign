@@ -11,11 +11,11 @@ tags: [index, png]
 
 | File                                                                 | Fazione                                 | Luogo    | Stato                               | Prima apparizione |
 | -------------------------------------------------------------------- | --------------------------------------- | -------- | ----------------------------------- | ----------------- |
-| [[Anevia]]                 | Esercito del Mendev                     | Kenabres | Viva (ferita)                       | Sessione 001      |
+| [[Anevia Tirabade]]        | Esercito del Mendev                     | Kenabres | Viva (ferita)                       | Sessione 001      |
 | [[Aravashnial]]       | Biblioteca di Kenabres                  | Kenabres | Vivo (cieco)                        | Sessione 001      |
 | [[Horgus]]                 | \-                                      | Kenabres | Vivo                                | Sessione 001      |
 | [[Hulrun Shappok]] | Mendev / Chiesa di Iomedae              | Kenabres | Sconosciuto                         | Sessione 001      |
-| [[Irabeth]]               | Esercito del Mendev / Chiesa di Iomedae | Kenabres | Viva                                | Sessione 001      |
+| [[Irabeth Tirabade]]      | Esercito del Mendev / Chiesa di Iomedae | Kenabres | Viva                                | Sessione 001      |
 | [[Khorramzadeh]]     | Piaga del Mondo / Demoni                | Kenabres | Sconosciuto                         | Sessione 001      |
 | [[Terendelev]]         | Protettori di Kenabres                  | Kenabres | Sconosciuto (probabilmente morto/a) | Sessione 001      |
 

@@ -51,7 +51,7 @@ Ha anche un lato che la mette regolarmente nei guai: la curiosità. Vedere qualc
 | [[Agira]]           | Compagno di gruppo                          |
 | [[Vlamyra Ruzclaw]] | Compagna di gruppo                          |
 | [[Tamar Darkmane]]  | Compagno di gruppo                          |
-| [[Anevia]]          | Le ha fasciato la gamba rotta nella caverna |
+| [[Anevia Tirabade|Anevia]]          | Le ha fasciato la gamba rotta nella caverna |
 
 ---
 

@@ -1,5 +1,6 @@
 ---
-title: Irabeth
+title: Irabeth Tirabade
+aliases: [Irabeth]
 faction: Esercito del Mendev / Chiesa di Iomedae
 location: Kenabres
 status: Viva
@@ -7,10 +8,10 @@ first_seen: Sessione 001
 attitude: Amichevole
 type: png
 tags: [png]
-description: Paladina mezza orco di Iomedae, compagna di Anevia. Affidabile, con una spada stranamente ordinaria.
+description: Paladina mezza orco di Iomedae, moglie di Anevia Tirabade. Affidabile, con una spada stranamente ordinaria.
 ---
 
-# Irabeth
+# Irabeth Tirabade
 
 ![[npc_irabeth.png]]
 
@@ -32,15 +33,16 @@ description: Paladina mezza orco di Iomedae, compagna di Anevia. Affidabile, con
 
 ## Descrizione
 
-Mezza orco, paladina di Iomedae. Presenza solida, sguardo diretto. Porta una spada che per una seguace della Dama della Spada appare stranamente ordinaria — il che non è passato inosservato. La sua compagna è [[Anevia]], ranger, con cui forma una coppia ben roduta.
+Mezza orco, paladina di Iomedae. Presenza solida, sguardo diretto. Porta una spada che per una seguace della Dama della Spada appare stranamente ordinaria — il che non è passato inosservato. È sposata con [[Anevia Tirabade]], ranger, con cui formava una coppia ben rodata al festival.
 
 ---
 
 ## Quello che sappiamo
 
-- Era al festival con Anevia.
-- È paladina di Iomedae, ma la sua spada è di foggia insolitamente semplice.
+- Era al festival con sua moglie [[Anevia Tirabade]].
+- È paladina di Iomedae, ma la sua spada è di foggia insolitamente semplice — comune, non magica né decorata.
 - Sembra integrata nella vita di Kenabres, non una visitatrice di passaggio.
+- [[Anevia Tirabade|Anevia]] ha chiesto del suo destino mentre era nel tempio di Torag — la sua sorte è sconosciuta.
 
 ---
 

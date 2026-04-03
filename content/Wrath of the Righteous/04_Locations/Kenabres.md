@@ -53,7 +53,7 @@ Kenabres è costruita sopra strati di storia: sotto le fondamenta corrono galler
 | [[Hulrun Shappok]] | Prelato, seconda autorità del Mendev |
 | [[Terendelev]] | Drago protettore |
 | [[Irabeth]] | Paladina di Iomedae |
-| [[Anevia]] | Ranger |
+| [[Anevia Tirabade|Anevia]] | Ranger |
 | [[Aravashnial]] | Studioso arcanista, biblioteca |
 
 ---

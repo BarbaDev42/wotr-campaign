@@ -14,6 +14,7 @@ tags: [index, luoghi]
 | [[Caverne Sotterranee di Kenabres]] | [[Caverne Sotterranee di Kenabres]] | Dungeon / Gallerie storiche    | [[Sessione 001]] |
 | [[Kenabres]]                                               | [[Mendev]]                                                        | Città                          | [[Sessione 001]] |
 | [[La Mandorla]]                                         | [[Kenabres]]                                               | Fortezza / Struttura difensiva | \-                                                                   |
+| [[Tempio di Torag (Caverne)]]                           | [[Caverne Sotterranee di Kenabres]]                        | Tempio / Bunker                | [[Sessione 002]] |
 | [[Piazza di Clydwell]]                           | [[Kenabres]]                                               | Piazza pubblica                | [[Sessione 001]] |
 
 <!-- SerializedQuery END -->

@@ -13,7 +13,7 @@ tags: [index, missioni]
 
 | File                                                     | Committente | Luogo | Iniziata |
 | -------------------------------------------------------- | ----------- | ----- | -------- |
-| [[Quest 1]] | \-          | \-    | \-       |
+| [[Risalire in Superficie]] | \-          | [[Caverne Sotterranee di Kenabres]] | [[Sessione 001]] |
 
 <!-- SerializedQuery END -->
 

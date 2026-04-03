@@ -32,16 +32,19 @@ description: Il Re della Tempesta. Demone signore che ha attaccato Kenabres e co
 
 ## Descrizione
 
-Khorramzadeh è conosciuto come il Re della Tempesta. È uno dei grandi demoni signori legati alla Piaga del Mondo. La sua apparizione sopra Kenabres il 16 agosto 4713 non era un raid — era un attacco deliberato al cuore della resistenza del Mendev.
+Khorramzadeh è conosciuto come il Re della Tempesta. È un **Balor** — una delle creature demoniache più potenti — legato alla Piaga del Mondo. La sua apparizione sopra Kenabres il 16 agosto 4713 non era un raid — era un attacco deliberato al cuore della resistenza del Mendev. Nella visione: corna, fulmini, fiamme, fruste.
 
 ---
 
 ## Quello che sappiamo
 
 - Titolo: Re della Tempesta.
-- Uno dei signori demoni della Piaga del Mondo.
+- Tipo: **Balor** — demone di altissima potenza.
 - Ha attaccato Kenabres il 16 agosto 4713, combattendo [[Terendelev]] nel cielo sopra la [[Piazza di Clydwell]].
-- La caduta della piazza e delle caverne sottostanti sembra legata al suo attacco.
+- Nel suo attacco, [[La Mandorla]] è esplosa e la **Pietra Guardiana** — conservata lì — è scomparsa.
+- Ha combattuto e ucciso [[Terendelev]], abbattendola con la sua spada mentre la luce del mondo scompariva.
+- Sia lui che Terendelev sono caduti nel terreno durante lo scontro.
+- Un suo demone è emerso dalla cattedrale creando una strage.
 
 ---
 

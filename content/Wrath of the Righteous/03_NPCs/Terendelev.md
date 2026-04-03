@@ -38,9 +38,11 @@ Drago d'argento. Custode e protettrice di Kenabres da tempo immemorabile. La sua
 
 ## Quello che sappiamo
 
-- Drago d'argento, protettrice di Kenabres.
-- Il 16 agosto 4713 ha combattuto nel cielo sopra la piazza contro [[Khorramzadeh]], il Re della Tempesta.
-- L'esito dello scontro non è noto — ma la città è caduta.
+- Drago **anziano** d'argento, protettrice di Kenabres.
+- Il 16 agosto 4713 ha combattuto nel cielo sopra la piazza contro [[Khorramzadeh]], il Re della Tempesta (un Balor).
+- Nel suo **ultimo atto ha rallentato la caduta del gruppo** nelle caverne, salvando loro la vita.
+- È caduta in combattimento — la spada di Khorramzadeh l'ha abbattuta mentre la luce scompariva.
+- Sia lei che Khorramzadeh sono precipitati nel sottosuolo durante lo scontro.
 - Il corpo (o parte di esso) sembra trovarsi nelle caverne sotterranee: da esso si sono recuperate cinque [[Scaglia di Drago Argento|scaglie di drago argento]] con proprietà magiche.
 
 ---

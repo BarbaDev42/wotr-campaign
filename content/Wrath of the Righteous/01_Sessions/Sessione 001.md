@@ -30,21 +30,21 @@ Poco importava, quel giorno. Kenabres ballava.
 
 La [[Piazza di Clydwell]], cuore dell'anello centrale della città, era gremita di gente. Ad ovest incombeva la [[Piaga del Mondo]], ferita aperta nel ventre del mondo; ad est svettava una basilica dedicata a [[Iomedae]]. In mezzo, tra bancarelle, duelli simulati e risate di bambini, il festival prendeva forma.
 
-Fu lì che [[Caslek Makiya]] — tabaxi dalla pelliccia dorata screziata di nero, occhi castani, fisico snello avvolto in abiti semplici e un'armatura di cuoio — incrociò per caso [[Agira]], un giovane mezzelfo dai capelli bianchi e dagli occhi blu scuro percorsi da pattern di stelle, con un sorriso che sembrava incollato sul viso. Si scontrarono, si scusarono, e come spesso accade tra sconosciuti in un giorno di festa, cominciarono a parlare.
+[[Caslek Makiya]] — tabaxi dalla pelliccia dorata screziata di nero, occhi castani, fisico snello avvolto in abiti semplici e un'armatura di cuoio — girava per la piazza in cerca di prede. Quando intravide [[Horgus]] tra la folla cercò di evitarlo, ma inciampò in [[Agira]], un giovane mezzelfo dai capelli bianchi e dagli occhi blu scuro percorsi da pattern di stelle, con un sorriso che sembrava incollato sul viso. Finirono per decidere di andare a mangiare insieme.
 
-Si lasciarono trascinare verso una bancarella gestita da soldati, attratti dall'odore del cibo caldo. Dietro il bancone c'era [[Tamar Darkmane]]: capelli rossi, occhi azzurri, sguardo burbero come quello di chi ha visto troppo per stupirsi ancora di qualcosa. Portava vesti comode sotto un'armatura a scaglie, e al collo un simbolo di [[Sarenrae]] che non stava lì per caso.
+Si lasciarono trascinare verso una bancarella dedicata a soldati e uomini d'arme. Dietro il bancone c'era [[Tamar Darkmane]]: capelli rossi, occhi azzurri, sguardo burbero come quello di chi ha visto troppo per stupirsi ancora di qualcosa. Portava vesti comode sotto un'armatura a scaglie, e al collo un simbolo di [[Sarenrae]] che non stava lì per caso.
 
-A un tavolo vicino sedeva [[Vlamyra Ruzclaw]], una dragonide dalla pelle color rubino, che osservava la folla con un'espressione di chi preferirebbe essere altrove. Indossava un'armatura completa e teneva due spade a portata di mano — la postura di qualcuno che non si fida mai del tutto della pace.
+In un angolo sedeva [[Vlamyra Ruzclaw]], una dragonide dalla pelle color rubino, che osservava la folla con un'espressione di chi preferirebbe essere altrove. Indossava un'armatura completa e teneva due spade a portata di mano — la postura di qualcuno che non si fida mai del tutto della pace.
 
-Poco dopo arrivò anche [[Kaelen Vortanis]], reduce da un turno di riparazioni, che si sistemò alla bancarella con l'aria pratica di chi sa dove si mangia bene senza fare troppe storie.
+Dall'altra parte della bancarella c'era anche [[Kaelen Vortanis]], reduce da un turno di riparazioni, che si era sistemata con l'aria pratica di chi sa dove si mangia bene senza fare troppe storie.
 
 ---
 
 ### Volti noti nella folla
 
-Tra la gente, qualcuno riconobbe una coppia che si distingueva dal resto: [[Irabeth]], mezza orco paladina di Iomedae — con, stranamente, una spada dall'aspetto fin troppo ordinario per una seguace della Dama della Spada — e accanto a lei [[Anevia]], una ranger dall'aspetto agile e attento. Le due sembravano a proprio agio, integrate nella celebrazione, ma con quella consapevolezza silenziosa di chi non abbassa mai del tutto la guardia.
+[[Tamar Darkmane|Tamar]] riconobbe una paladina della chiesa di Iomedae seduta a un tavolo vicino; [[Agira]] e [[Kaelen Vortanis|Kaelen]] andarono oltre, riconoscendo la coppia: [[Irabeth Tirabade]], mezza orco paladina di Iomedae, e sua moglie [[Anevia Tirabade]], ranger. [[Kaelen Vortanis|Kaelen]] notò che [[Irabeth Tirabade|Irabeth]] portava un'arma comune — non magica, non decorata, fin troppo ordinaria per una seguace della Dama della Spada.
 
-Poco distante c'era anche [[Aravashnial]], un elfo studioso che lavorava alla biblioteca della città. Arcanista di professione, osservava il festival con l'occhio di chi studia i fenomeni più che viverli.
+Poco distante c'era anche [[Aravashnial]], un elfo studioso che lavorava alla biblioteca della città. [[Agira]] lo notò: arcanista di professione, osservava il festival con l'occhio di chi studia i fenomeni più che viverli.
 
 ---
 
@@ -60,7 +60,7 @@ Quando i sensi tornarono, il gruppo si ritrovò in una caverna sotterranea, cent
 
 [[Tamar Darkmane]] fu il primo a reagire: accese una luce, rompendo il buio abbastanza da permettere a tutti di capire dove si trovavano. Nessuno aveva subito danni gravi — una fortuna quasi sospetta.
 
-Non tutti erano stati così fortunati. [[Aravashnial]] era tra i sopravvissuti, ma la caduta lo aveva privato della vista: cieco, disorientato, ma vivo. [[Anevia]] era intrappolata sotto un masso con una gamba rotta; [[Vlamyra Ruzclaw]] e [[Kaelen Vortanis|Spark]] la liberarono, e quest'ultima improvvisò un bendaggio di fortuna. [[Tamar Darkmane]] nel frattempo aiutava un'altra figura a rialzarsi — un certo [[Horgus]], che sembrava incline a lamentarsi più che a ringraziare.
+Non tutti erano stati così fortunati. [[Aravashnial]] era tra i sopravvissuti, ma la caduta lo aveva privato della vista: cieco, disorientato, ma vivo. [[Anevia Tirabade|Anevia]] era intrappolata sotto un masso con una gamba rotta; [[Vlamyra Ruzclaw]] e [[Kaelen Vortanis|Spark]] la liberarono, e quest'ultima improvvisò un bendaggio di fortuna. [[Tamar Darkmane]] nel frattempo aiutava un'altra figura a rialzarsi — un certo [[Horgus]], che sembrava incline a lamentarsi più che a ringraziare.
 
 [[Caslek Makiya|Caslek]], nel caos, trovò il tempo per recitare la parte del ferito.
 
@@ -70,11 +70,11 @@ Non tutti erano stati così fortunati. [[Aravashnial]] era tra i sopravvissuti, 
 
 Nei momenti di confusione, mentre il gruppo raccoglieva i cocci della propria lucidità, emersero frammenti di memoria — o forse visioni.
 
-[[Terendelev]], drago d'argento, custode di Kenabres, aveva combattuto nel cielo sopra la piazza.
+All'inizio della festività una luce aveva brillato a ovest. Un istante dopo: un'esplosione. [[La Mandorla]], la roccaforte dove era conservata la **Pietra Guardiana**, era esplosa. La pietra era scomparsa.
 
-Contro di lei: [[Khorramzadeh]], il Re della Tempesta, uno dei grandi demoni signori della Piaga del Mondo.
+[[Terendelev]], drago anziano d'argento, protettrice della città, era scesa in campo nel cielo sopra la piazza. Contro di lei: [[Khorramzadeh]], il Re della Tempesta — un **Balor**, con corna, fulmini, fiamme, fruste. Mentre il terreno veniva invaso dai demoni, un altro demone era emerso dalla cattedrale, creando una strage.
 
-Il risultato di quello scontro era scritto nel silenzio di centinaia di metri di roccia sopra le loro teste.
+Terendelev e Khorramzadeh erano precipitati insieme nel sottosuolo. Nel suo ultimo atto, Terendelev aveva **rallentato la caduta del gruppo** verso le tenebre. La luce del mondo era scomparsa mentre la spada di Khorramzadeh calava su di lei.
 
 ---
 
@@ -84,13 +84,13 @@ La caverna aveva soffitti alti e pareti decorate — vestigia di un'epoca preced
 
 Dal fondo della caverna arrivò uno sguardo: un ragno nero, enorme, immobile. [[Tamar Darkmane]], con un tiro di percezione, capì che la creatura era morta — e che qualcosa al suo interno la stava divorando dall'interno.
 
-[[Kaelen Vortanis|Kaelen]], con la sua consueta tendenza a non resistere alla curiosità, si avvicinò agli stessi resti. Le larve che stavano banchettando dentro la carcassa del ragno non apprezzarono l'interruzione e la colpirono — ma il bottino valse il colpo: **cinque scaglie di drago argento**, artefatti minori.
+[[Kaelen Vortanis|Kaelen]] notò un riflesso metallico conficcato nel corpo del ragno e si avvicinò per prenderlo. Le larve che stavano banchettando dentro la carcassa non apprezzarono l'interruzione e uscirono — furono bruciate via. Il bottino valse il colpo: **cinque scaglie di drago argento**, artefatti minori.
 
 La scaglia raccolta da Kaelen si rivelò capace di lanciare *Disguise Self* tre volte al giorno, con un bonus di +4 ai tiri di Inganno contro creature malvagie.
 
 Il gruppo si mosse verso una strettoia. [[Caslek Makiya|Caslek]] andò avanti, trovò un'altura, trovò scarafaggi giganti — e tornò indietro di corsa con gli insetti alle calcagna. Combattimento, caos, vittoria.
 
-Il percorso alternativo fu più generoso: sulla seconda altura, [[Caslek Makiya|Caslek]] — con l'aiuto di [[Vlamyra Ruzclaw]] — trovò uno zaino in condizioni perfette. Dentro: razioni da viaggio per dieci giorni, un acciarino con pietra focaia, triboli, due fiaschette d'olio, dodici frecce, due pozioni. Calò una corda per gli altri.
+Il percorso alternativo fu più generoso: sulla seconda altura, [[Caslek Makiya|Caslek]] e [[Vlamyra Ruzclaw]] raggiunsero l'alto con una corda e trovarono lo zaino di un crociato caduto prima che la fessura nel terreno si chiudesse. Dentro: razioni da viaggio per dieci giorni, un acciarino con pietra focaia, triboli, due fiaschette d'olio, dodici frecce, due pozioni. Calò una corda per gli altri.
 
 Il gruppo scese. Avanzò. Non sapeva ancora dove stava andando, ma sapeva che non c'era modo di tornare indietro.
 
@@ -123,7 +123,7 @@ Il gruppo non esisteva prima di quel giorno. Ora esiste per necessità.
 |-----|-------------|-------------|
 | [[Hulrun Shappok]] | Sì | Autorevole, complesso, assente dopo la caduta |
 | [[Irabeth]] | Sì | Affidabile, paladina con una spada strana |
-| [[Anevia]] | Sì | Competente, ferita, grata |
+| [[Anevia Tirabade|Anevia]] | Sì | Competente, ferita, grata |
 | [[Aravashnial]] | Sì | Studioso, ora cieco, vulnerabile |
 | [[Horgus]] | Sì | Sopravvissuto, carattere scontroso |
 | [[Terendelev]] | Sì (visione) | Drago protettore, destino incerto |
@@ -188,7 +188,7 @@ Nelle [[Caverne Sotterranee di Kenabres]], centinaia di metri sotto [[Kenabres]]
 
 ### Con chi siamo
 - **Gruppo:** [[Caslek Makiya]], [[Agira]], [[Tamar Darkmane]], [[Vlamyra Ruzclaw]], [[Kaelen Vortanis]], [[Kaelen Vortanis|Spark]]
-- **Feriti / da assistere:** [[Anevia]] (gamba rotta, bendaggio improvvisato), [[Aravashnial]] (cieco, necessita guida)
+- **Feriti / da assistere:** [[Anevia Tirabade|Anevia]] (gamba rotta, bendaggio improvvisato), [[Aravashnial]] (cieco, necessita guida)
 - **Scontroso ma presente:** [[Horgus]]
 
 ### Cosa dobbiamo fare

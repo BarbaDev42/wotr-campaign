@@ -12,5 +12,6 @@ tags: [index, sessioni]
 | File                                                                 | Data in-game    | Giocata il     | Luogo                                                         | Livello |
 | -------------------------------------------------------------------- | --------------- | -------------- | ------------------------------------------------------------- | ------- |
 | [[Sessione 001]] | August 16, 4713 | March 26, 2026 | [[Kenabres]] | 1       |
+| [[Sessione 002]] | August 16, 4713 | April 3, 2026 | [[Caverne Sotterranee di Kenabres]] | 1       |
 
 <!-- SerializedQuery END -->

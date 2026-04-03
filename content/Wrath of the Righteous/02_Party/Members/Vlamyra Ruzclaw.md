@@ -50,7 +50,7 @@ Non è difficile da capire — ma non è nemmeno facile da avvicinare. Eppure, q
 | [[Agira]] | Compagno di gruppo |
 | [[Kaelen Vortanis]] | Compagna di gruppo |
 | [[Tamar Darkmane]] | Compagno di gruppo |
-| [[Anevia]] | L'ha aiutata a liberarsi dai massi insieme a [[Kaelen Vortanis|Spark]] |
+| [[Anevia Tirabade|Anevia]] | L'ha aiutata a liberarsi dai massi insieme a [[Kaelen Vortanis|Spark]] |
 
 ---
 

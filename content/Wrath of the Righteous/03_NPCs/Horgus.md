@@ -40,6 +40,11 @@ Un sopravvissuto della caduta. [[Tamar Darkmane|Tamar]] lo ha aiutato ad alzarsi
 - Sopravvissuto alla caduta nelle caverne.
 - Aiutato da [[Tamar Darkmane|Tamar]] a rialzarsi.
 - Fa parte del gruppo dei sopravvissuti.
+- Si descrive come "un vero crociato", discendente di una lunga dinastia di crociati di Kenabres.
+- **Nasconde qualcosa riguardo alla propria fede** — [[Anevia Tirabade|Anevia]] lo sa e glielo ha detto in faccia.
+- Ha suggerito di abbandonare Anevia perché "ci fa rallentare" — ne è uscito senza figuraccia solo grazie all'intervento di Vlamyra.
+- È distratto dalle incisioni antiche sulle pareti delle caverne, le tocca di nascosto e poi si affretta quando la luce si allontana.
+- Ha accettato di tenere una torcia in mano dopo che Vlamyra lo ha convinto con un tiro di persuasione molto alto.
 
 ---
 
@@ -54,6 +59,7 @@ Un sopravvissuto della caduta. [[Tamar Darkmane|Tamar]] lo ha aiutato ad alzarsi
 | Sessione         | Cosa è successo                                                                 |
 | ---------------- | ------------------------------------------------------------------------------- |
 | [[Sessione 001]] | Trovato tra i sopravvissuti; [[Tamar Darkmane\|Tamar]] lo ha aiutato ad alzarsi |
+| [[Sessione 002]] | Ha proposto di abbandonare Anevia; litigato con lei sulla fede nascosta; **è stato il primo a notare le figure scolpite** sulle pareti del corridoio più profondo; ha accettato controvoglia di tenere la torcia |
 
 ---
 
