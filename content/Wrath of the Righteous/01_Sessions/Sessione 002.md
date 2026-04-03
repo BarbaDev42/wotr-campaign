@@ -28,7 +28,7 @@ Un serpente — di quelli grandi, senza rancore personale — aveva sbarrato il 
 
 [[Caslek Makiya]] si era fatto chiamare *Candrek* — da notare. [[Kaelen Vortanis|Kaelen]] aveva subito precisato che la chiamassero Spark. [[Vlamyra Ruzclaw|Vlamyra]] e [[Agira]] si erano presentati col loro nome. [[Tamar Darkmane]] risultava già noto a Agira, che ha raccontato di aver cercato un altro fedele di Sarenrae quando è arrivato in città — e la fortuna gliene aveva mandato uno.
 
-Horgus, nel frattempo, si era lamentato di Anevia. Anevia aveva risposto secco, accennando al fatto che lui nascondesse qualcosa riguardo alla propria fede. Vlamyra li aveva zittiti entrambi con la diplomazia di chi ha visto troppe discussioni inutili.
+Horgus, nel frattempo, si era lamentato di Anevia. Anevia aveva risposto in modo secco, accennando al fatto che lui nascondesse qualcosa riguardo alla propria fede. Horgus aveva replicato accusandola di avere rapporti con una gilda di ladri. [[Agira]] li aveva zittiti entrambi con la diplomazia di chi ha visto troppe discussioni inutili.
 
 ### Il Tempio di Torag
 
