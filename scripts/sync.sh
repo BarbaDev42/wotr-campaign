@@ -2,8 +2,15 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-VAULT_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)/vault"
 QUARTZ_CONTENT="$(cd "$SCRIPT_DIR/.." && pwd)/content"
+
+CONFIG="$SCRIPT_DIR/sync.config"
+if [ -f "$CONFIG" ]; then
+  # shellcheck source=/dev/null
+  source "$CONFIG"
+else
+  VAULT_DIR="$(cd "$SCRIPT_DIR/../.." && pwd)/vault"
+fi
 
 if [ ! -d "$VAULT_DIR" ]; then
   echo "ERROR: Vault directory not found at $VAULT_DIR"

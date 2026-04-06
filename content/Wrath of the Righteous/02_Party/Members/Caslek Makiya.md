@@ -60,6 +60,8 @@ Ha un senso dell'umorismo che emerge nei momenti peggiori, il che è sia un dife
 
 ## Momenti salienti
 
-| Sessione         | Cosa è successo                                                                                                                                      |     |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [[Sessione 001]] | Ha incontrato Agira al festival; ha finto di essere ferito dopo la caduta e ha esplorato i percorsi nella caverna, trovando lo zaino con le razioni. |     |
+| Sessione         | Cosa è successo                                                                                                                                                                   |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sessione 001]] | Ha incontrato Agira al festival; ha finto di essere ferito dopo la caduta e ha esplorato i percorsi nella caverna, trovando lo zaino con le razioni.                              |
+| [[Sessione 002]] | Ha riferito ai suoi compagni di chiamarsi "Candrek". Ha fatto capire a [[Kaelen Vortanis\|Kaelen]] che conosce qualcosa del suo passato. Continua tutt'ora a mentire sulla gamba. |
+|                  |                                                                                                                                                                                   |

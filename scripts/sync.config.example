@@ -1,0 +1,7 @@
+# sync.config — Copy this file to sync.config and set your vault path.
+# sync.config is gitignored and will not be committed.
+#
+# Set VAULT_DIR to the absolute path of your Obsidian vault.
+# If this file is absent, the scripts default to ../../vault relative to the quartz folder.
+
+VAULT_DIR=/absolute/path/to/your/vault

@@ -1,8 +1,18 @@
 $ErrorActionPreference = "Stop"
 
 $SCRIPT_DIR = Split-Path -Parent $PSCommandPath
-$VAULT_DIR = Join-Path (Split-Path -Parent (Split-Path -Parent $SCRIPT_DIR)) "vault"
 $QUARTZ_CONTENT = Join-Path (Split-Path -Parent $SCRIPT_DIR) "content"
+
+$CONFIG = Join-Path $SCRIPT_DIR "sync.config"
+if (Test-Path $CONFIG) {
+    Get-Content $CONFIG | ForEach-Object {
+        if ($_ -match '^\s*VAULT_DIR\s*=\s*(.+)$') {
+            $VAULT_DIR = $Matches[1].Trim()
+        }
+    }
+} else {
+    $VAULT_DIR = Join-Path (Split-Path -Parent (Split-Path -Parent $SCRIPT_DIR)) "vault"
+}
 
 if (-not (Test-Path $VAULT_DIR)) {
     Write-Error "ERROR: Vault directory not found at $VAULT_DIR"
