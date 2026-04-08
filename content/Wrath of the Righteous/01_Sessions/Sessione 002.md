@@ -125,6 +125,7 @@ Il colpo più duro è [[Agira]], che non ha mai risposto. Nel mezzo di tutto que
 ## Luoghi visitati
 
 - [[Caverne Sotterranee di Kenabres]]
+  - [[Caverne Sotterranee di Kenabres - Tempio Abbandonato|Mappa: Tempio Abbandonato]]
 - [[Tempio di Torag (Caverne)]]
 
 ---

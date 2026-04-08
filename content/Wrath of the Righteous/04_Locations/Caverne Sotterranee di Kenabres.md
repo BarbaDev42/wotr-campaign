@@ -37,14 +37,34 @@ Durante la prima crociata, molte famiglie di crociati scomparvero o scelsero un 
 
 ---
 
+## Mappe
+
+- [[Caverne Sotterranee di Kenabres - Ampia Caverna|Mappa: Ampia Caverna]] (Sezione A)
+- [[Caverne Sotterranee di Kenabres - Tempio Abbandonato|Mappa: Tempio Abbandonato]] (Sezione B)
+
+---
+
 ## Zone notevoli
 
-- **Sala del crollo** — dove il gruppo è atterrato dopo la caduta dalla [[Piazza di Clydwell]]
-- **Carcassa del ragno gigante** — ragno nero di grandi dimensioni trovato morto nel fondo della caverna; al suo interno larve che lo divoravano, da cui sono state recuperate le scaglie di drago argento
-- **Primo percorso (altura con scarafaggi)** — altura infestata da scarafaggi giganti, ora libera
-- **Secondo percorso (altura con zaino)** — dove è stato trovato lo zaino con le razioni e i materiali
-- **Bivio con stanza circolare** — corridoio che porta al [[Tempio di Torag (Caverne)]] e corridoio principale che prosegue verso sud
-- **[[Tempio di Torag (Caverne)]]** — edificio bunker nanico nella stanza circolare; sconsacrato; conteneva un ghast
+### Sezione A — Ampia Caverna
+([[Caverne Sotterranee di Kenabres - Ampia Caverna|Vedi mappa]])
+
+- **A1: Sala del crollo** — dove il gruppo è atterrato dopo la caduta dalla [[Piazza di Clydwell]]
+- **A1: Carcassa del ragno gigante** — ragno nero di grandi dimensioni trovato morto nel fondo della caverna; al suo interno larve che lo divoravano, da cui sono state recuperate le scaglie di drago argento
+- **A2: Accampamento abbandonato** — giaciglio lacero, resti di fuoco, ossa ed equipaggiamento danneggiato
+- **A3: Ripiano con zaino** — altura a 4 metri dal suolo dove è stato trovato lo zaino con le razioni e i materiali; fenditura nel buio sopra
+- **A4: Piccola stanza** — cumuli di roccia franati, primo percorso infestato da scarafaggi giganti (ora libero)
+
+### Sezione B — Tempio Abbandonato
+([[Caverne Sotterranee di Kenabres - Tempio Abbandonato|Vedi mappa]])
+
+- **B1: Cortile** — caverna circolare con edificio bunker nanico alto 6 metri; facciata decorata con martello di Torag; rovine di edifici esterni crollati
+- **B2: Anticamera** — panca di pietra, acquasantiera su piedistallo (acqua ancora benedetta)
+- **B3: Navata** — [[Tempio di Torag (Caverne)]] interno; panche infrante, altare coperto di polvere; sconsacrato; conteneva un ghast
+
+### Altre zone
+
+- **Bivio con stanza circolare** — corridoio che porta al Tempio di Torag (sezione B) e corridoio principale che prosegue verso sud
 - **Corridoio con incisioni raffinate** — pareti con figure di guerrieri tristi; probabilmente opera dei [[Discendenti della Prima Crociata]]
 - **Grande stanza buia** — dove la luce viene soppressa magicamente; scontro con creature di oscurità (totani violacei)
 

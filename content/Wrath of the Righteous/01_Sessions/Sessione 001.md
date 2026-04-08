@@ -136,6 +136,7 @@ Il gruppo non esisteva prima di quel giorno. Ora esiste per necessità.
 - [[Kenabres]]
 - [[Piazza di Clydwell]]
 - [[Caverne Sotterranee di Kenabres]]
+  - [[Caverne Sotterranee di Kenabres - Ampia Caverna|Mappa: Ampia Caverna]]
 
 ---
 
