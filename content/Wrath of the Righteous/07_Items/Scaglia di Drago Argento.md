@@ -1,17 +1,17 @@
 ---
-title: Scaglia di Drago Argento
+title: Scaglie di Terendelev
 item_type: Artefatto minore
-rarity: Non comune
+rarity: Leggendario
 attunement: false
-owner: Kaelen Vortanis (×1), Gruppo (×4)
+owner: Kaelen, Vlamyra, Tamar, Agira, Caslek
 found_in: Caverne Sotterranee di Kenabres
-session_found: Sessione 001
+session_found: "[[Sessione 001]]"
 type: oggetto
 tags: [oggetto, artefatto, drago]
-description: Scaglia appartenuta a Terendelev, drago protettore di Kenabres. Conserva un frammento del suo potere.
+description: Scaglie appartenute a Terendelev, drago protettore di Kenabres. Ognuna conserva un potere diverso.
 ---
 
-# Scaglia di Drago Argento
+# Scaglie di Terendelev
 
 > *Una scaglia che ancora brilla, anche qui sotto, lontano da ogni luce. Terendelev non è del tutto scomparsa.*
 
@@ -22,26 +22,49 @@ description: Scaglia appartenuta a Terendelev, drago protettore di Kenabres. Con
 | | |
 |--|--|
 | **Tipo** | Artefatto minore |
-| **Rarità** | Non comune |
+| **Rarità** | Leggendario |
 | **Sintonia** | No |
-| **Proprietario attuale** | [[Kaelen Vortanis]] (×1) · Gruppo (×4 non assegnate) |
 | **Trovato in** | [[Caverne Sotterranee di Kenabres]] |
 | **Trovato durante** | [[Sessione 001]] |
+
+Le scaglie funzionano solo se si porta **una scaglia alla volta**. Qualsiasi creatura non malvagia che tenga in mano una scaglia ne capisce istintivamente l'utilizzo.
+
+---
+
+## Le quattro scaglie
+
+### Camuffare — [[Kaelen Vortanis]]
+
+- **3 volte al giorno** (azione standard): lancia *Disguise Self*.
+- Mentre è camuffato, il portatore ottiene **+4 a tutte le prove di Inganno** contro creature malvagie.
+
+---
+
+### Armamenti Sacri — [[Vlamyra]]
+
+- **3 volte al giorno** (azione standard): lancia *Divine Favour*.
+
+---
+
+### Camminare sulle Nubi — [[Agira]] e [[Caslek]]
+
+- **3 volte al giorno** (azione standard): lancia *Levitazione*.
+- Un pilastro di nubi turbolente sorge sotto l'oggetto o la creatura levitata, crescendo o riducendosi con l'altitudine del bersaglio.
+- Il pilastro ha un diametro di 1,5 metri (indipendentemente dalla taglia del bersaglio) e fornisce **occultamento** (20% di probabilità di mancanza) a qualsiasi creatura o oggetto interamente dentro.
+
+> *Nota: la scaglia è stata recuperata da Agira nelle caverne, ed è stata in seguito condivisa con Caslek.*
+
+---
+
+### Resistenza — [[Tamar]]
+
+- **3 volte al giorno** (azione standard): lancia *Protezione dall'Energia*, ma solo contro **elettricità** o **freddo**.
 
 ---
 
 ## Descrizione
 
-Scaglie di colore argenteo, ancora lucide nonostante le circostanze. La loro origine esatta è misteriosa: sono state recuperate da [[Kaelen Vortanis|Spark]] dalla carcassa di un ragno gigante morto nelle [[Caverne Sotterranee di Kenabres]], dove delle larve lo stavano divorando dall'interno. Appartengono con ogni probabilità a [[Terendelev]], il drago d'argento protettore di Kenabres — ma come siano finite dentro quel ragno è ancora ignoto.
-
----
-
-## Proprietà
-
-*(Della scaglia in possesso di Kaelen — le altre potrebbero avere proprietà diverse)*
-
-- **Cammuffare:** 3 volte al giorno, il portatore può lanciare *Disguise Self*.
-- **+4 ai tiri di Inganno** contro creature malvagie.
+Scaglie di drago d'argento grandi quanto un palmo, ancora lucide nonostante le circostanze. Sono state recuperate da [[Kaelen Vortanis|Spark]] dalla carcassa di un ragno gigante morto nelle [[Caverne Sotterranee di Kenabres]], dove delle larve lo stavano divorando dall'interno. Appartengono a [[Terendelev]], il drago d'argento protettore di Kenabres — ma come siano finite dentro quel ragno è ancora ignoto.
 
 ---
 
@@ -53,5 +76,5 @@ Terendelev era il drago d'argento custode di Kenabres. Il 16 agosto 4713 ha comb
 
 ## Note
 
-- Le 4 scaglie non ancora assegnate potrebbero avere proprietà diverse da quella di Kaelen.
-- Vale la pena identificarle prima di distribuirle.
+- Ogni scaglia ha un potere diverso; portarne più di una annulla tutti gli effetti.
+- Il livello oggetto è 19°.
