@@ -20,7 +20,7 @@ description: Nelle caverne sotto Kenabres il gruppo scopre un tempio nanico prof
 
 ### Situazione iniziale
 
-Il gruppo procedeva nelle [[Caverne Sotterranee di Kenabres]] da circa tre ore, guidato dalla luce divina di [[Tamar Darkmane]]. Con loro: [[Anevia Tirabade|Anevia]] zoppicante ma determinata, [[Aravashnial]] cieco e sempre più nervoso, [[Horgus]] borbottante. L'adrenalina della caduta si era esaurita. Il peso di quello che era successo sopra stava cominciando a farsi sentire.
+Il gruppo procedeva nelle [[Caverne Sotterranee di Kenabres]] da circa tre ore, guidato dalla luce divina di [[Tamar Darkmane]]. Con loro: [[Anevia Tirabade|Anevia]] zoppicante ma determinata, [[Aravashnial]] cieco e sempre più nervoso, [[Horgus Gwerm|Horgus]] borbottante. L'adrenalina della caduta si era esaurita. Il peso di quello che era successo sopra stava cominciando a farsi sentire.
 
 ### Presentazioni
 
@@ -62,7 +62,7 @@ Riprendendo il cammino, [[Caslek Makiya|Caslek]] disse di avere una lanterna. [[
 
 Nuove incisioni apparvero sulle pareti — stavolta molto più raffinate. Figure di guerrieri in armatura, i loro lineamenti scolpiti nella pietra, espressioni che non erano di vittoria ma di tristezza. Sulle due pareti, specchiate.
 
-Fu **[[Horgus]]** il primo a notare le figure — si avvicinò alle pareti, le osservò in silenzio. [[Kaelen Vortanis|Spark]] pensò che rappresentassero il plotone di soldati sparito, e che forse loro o i loro discendenti avessero lasciato quei bassorilievi. [[Aravashnial]] volle toccarle. Ci fu accompagnato. Quando le sue dita incontrarono la pietra incisa, disse: *"È proprio come diceva la leggenda."*
+Fu **[[Horgus Gwerm|Horgus]]** il primo a notare le figure — si avvicinò alle pareti, le osservò in silenzio. [[Kaelen Vortanis|Spark]] pensò che rappresentassero il plotone di soldati sparito, e che forse loro o i loro discendenti avessero lasciato quei bassorilievi. [[Aravashnial]] volle toccarle. Ci fu accompagnato. Quando le sue dita incontrarono la pietra incisa, disse: *"È proprio come diceva la leggenda."*
 
 La storia che raccontò era questa: durante la **prima crociata** (conclusa nel 4630, quasi cent'anni fa), un plotone di crociati si avvicinò troppo alla Piaga del Mondo e fu infettato dall'energia abissale. Cominciarono a mutare — creature aberranti, deformi. Invece di morire o essere eliminati, scapparono sottoterra, per allevare i propri figli in pace. I loro discendenti potrebbero ancora vivere qui sotto.
 
@@ -114,11 +114,11 @@ Il colpo più duro è [[Agira]], che non ha mai risposto. Nel mezzo di tutto que
 
 ## PNG incontrati
 
-| PNG | Prima volta? | Impressione |
-|-----|-------------|-------------|
-| [[Anevia Tirabade|Anevia]] | No | Si è rivelata capace anche con la gamba rotta; ha difeso la sua dignità contro Horgus |
-| [[Aravashnial]] | No | Ha dimostrato di essere una fonte preziosa di storia e leggende |
-| [[Horgus]] | No | Continua a essere difficile, ma c'è qualcosa sotto la superficie che non è semplice snobismo |
+| PNG                         | Prima volta? | Impressione                                                                                  |
+| --------------------------- | ------------ | -------------------------------------------------------------------------------------------- |
+| [[Anevia Tirabade\|Anevia]] | No           | Si è rivelata capace anche con la gamba rotta; ha difeso la sua dignità contro Horgus        |
+| [[Aravashnial]]             | No           | Ha dimostrato di essere una fonte preziosa di storia e leggende                              |
+| [[Horgus Gwerm|Horgus]]                  | No           | Continua a essere difficile, ma c'è qualcosa sotto la superficie che non è semplice snobismo |
 
 ---
 
@@ -192,7 +192,7 @@ In una grande caverna nelle [[Caverne Sotterranee di Kenabres]], direzione sud r
 - **A 0 hp (stabile):** [[Caslek Makiya|Caslek]] (stabilizzato da Spare the Dying)
 - **A 0 hp (caduta):** [[Kaelen Vortanis|Spark]]
 - **Morto:** [[Agira]] — ha fallito il tiro salvezza su morte
-- **NPCs:** [[Anevia Tirabade|Anevia]] (ferita, rimasta fuori dalla stanza), [[Aravashnial]] (cieco), [[Horgus]]
+- **NPCs:** [[Anevia Tirabade|Anevia]] (ferita, rimasta fuori dalla stanza), [[Aravashnial]] (cieco), [[Horgus Gwerm|Horgus]]
 
 ### Cosa dobbiamo fare
 Sopravvivere. Curare chi si può curare. Poi decidere se è possibile andare avanti in queste condizioni o se bisogna aspettare.

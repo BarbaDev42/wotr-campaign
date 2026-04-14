@@ -3,8 +3,8 @@ title: Scaglie di Terendelev
 item_type: Artefatto minore
 rarity: Leggendario
 attunement: false
-owner: Kaelen, Vlamyra, Tamar, Agira, Caslek
-found_in: Caverne Sotterranee di Kenabres
+owner: "[[Kaelen Vortanis|Kaelen]], [[Vlamyra Ruzclaw|Vlamyra]], [[Tamar Darkmane|Tamar]], [[Agira]], [[Caslek Makiya|Caslek]]"
+found_in: "[[Caverne Sotterranee di Kenabres]]"
 session_found: "[[Sessione 001]]"
 type: oggetto
 tags: [oggetto, artefatto, drago]

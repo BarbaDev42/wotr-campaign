@@ -1,12 +1,13 @@
 ---
 title: Aravashnial
-faction: Biblioteca di Kenabres
-location: Kenabres
+faction: "[[Biblioteca di Kenabres]]"
+location: "[[Kenabres]]"
 status: Vivo (cieco)
-first_seen: Sessione 001
+first_seen: "[[Sessione 001]]"
 attitude: Neutrale
 type: png
-tags: [png]
+tags:
+  - png
 description: Elfo arcanista e studioso della biblioteca di Kenabres. La caduta lo ha privato della vista.
 ---
 
@@ -19,14 +20,15 @@ description: Elfo arcanista e studioso della biblioteca di Kenabres. La caduta l
 ---
 
 ## Panoramica
+aaaa
 
-| | |
-|--|--|
-| **Fazione** | Biblioteca di Kenabres |
-| **Luogo** | [[Kenabres]] / [[Caverne Sotterranee di Kenabres]] |
-| **Stato** | Vivo — cieco |
-| **Atteggiamento verso il gruppo** | Neutrale |
-| **Prima apparizione** | [[Sessione 001]] |
+|                                   |                                                    |
+| --------------------------------- | -------------------------------------------------- |
+| **Fazione**                       | Biblioteca di Kenabres                             |
+| **Luogo**                         | [[Kenabres]] / [[Caverne Sotterranee di Kenabres]] |
+| **Stato**                         | Vivo — cieco                                       |
+| **Atteggiamento verso il gruppo** | Neutrale                                           |
+| **Prima apparizione**             | [[Sessione 001]]                                   |
 
 ---
 
@@ -45,13 +47,16 @@ Elfo di aspetto studioso, arcanista di professione. Lavora (lavorava?) alla bibl
 - Elfo di età avanzata — ha sentito leggende della prima crociata molti anni fa.
 - Conosce la storia dei crociati che si rifugiarono nel sottosuolo dopo l'infezione abissale.
 - Man mano che avanza nelle caverne, la sua inquietudine per la cecità aumenta.
+- Era in prima fila davanti al Prelato quando è iniziato l'attacco — colpito dalla frusta di fulmini del Signore della Tempesta.
+- Ha promesso pergamene dalla sua biblioteca al gruppo, se lo portano in superficie.
 
 ---
 
 ## Cosa vuole
 
-- Ritrovare la vista, se possibile.
-- Probabilmente: capire cosa è successo a Kenabres e cosa significa per il futuro.
+- Ritrovare la vista, se possibile — vuole curarsi e tornare a combattere.
+- Capire cosa è successo a Kenabres.
+- Tornare alla sua biblioteca.
 
 ---
 
@@ -61,6 +66,7 @@ Elfo di aspetto studioso, arcanista di professione. Lavora (lavorava?) alla bibl
 |----------|----------------|
 | [[Sessione 001]] | Trovato cieco tra i sopravvissuti della caduta; viene guidato dal gruppo |
 | [[Sessione 002]] | Crescente inquietudine per la cecità; ha riconosciuto le incisioni come opera dei crociati della prima crociata; ha raccontato la leggenda del plotone infettato e rifugiatosi sottoterra; vuole toccare le pareti per "leggere" la storia |
+| [[Sessione 003]] | Ha spiegato come ha perso la vista: colpito dalla frusta di fulmini del Signore della Tempesta in faccia, mentre era in prima linea. Ha discusso con [[Horgus Gwerm|Horgus]] come due accademici della storia degli ibridati. Ha toccato le cicatrici sul polso del nano mago e ha riconosciuto il marchio della prigionia della Regina Meve. Promette pergamene in cambio di essere portato fuori. |
 
 ---
 

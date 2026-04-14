@@ -14,7 +14,7 @@ tags: [index, dashboard]
 | File                                                                            | Razza             | Classe | Livello | Giocatore |
 | ------------------------------------------------------------------------------- | ----------------- | ------ | ------- | --------- |
 | [[Agira]]                     | Mezzelfo          | \-     | 1       | Luca      |
-| [[Caslek Makiya]]     | Tabaxi            | \-     | 1       | Anti      |
+| [[Caslek Makiya]]     | Tabaxi            | \-     | 2       | Anti      |
 | [[Kaelen Vortanis]] | Tiefling          | \-     | 1       | Blue      |
 | [[Tamar Darkmane]]   | Umano             | \-     | 1       | Piro      |
 | [[Vlamyra Ruzclaw]] | Dragonide (Rossa) | \-     | 1       | Nina      |
@@ -28,9 +28,10 @@ tags: [index, dashboard]
 <!-- QueryToSerialize: TABLE status AS "Stato", giver AS "Committente", location AS "Luogo" FROM "Wrath of the Righteous/05_Quests" WHERE status = "Attiva" SORT file.name ASC -->
 <!-- SerializedQuery: TABLE status AS "Stato", giver AS "Committente", location AS "Luogo" FROM "Wrath of the Righteous/05_Quests" WHERE status = "Attiva" SORT file.name ASC -->
 
-| File                                                     | Stato  | Committente | Luogo |
-| -------------------------------------------------------- | ------ | ----------- | ----- |
-| [[Quest 1]] | Attiva | \-          | \-    |
+| File                                                                                   | Stato  | Committente                                                      | Luogo                                                                                                       |
+| -------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [[Risalire in Superficie]] | Attiva |                                                                  | [[Caverne Sotterranee di Kenabres]] |
+| [[Scorta di Horgus Gwerm]] | Attiva | [[Horgus Gwerm]] | [[Caverne Sotterranee di Kenabres]] |
 
 <!-- SerializedQuery END -->
 
@@ -41,9 +42,11 @@ tags: [index, dashboard]
 <!-- QueryToSerialize: TABLE date_ingame AS "Data in-game", date_played AS "Giocata il", location AS "Luogo" FROM "Wrath of the Righteous/01_Sessions" SORT date_played DESC LIMIT 5 -->
 <!-- SerializedQuery: TABLE date_ingame AS "Data in-game", date_played AS "Giocata il", location AS "Luogo" FROM "Wrath of the Righteous/01_Sessions" SORT date_played DESC LIMIT 5 -->
 
-| File                                                                 | Data in-game    | Giocata il     | Luogo                                                         |
-| -------------------------------------------------------------------- | --------------- | -------------- | ------------------------------------------------------------- |
-| [[Sessione 001]] | August 16, 4713 | March 26, 2026 | [[Kenabres]] |
+| File                                                                 | Data in-game    | Giocata il     | Luogo                                                                                                       |
+| -------------------------------------------------------------------- | --------------- | -------------- | ----------------------------------------------------------------------------------------------------------- |
+| [[Sessione 003]] | August 16, 4713 | April 10, 2026 | [[Caverne Sotterranee di Kenabres]] |
+| [[Sessione 002]] | August 16, 4713 | April 03, 2026 | [[Caverne Sotterranee di Kenabres]] |
+| [[Sessione 001]] | August 16, 4713 | March 26, 2026 | [[Kenabres]]                                               |
 
 <!-- SerializedQuery END -->
 

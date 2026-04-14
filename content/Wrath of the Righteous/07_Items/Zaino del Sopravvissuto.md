@@ -4,8 +4,8 @@ item_type: Contenitore / Kit
 rarity: Comune
 attunement: false
 owner: Gruppo
-found_in: Caverne Sotterranee di Kenabres
-session_found: Sessione 001
+found_in: "[[Caverne Sotterranee di Kenabres]]"
+session_found: "[[Sessione 001]]"
 type: oggetto
 tags: [oggetto, kit, consumabile]
 description: Zaino trovato in perfette condizioni sulla seconda altura delle caverne. Conteneva razioni e materiali di sopravvivenza.

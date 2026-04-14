@@ -30,7 +30,7 @@ Poco importava, quel giorno. Kenabres ballava.
 
 La [[Piazza di Clydwell]], cuore dell'anello centrale della città, era gremita di gente. Ad ovest incombeva la [[Piaga del Mondo]], ferita aperta nel ventre del mondo; ad est svettava una basilica dedicata a [[Iomedae]]. In mezzo, tra bancarelle, duelli simulati e risate di bambini, il festival prendeva forma.
 
-[[Caslek Makiya]] — tabaxi dalla pelliccia dorata screziata di nero, occhi castani, fisico snello avvolto in abiti semplici e un'armatura di cuoio — girava per la piazza in cerca di prede. Quando intravide [[Horgus]] tra la folla cercò di evitarlo, ma inciampò in [[Agira]], un giovane mezzelfo dai capelli bianchi e dagli occhi blu scuro percorsi da pattern di stelle, con un sorriso che sembrava incollato sul viso. Finirono per decidere di andare a mangiare insieme.
+[[Caslek Makiya]] — tabaxi dalla pelliccia dorata screziata di nero, occhi castani, fisico snello avvolto in abiti semplici e un'armatura di cuoio — girava per la piazza in cerca di prede. Quando intravide [[Horgus Gwerm|Horgus]] tra la folla cercò di evitarlo, ma inciampò in [[Agira]], un giovane mezzelfo dai capelli bianchi e dagli occhi blu scuro percorsi da pattern di stelle, con un sorriso che sembrava incollato sul viso. Finirono per decidere di andare a mangiare insieme.
 
 Si lasciarono trascinare verso una bancarella dedicata a soldati e uomini d'arme. Dietro il bancone c'era [[Tamar Darkmane]]: capelli rossi, occhi azzurri, sguardo burbero come quello di chi ha visto troppo per stupirsi ancora di qualcosa. Portava vesti comode sotto un'armatura a scaglie, e al collo un simbolo di [[Sarenrae]] che non stava lì per caso.
 
@@ -60,7 +60,7 @@ Quando i sensi tornarono, il gruppo si ritrovò in una caverna sotterranea, cent
 
 [[Tamar Darkmane]] fu il primo a reagire: accese una luce, rompendo il buio abbastanza da permettere a tutti di capire dove si trovavano. Nessuno aveva subito danni gravi — una fortuna quasi sospetta.
 
-Non tutti erano stati così fortunati. [[Aravashnial]] era tra i sopravvissuti, ma la caduta lo aveva privato della vista: cieco, disorientato, ma vivo. [[Anevia Tirabade|Anevia]] era intrappolata sotto un masso con una gamba rotta; [[Vlamyra Ruzclaw]] e [[Kaelen Vortanis|Spark]] la liberarono, e quest'ultima improvvisò un bendaggio di fortuna. [[Tamar Darkmane]] nel frattempo aiutava un'altra figura a rialzarsi — un certo [[Horgus]], che sembrava incline a lamentarsi più che a ringraziare.
+Non tutti erano stati così fortunati. [[Aravashnial]] era tra i sopravvissuti, ma la caduta lo aveva privato della vista: cieco, disorientato, ma vivo. [[Anevia Tirabade|Anevia]] era intrappolata sotto un masso con una gamba rotta; [[Vlamyra Ruzclaw]] e [[Kaelen Vortanis|Spark]] la liberarono, e quest'ultima improvvisò un bendaggio di fortuna. [[Tamar Darkmane]] nel frattempo aiutava un'altra figura a rialzarsi — un certo [[Horgus Gwerm|Horgus]], che sembrava incline a lamentarsi più che a ringraziare.
 
 [[Caslek Makiya|Caslek]], nel caos, trovò il tempo per recitare la parte del ferito.
 
@@ -125,7 +125,7 @@ Il gruppo non esisteva prima di quel giorno. Ora esiste per necessità.
 | [[Irabeth]] | Sì | Affidabile, paladina con una spada strana |
 | [[Anevia Tirabade|Anevia]] | Sì | Competente, ferita, grata |
 | [[Aravashnial]] | Sì | Studioso, ora cieco, vulnerabile |
-| [[Horgus]] | Sì | Sopravvissuto, carattere scontroso |
+| [[Horgus Gwerm|Horgus]] | Sì | Sopravvissuto, carattere scontroso |
 | [[Terendelev]] | Sì (visione) | Drago protettore, destino incerto |
 | [[Khorramzadeh]] | Sì (visione) | Demone signore, enorme minaccia |
 
@@ -190,7 +190,7 @@ Nelle [[Caverne Sotterranee di Kenabres]], centinaia di metri sotto [[Kenabres]]
 ### Con chi siamo
 - **Gruppo:** [[Caslek Makiya]], [[Agira]], [[Tamar Darkmane]], [[Vlamyra Ruzclaw]], [[Kaelen Vortanis]], [[Kaelen Vortanis|Spark]]
 - **Feriti / da assistere:** [[Anevia Tirabade|Anevia]] (gamba rotta, bendaggio improvvisato), [[Aravashnial]] (cieco, necessita guida)
-- **Scontroso ma presente:** [[Horgus]]
+- **Scontroso ma presente:** [[Horgus Gwerm|Horgus]]
 
 ### Cosa dobbiamo fare
 Trovare un percorso per risalire in superficie. Non si sa se esiste una via d'uscita, né cosa troveremo più avanti nelle gallerie.

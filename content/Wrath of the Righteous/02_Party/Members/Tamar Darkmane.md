@@ -50,7 +50,7 @@ Quando la caverna è piombata nel buio dopo la caduta, è stato il primo a fare 
 | [[Agira]] | Compagno di gruppo |
 | [[Kaelen Vortanis]] | Compagna di gruppo |
 | [[Vlamyra Ruzclaw]] | Compagna di gruppo |
-| [[Horgus]] | Lo ha aiutato ad alzarsi nella caverna |
+| [[Horgus Gwerm|Horgus]] | Lo ha aiutato ad alzarsi nella caverna |
 
 ---
 

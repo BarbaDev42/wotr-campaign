@@ -1,13 +1,15 @@
 ---
 title: Irabeth Tirabade
-aliases: [Irabeth]
-faction: Esercito del Mendev / Chiesa di Iomedae
-location: Kenabres
+aliases:
+  - Irabeth
+faction: "[[Esercito del Mendev]]"
+location: "[[Kenabres]]"
 status: Viva
-first_seen: Sessione 001
+first_seen: "[[Sessione 001]]"
 attitude: Amichevole
 type: png
-tags: [png]
+tags:
+  - png
 description: Paladina mezza orco di Iomedae, moglie di Anevia Tirabade. Affidabile, con una spada stranamente ordinaria.
 ---
 

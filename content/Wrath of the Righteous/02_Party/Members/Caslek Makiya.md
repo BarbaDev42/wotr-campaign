@@ -2,7 +2,7 @@
 title: Caslek Makiya
 race: Tabaxi
 class:
-level: 1
+level: 2
 player: Anti
 type: character
 tags:
@@ -29,7 +29,7 @@ Ha un senso dell'umorismo che emerge nei momenti peggiori, il che è sia un dife
 
 ## Provenienza
 
-*Da dove viene? Cosa lo ha portato a Kenabres?*
+* Nato e cresciuto a [[Kenabres]]
 
 ---
 
@@ -54,14 +54,15 @@ Ha un senso dell'umorismo che emerge nei momenti peggiori, il che è sia un dife
 
 ## Obiettivi personali
 
-- 
+- Ritornare *vivo* in superficie;
+- Donare l'anello preso dal cadavere del Ghast sconfitto all'interno del [[Tempio di Torag (Caverne)| Tempio di Torag]] ai suoi genitori. Presumibilmente situati nella periferia della città;
 
 ---
 
 ## Momenti salienti
 
-| Sessione         | Cosa è successo                                                                                                                                                                   |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sessione 001]] | Ha incontrato Agira al festival; ha finto di essere ferito dopo la caduta e ha esplorato i percorsi nella caverna, trovando lo zaino con le razioni.                              |
-| [[Sessione 002]] | Ha riferito ai suoi compagni di chiamarsi "Candrek". Ha fatto capire a [[Kaelen Vortanis\|Kaelen]] che conosce qualcosa del suo passato. Continua tutt'ora a mentire sulla gamba. |
-|                  |                                                                                                                                                                                   |
+| Sessione                          | Cosa è successo                                                                                                                                                                   |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sessione 001]]                  | Ha incontrato Agira al festival; ha finto di essere ferito dopo la caduta e ha esplorato i percorsi nella caverna, trovando lo zaino con le razioni.                              |
+| [[Sessione 002]]                  | Ha riferito ai suoi compagni di chiamarsi "Candrek". Ha fatto capire a [[Kaelen Vortanis\|Kaelen]] che conosce qualcosa del suo passato. Continua tutt'ora a mentire sulla gamba. |
+| Sessione 3 (in attesa di Blve :)) |                                                                                                                                                                                   |

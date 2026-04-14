@@ -1,9 +1,9 @@
 ---
 title: Khorramzadeh
-faction: Piaga del Mondo / Demoni
-location: Kenabres
+faction: "[[Piaga del Mondo]]"
+location: "[[Kenabres]]"
 status: Sconosciuto
-first_seen: Sessione 001
+first_seen: "[[Sessione 001]]"
 attitude: Ostile
 type: png
 tags: [png, demone, boss, piaga]

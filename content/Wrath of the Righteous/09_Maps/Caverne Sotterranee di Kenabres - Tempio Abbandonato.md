@@ -10,7 +10,7 @@ description: Mappa della sezione Tempio Abbandonato nelle caverne sotterranee so
 
 ```leaflet
 id: caverne-kenabres-tempio-abbandonato
-image: [[Caverne Sotterranee di Kenabres - Tempio Abbandonato.png]]
+image: [[loc_caverne_tempio_abbandonato.png]]
 height: 450px
 minZoom: 1
 maxZoom: 10

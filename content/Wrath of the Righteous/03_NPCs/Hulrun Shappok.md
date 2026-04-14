@@ -1,9 +1,9 @@
 ---
 title: Hulrun Shappok
-faction: Mendev / Chiesa di Iomedae
-location: Kenabres
+faction: "Mendev / Chiesa di Iomedae"
+location: "[[Kenabres]]"
 status: Sconosciuto
-first_seen: Sessione 001
+first_seen: "[[Sessione 001]]"
 attitude: Neutrale
 type: png
 tags: [png]

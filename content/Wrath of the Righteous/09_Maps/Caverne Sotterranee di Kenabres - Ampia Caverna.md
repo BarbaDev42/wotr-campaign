@@ -10,7 +10,7 @@ description: Mappa della sezione Ampia Caverna nelle caverne sotterranee sotto K
 
 ```leaflet
 id: caverne-kenabres-ampia-caverna
-image: [[Caverne Sotterranee di Kenabres - Ampia Caverna.png]]
+image: [[loc_caverne_ampia_caverna.png]]
 height: 450px
 minZoom: 1
 maxZoom: 10

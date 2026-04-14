@@ -1,6 +1,6 @@
 ---
 title: Caverne Sotterranee di Kenabres
-region: "[[Caverne Sotterranee di Kenabres]]"
+region: "[[Kenabres]]"
 type: Dungeon / Gallerie storiche
 status: Pericoloso — esplorazione in corso
 first_visited: "[[Sessione 001]]"
@@ -76,7 +76,7 @@ Durante la prima crociata, molte famiglie di crociati scomparvero o scelsero un 
 |-----|-------|
 | [[Anevia Tirabade|Anevia]] | Sopravvissuta, gamba rotta |
 | [[Aravashnial]] | Sopravvissuto, cieco |
-| [[Horgus]] | Sopravvissuto, scontroso |
+| [[Horgus Gwerm|Horgus]] | Sopravvissuto, scontroso |
 | Ragno nero (morto) | Carcassa trovata nel fondo della caverna; qualcosa lo stava divorando dall'interno |
 
 ---

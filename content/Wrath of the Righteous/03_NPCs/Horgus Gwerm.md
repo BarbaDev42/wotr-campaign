@@ -1,16 +1,19 @@
 ---
-title: Horgus
-faction: 
-location: Kenabres
+title: Horgus Gwerm
+faction:
+location: "[[Kenabres]]"
 status: Vivo
-first_seen: Sessione 001
+first_seen: "[[Sessione 001]]"
 attitude: Difficile
 type: png
-tags: [png]
-description: Sopravvissuto scontroso alla caduta. Si lamenta più di quanto aiuti.
+tags:
+  - png
+description: Nobile del Mendev, Casato Gwerm. Scontroso e difficile, ma si è rivelato un erudito sulla storia sotterranea.
 ---
 
-# Horgus
+# Horgus Gwerm
+
+![[npc_horgus_gwerm.png]]
 
 > *Sopravvissuto, in ottima salute considerando le circostanze, e già pronto a lamentarsi di entrambe le cose.*
 
@@ -51,7 +54,8 @@ Un sopravvissuto della caduta. [[Tamar Darkmane|Tamar]] lo ha aiutato ad alzarsi
 
 ## Cosa vuole
 
-- Presumibilmente: tornare in superficie il prima possibile.
+- Tornare in superficie e alla sua magione nel Mendev.
+- Usare il denaro come leva per assicurarsi la scorta.
 
 ---
 
@@ -61,9 +65,12 @@ Un sopravvissuto della caduta. [[Tamar Darkmane|Tamar]] lo ha aiutato ad alzarsi
 | ---------------- | ------------------------------------------------------------------------------- |
 | [[Sessione 001]] | Trovato tra i sopravvissuti; [[Tamar Darkmane\|Tamar]] lo ha aiutato ad alzarsi |
 | [[Sessione 002]] | Ha proposto di abbandonare Anevia; litigato con lei sulla fede nascosta; **è stato il primo a notare le figure scolpite** sulle pareti del corridoio più profondo; ha accettato controvoglia di tenere la torcia |
+| [[Sessione 003]] | Si è rivelato: **nobile del Mendev, Casato Gwerm**. Ha mostrato il suo anello sigillare. Offre 1000 gp alla sua magione come ricompensa. Si è rivelato un erudito sulla storia degli ibridati, parlando come un accademico con Aravashnial. Diffida degli ibridati incontrati. |
 
 ---
 
 ## Speculazioni
 
-- Chi è Horgus? Commerciante? Nobile? La sua reazione alle circostanze suggerisce qualcuno abituato a essere servito.
+- La profonda conoscenza degli ibridati e delle incisioni non è casuale: perché un nobile del Mendev saprebbe così tanto di questa civiltà sotterranea?
+- Cosa lo portava al festival il giorno dell'attacco?
+- Perché nasconde la sua vera fede? Cosa crede davvero?

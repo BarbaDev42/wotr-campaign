@@ -1,9 +1,9 @@
 ---
 title: Terendelev
-faction: Protettori di Kenabres
-location: Kenabres
+faction: "[[Protettori di Kenabres]]"
+location: "[[Kenabres]]"
 status: Sconosciuto (probabilmente morto/a)
-first_seen: Sessione 001
+first_seen: "[[Sessione 001]]"
 attitude: Alleato
 type: png
 tags: [png, drago, leggenda]

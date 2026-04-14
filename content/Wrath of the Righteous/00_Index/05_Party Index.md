@@ -12,7 +12,7 @@ tags: [index, gruppo]
 | File                                                                            | Razza             | Classe | Livello | Giocatore |
 | ------------------------------------------------------------------------------- | ----------------- | ------ | ------- | --------- |
 | [[Agira]]                     | Mezzelfo          | \-     | 1       | Luca      |
-| [[Caslek Makiya]]     | Tabaxi            | \-     | 1       | Anti      |
+| [[Caslek Makiya]]     | Tabaxi            | \-     | 2       | Anti      |
 | [[Kaelen Vortanis]] | Tiefling          | \-     | 1       | Blue      |
 | [[Tamar Darkmane]]   | Umano             | \-     | 1       | Piro      |
 | [[Vlamyra Ruzclaw]] | Dragonide (Rossa) | \-     | 1       | Nina      |
