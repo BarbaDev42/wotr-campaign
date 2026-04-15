@@ -63,11 +63,11 @@ function parseLeafletBlock(content: string): LeafletConfig {
 }
 
 /**
- * Resolve an asset filename (e.g. "Image.png") to an absolute URL
- * using Quartz's "shortest" strategy: find the unique slug whose
- * filename part matches, mirroring CrawlLinks behaviour.
+ * Resolve an asset filename (e.g. "Image.png") to a URL relative to the
+ * current page directory, using Quartz's "shortest" strategy.
+ * Relative URLs work correctly regardless of baseUrl / subdirectory deployment.
  */
-function resolveAssetUrl(imageName: string, allSlugs: FullSlug[]): string {
+function resolveAssetUrl(imageName: string, allSlugs: FullSlug[], pageDir: string): string {
   const imageSlug = slugifyFilePath(imageName as FilePath)
   // filename part only (no directory)
   const imageFn = imageSlug.split("/").at(-1) ?? imageSlug
@@ -77,15 +77,17 @@ function resolveAssetUrl(imageName: string, allSlugs: FullSlug[]): string {
     return fn === imageFn
   })
 
-  if (matches.length === 1) {
-    return `/${matches[0]}`
-  }
-
-  // fallback: bare filename (may 404 if in a subdirectory, but better than nothing)
-  return `/${imageSlug}`
+  const absSlug = matches.length === 1 ? matches[0] : imageSlug
+  return toRelativeUrl(absSlug, pageDir)
 }
 
-function resolveMarkers(content: string, dir: string): LeafletMarker[] {
+/** Convert an absolute slug to a URL relative to the given page directory. */
+function toRelativeUrl(targetSlug: string, pageDir: string): string {
+  if (pageDir === ".") return `./${targetSlug}`
+  return path.posix.relative(pageDir, targetSlug)
+}
+
+function resolveMarkers(content: string, dir: string, allSlugs: FullSlug[]): LeafletMarker[] {
   const markers: LeafletMarker[] = []
 
   for (const rawLine of content.split("\n")) {
@@ -121,9 +123,14 @@ function resolveMarkers(content: string, dir: string): LeafletMarker[] {
     const label = aliasText || rawAnchor || linkFile
 
     const linkSlug = slugifyFilePath(linkFile as FilePath)
-    const url =
-      (dir === "." ? `/${linkSlug}` : `/${dir}/${linkSlug}`) +
-      (anchor ? `#${anchor}` : "")
+    // Use the "shortest" strategy: find the matching slug in the vault
+    const linkFn = linkSlug.split("/").at(-1) ?? linkSlug
+    const linkMatches = allSlugs.filter((s) => {
+      const fn = s.split("/").at(-1)
+      return fn === linkFn
+    })
+    const resolvedSlug = linkMatches.length === 1 ? linkMatches[0] : (dir === "." ? linkSlug : `${dir}/${linkSlug}`)
+    const url = toRelativeUrl(resolvedSlug, dir) + (anchor ? `#${anchor}` : "")
 
     markers.push({ lat, lng, url, label })
   }
@@ -208,8 +215,8 @@ export const Leaflet: QuartzTransformerPlugin = () => {
             if (!config.image) return
 
             // Resolve image using "shortest" strategy across all vault assets
-            const imageUrl = resolveAssetUrl(config.image, ctx.allSlugs)
-            const markers = resolveMarkers(node.value, dir)
+            const imageUrl = resolveAssetUrl(config.image, ctx.allSlugs, dir)
+            const markers = resolveMarkers(node.value, dir, ctx.allSlugs)
 
             // JSON in a double-quoted HTML attribute: escape " to &quot;
             // Browser decodes &quot; → " when reading dataset, so JSON.parse works correctly
