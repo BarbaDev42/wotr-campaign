@@ -1,6 +1,6 @@
 ---
 title: Horgus Gwerm
-faction:
+faction: "[[Casato Gwerm]]"
 location: "[[Kenabres]]"
 status: Vivo
 first_seen: "[[Sessione 001]]"
@@ -23,7 +23,7 @@ description: Nobile del Mendev, Casato Gwerm. Scontroso e difficile, ma si è ri
 
 | | |
 |--|--|
-| **Fazione** | Sconosciuta |
+| **Fazione** | [[Casato Gwerm]] |
 | **Luogo** | [[Caverne Sotterranee di Kenabres]] |
 | **Stato** | Vivo |
 | **Atteggiamento verso il gruppo** | Difficile / Scontroso |

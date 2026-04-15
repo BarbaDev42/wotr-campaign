@@ -20,7 +20,6 @@ description: Elfo arcanista e studioso della biblioteca di Kenabres. La caduta l
 ---
 
 ## Panoramica
-aaaa
 
 |                                   |                                                    |
 | --------------------------------- | -------------------------------------------------- |

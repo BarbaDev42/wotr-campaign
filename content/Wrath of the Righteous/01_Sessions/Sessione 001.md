@@ -16,6 +16,17 @@ description: Il festival di Kenabres si trasforma in tragedia. Il gruppo si risv
 
 ---
 
+## Dettagli sessione
+
+| | |
+|--|--|
+| **Data in-game** | 16 Agosto 4713 |
+| **Giocata il** | 26 Marzo 2026 |
+| **Luogo** | [[Kenabres]] |
+| **Livello party** | 1 |
+
+---
+
 ## Cosa è successo
 
 ### Situazione iniziale

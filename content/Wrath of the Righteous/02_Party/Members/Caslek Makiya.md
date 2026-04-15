@@ -1,7 +1,7 @@
 ---
 title: Caslek Makiya
 race: Tabaxi
-class:
+class: Rogue
 level: 2
 player: Anti
 type: character
@@ -16,6 +16,17 @@ description: Tabaxi dalla pelliccia dorata, agile e dall'umorismo scaltro.
 ![[pg_caslek_makiya.png]]
 
 > *Dietro il sorriso facile e la pelliccia dorata si nasconde qualcuno che sa sempre come cadere in piedi — anche dal basso di una caverna.*
+
+---
+
+## Panoramica
+
+| | |
+|--|--|
+| **Razza** | Tabaxi |
+| **Classe** | Rogue |
+| **Livello** | 2 |
+| **Giocatore** | Anti |
 
 ---
 
@@ -43,12 +54,12 @@ Ha un senso dell'umorismo che emerge nei momenti peggiori, il che è sia un dife
 
 ## Legami
 
-| Personaggio         | Natura del legame                              |
-| ------------------- | ---------------------------------------------- |
-| [[Agira]]           | Conosciuto al festival, primo incontro casuale |
-| [[Kaelen Vortanis]] | Compagna di gruppo                             |
-| [[Vlamyra Ruzclaw]] | Compagna di gruppo, lo ha aiutato a scalare    |
-| [[Tamar Darkmane]]  | Compagno di gruppo                             |
+| Personaggio         | Natura del legame                                                                                                                    |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Agira]]           | Conosciuto al festival, primo incontro casuale. Reputa che sia una persona abbastanza ingenua, potrebbe rilevarsi utile in futuro... |
+| [[Kaelen Vortanis]] | Compagna di gruppo, si ricorda delle loro piccole avvenute in adolescenza                                                            |
+| [[Vlamyra Ruzclaw]] | Compagna di gruppo, lo ha aiutato a scalare                                                                                          |
+| [[Tamar Darkmane]]  | Compagno di gruppo, lo reputa estremamente moralista e assillante per dare cure non richieste.                                       |
 
 ---
 
@@ -61,8 +72,8 @@ Ha un senso dell'umorismo che emerge nei momenti peggiori, il che è sia un dife
 
 ## Momenti salienti
 
-| Sessione                          | Cosa è successo                                                                                                                                                                   |
-| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Sessione 001]]                  | Ha incontrato Agira al festival; ha finto di essere ferito dopo la caduta e ha esplorato i percorsi nella caverna, trovando lo zaino con le razioni.                              |
-| [[Sessione 002]]                  | Ha riferito ai suoi compagni di chiamarsi "Candrek". Ha fatto capire a [[Kaelen Vortanis\|Kaelen]] che conosce qualcosa del suo passato. Continua tutt'ora a mentire sulla gamba. |
-| Sessione 3 (in attesa di Blve :)) |                                                                                                                                                                                   |
+| Sessione         | Cosa è successo                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Sessione 001]] | Ha incontrato Agira al festival; ha finto di essere ferito dopo la caduta e ha esplorato i percorsi nella caverna, trovando lo zaino con le razioni.                                                                                                                                                                                                                                                                                                                  |
+| [[Sessione 002]] | Ha riferito ai suoi compagni di chiamarsi "Candrek". Ha fatto capire a [[Kaelen Vortanis\|Kaelen]] che conosce qualcosa del suo passato. Continua tutt'ora a mentire sulla gamba.                                                                                                                                                                                                                                                                                     |
+| [[Sessione 003]] | Rassicurato [[Anevia Tirabade\|Anevia]] preoccupata per lo stato della moglie tutt'ora dispersa. Preso posizione insieme a [[Kaelen Vortanis\|Kaelen]] e [[Agira]] nel porre fine alla vita del nano impazzito incontrato dopo lo scontro contro i darkmantle. Scoperto della possibilità di poter togliere il bracciale senza perdere la testa *letteralmente*. Proattivo nel salvataggio di [[Crell]]. Parlato con [[Horgus]] cercando di mantere un basso profilo. |

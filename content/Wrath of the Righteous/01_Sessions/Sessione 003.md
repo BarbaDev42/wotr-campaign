@@ -16,6 +16,17 @@ description: Sarenrae si manifesta fisicamente per resuscitare Agira. Horgus si 
 
 ---
 
+## Dettagli sessione
+
+| | |
+|--|--|
+| **Data in-game** | 16 Agosto 4713 |
+| **Giocata il** | 10 Aprile 2026 |
+| **Luogo** | [[Caverne Sotterranee di Kenabres]] |
+| **Livello party** | 2 |
+
+---
+
 ## Cosa è successo
 
 ### Situazione iniziale
@@ -108,13 +119,13 @@ Spark si gira: *"Se mi chiami Tifling un'altra volta ti trovo un pugno sui denti
 
 Spark va muso a muso con lui:
 
-*"Se continui con questo atteggiamento le migliori monete d'oro te le puoi filare nel culo e arrangiarti a uscire da questo posto, hai capito?"*
+*"Se continui con questo atteggiamento le monete d'oro te le puoi filare nel culo e arrangiarti a uscire da questo posto, hai capito?"*
 
 Horgus non arretra di un millimetro. Risponde freddo, minaccia per minaccia:
 
 *"Buona fortuna a lavorare quando verranno a scoprire che mi avete lasciato morire. Buona fortuna a restare nella tua gilda. Buona fortuna a commerciare. Buona fortuna a lavorare con chiunque in questa città."*
 
-E poi, dopo una pausa: *"Forse una volta uscito da qui, dovrei spiegare alla regina Meve che tipo di persone siete? Come vi siete comportati con il nobile Horgus?"*
+E poi, dopo una pausa: *"Forse una volta uscito da qui, dovrei spiegare alla regina Galfrey che tipo di persone siete? Come vi siete comportati con il nobile Horgus?"*
 
 [[Vlamyra Ruzclaw|Vlamyra]] interviene a placare Spark — le si avvicina, la invita a lasciar perdere e ad andare avanti con gli altri. Poi si rivolge a Horgus con tono fermo: il comportamento di Horgus influenza l'umore del gruppo, e l'umore del gruppo influenza le loro scelte. Horgus capisce il sottotesto e abbassa (di pochissimo) i toni.
 
@@ -122,7 +133,7 @@ E poi, dopo una pausa: *"Forse una volta uscito da qui, dovrei spiegare alla reg
 
 Mentre il gruppo si rimette in marcia, [[Horgus Gwerm|Horgus]] si mette a camminare di fianco a [[Caslek Makiya|Caslek]]. Conversazione apparentemente leggera, ma con un sottofondo inquietante.
 
-Horgus dice di aver già sentito parlare di lui — non per nome, ma per fama ("la vostra nomea vi precede"). Caslek risponde che non si sono mai incontrati. Horgus allora menziona, quasi distrattamente, di aver già avuto il "dispiacere" di incontrare un tabaxi in passato — *"un gatto randagio e bastardo"* — che era stato *"condonato a morte"*. E aggiunge, con quella sua calma sgradevole: *"Immagino doveva aver rubato un tesoro veramente prezioso per meritarsi la pena di morte. O fatto anche di peggio."*
+Horgus dice di essere sicuro di aver già incontrato il Tabaxi. Caslek risponde che non si sono mai incontrati e che i membri della sua razza tendono ad assomigliarsi. Horgus allora menziona, quasi distrattamente, di aver già avuto il "dispiacere" di incontrare un tabaxi in passato — *"un gatto randagio e bastardo"* — che era stato *"condonato a morte"*. E aggiunge, con quella sua calma sgradevole: *"Immagino doveva aver rubato un tesoro veramente prezioso per meritarsi la pena di morte. O fatto anche di peggio."*
 
 Il messaggio non è velato: sa come funzionano certe cose. Sa a chi rivolgersi.
 
@@ -163,14 +174,14 @@ Una sessione di quelle che non si dimenticano. La resurrezione di Agira ha cambi
 
 ## PNG incontrati
 
-| PNG | Prima volta? | Impressione |
-|-----|-------------|-------------|
-| [[Horgus Gwerm|Horgus]] | No | Si è rivelato: nobile del Mendev, Casato Gwerm |
-| [[Aravashnial]] | No | Ha spiegato la cecità; si è rivelato erudito come Horgus |
-| [[Anevia Tirabade]] | No | Ha ucciso il nano senza esitare — e non è la prima volta |
-| [[Lann]] | Sì | Ibridato di Neatholm, porta i tratti di elfo/capra/lucertola |
-| [[Crell]] | Sì | Ibridato ferito gravemente, appena liberato dal masso |
-| [[Dira]] | Sì | Ibridata con viso deformato, non parla comprensibilmente |
+| PNG                 | Prima volta? | Impressione                                                  |
+| ------------------- | ------------ | ------------------------------------------------------------ |
+| [[Horgus Gwerm]]    | No           | Si è rivelato: nobile del Mendev, Casato Gwerm               |
+| [[Aravashnial]]     | No           | Ha spiegato la cecità; si è rivelato erudito come Horgus     |
+| [[Anevia Tirabade]] | No           | Ha ucciso il nano senza esitare — e non è la prima volta     |
+| [[Lann]]            | Sì           | Ibridato di Neatholm, porta i tratti di elfo/capra/lucertola |
+| [[Crell]]           | Sì           | Ibridato ferito gravemente, appena liberato dal masso        |
+| [[Dira]]            | Sì           | Ibridata con viso deformato, non parla comprensibilmente     |
 
 ---
 

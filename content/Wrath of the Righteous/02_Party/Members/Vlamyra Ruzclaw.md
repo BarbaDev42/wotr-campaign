@@ -1,8 +1,8 @@
 ---
 title: Vlamyra Ruzclaw
 race: Dragonide (Rossa)
-class:
-level: 1
+class: Paladin
+level: 2
 player: Nina
 type: character
 tags:
@@ -16,6 +16,17 @@ description: Dragonide rossa armata fino ai denti, sempre un po' a disagio in me
 ![[pg_vlamyra.png]]
 
 > *Due spade, un'armatura, e l'aria di chi preferirebbe che la gente smettesse di guardarla.*
+
+---
+
+## Panoramica
+
+| | |
+|--|--|
+| **Razza** | Dragonide (Rossa) |
+| **Classe** | Paladin |
+| **Livello** | 2 |
+| **Giocatore** | Nina |
 
 ---
 
@@ -65,3 +76,5 @@ Non è difficile da capire — ma non è nemmeno facile da avvicinare. Eppure, q
 | Sessione | Cosa è successo |
 |----------|----------------|
 | [[Sessione 001]] | Ha aiutato Anevia a liberarsi dai massi; ha sorretto Caslek durante la scalata nella caverna |
+| [[Sessione 002]] | Ha usato Divine Sense nel tempio di Torag (sconsacrato). Ha trafitto il ghast sull'altare da parte a parte. Ha pregato Iomedae e ricevuto Bless per 24 ore. Ha portato l'insegna di Iomedae per il gruppo. |
+| [[Sessione 003]] | Ha abbattuto il nano mago folle con un attacco non letale alle spalle. È intervenuta per calmare Spark durante il confronto con Horgus. Ha fatto notare a Horgus con tono fermo che il suo atteggiamento influenza le scelte del gruppo. |

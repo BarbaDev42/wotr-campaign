@@ -11,13 +11,13 @@ tags: [index, dashboard]
 <!-- QueryToSerialize: TABLE race AS "Razza", class AS "Classe", level AS "Livello", player AS "Giocatore" FROM "Wrath of the Righteous/02_Party/Members" SORT file.name ASC -->
 <!-- SerializedQuery: TABLE race AS "Razza", class AS "Classe", level AS "Livello", player AS "Giocatore" FROM "Wrath of the Righteous/02_Party/Members" SORT file.name ASC -->
 
-| File                                                                            | Razza             | Classe | Livello | Giocatore |
-| ------------------------------------------------------------------------------- | ----------------- | ------ | ------- | --------- |
-| [[Agira]]                     | Mezzelfo          | \-     | 1       | Luca      |
-| [[Caslek Makiya]]     | Tabaxi            | \-     | 2       | Anti      |
-| [[Kaelen Vortanis]] | Tiefling          | \-     | 1       | Blue      |
-| [[Tamar Darkmane]]   | Umano             | \-     | 1       | Piro      |
-| [[Vlamyra Ruzclaw]] | Dragonide (Rossa) | \-     | 1       | Nina      |
+| File                                                                            | Razza             | Classe    | Livello | Giocatore |
+| ------------------------------------------------------------------------------- | ----------------- | --------- | ------- | --------- |
+| [[Wrath of the Righteous/02_Party/Members/Agira.md\|Agira]]                     | Mezzelfo          | Sorcerer  | 2       | Luca      |
+| [[Wrath of the Righteous/02_Party/Members/Caslek Makiya.md\|Caslek Makiya]]     | Tabaxi            | Rogue     | 2       | Anti      |
+| [[Wrath of the Righteous/02_Party/Members/Kaelen Vortanis.md\|Kaelen Vortanis]] | Tiefling          | Craftsman | 2       | Blue      |
+| [[Wrath of the Righteous/02_Party/Members/Tamar Darkmane.md\|Tamar Darkmane]]   | Umano             | Cleric    | 2       | Piro      |
+| [[Wrath of the Righteous/02_Party/Members/Vlamyra Ruzclaw.md\|Vlamyra Ruzclaw]] | Dragonide (Rossa) | Paladin   | 2       | Nina      |
 
 <!-- SerializedQuery END -->
 
@@ -30,8 +30,8 @@ tags: [index, dashboard]
 
 | File                                                                                   | Stato  | Committente                                                      | Luogo                                                                                                       |
 | -------------------------------------------------------------------------------------- | ------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [[Risalire in Superficie]] | Attiva |                                                                  | [[Caverne Sotterranee di Kenabres]] |
-| [[Scorta di Horgus Gwerm]] | Attiva | [[Horgus Gwerm]] | [[Caverne Sotterranee di Kenabres]] |
+| [[Wrath of the Righteous/05_Quests/Risalire in Superficie.md\|Risalire in Superficie]] | Attiva |                                                                  | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] |
+| [[Wrath of the Righteous/05_Quests/Scorta di Horgus Gwerm.md\|Scorta di Horgus Gwerm]] | Attiva | [[Wrath of the Righteous/03_NPCs/Horgus Gwerm.md\|Horgus Gwerm]] | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] |
 
 <!-- SerializedQuery END -->
 
@@ -44,9 +44,9 @@ tags: [index, dashboard]
 
 | File                                                                 | Data in-game    | Giocata il     | Luogo                                                                                                       |
 | -------------------------------------------------------------------- | --------------- | -------------- | ----------------------------------------------------------------------------------------------------------- |
-| [[Sessione 003]] | August 16, 4713 | April 10, 2026 | [[Caverne Sotterranee di Kenabres]] |
-| [[Sessione 002]] | August 16, 4713 | April 03, 2026 | [[Caverne Sotterranee di Kenabres]] |
-| [[Sessione 001]] | August 16, 4713 | March 26, 2026 | [[Kenabres]]                                               |
+| [[Wrath of the Righteous/01_Sessions/Sessione 003.md\|Sessione 003]] | August 16, 4713 | April 10, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] |
+| [[Wrath of the Righteous/01_Sessions/Sessione 002.md\|Sessione 002]] | August 16, 4713 | April 03, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] |
+| [[Wrath of the Righteous/01_Sessions/Sessione 001.md\|Sessione 001]] | August 16, 4713 | March 26, 2026 | [[Wrath of the Righteous/04_Locations/Kenabres.md\|Kenabres]]                                               |
 
 <!-- SerializedQuery END -->
 

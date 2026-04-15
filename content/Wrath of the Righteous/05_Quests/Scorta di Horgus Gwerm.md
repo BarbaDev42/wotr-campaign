@@ -16,6 +16,18 @@ description: Horgus Gwerm, nobile del Casato Gwerm del Mendev, offre 1000 monete
 
 ---
 
+## Panoramica
+
+| | |
+|--|--|
+| **Stato** | Attiva |
+| **Committente** | [[Horgus Gwerm]] |
+| **Luogo** | [[Caverne Sotterranee di Kenabres]] |
+| **Iniziata** | [[Sessione 003]] |
+| **Completata** | — |
+
+---
+
 ## Obiettivo
 
 Portare [[Horgus Gwerm|Horgus]] in superficie e accompagnarlo alla sua magione nel Mendev.

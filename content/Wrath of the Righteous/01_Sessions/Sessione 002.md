@@ -16,6 +16,17 @@ description: Nelle caverne sotto Kenabres il gruppo scopre un tempio nanico prof
 
 ---
 
+## Dettagli sessione
+
+| | |
+|--|--|
+| **Data in-game** | 16 Agosto 4713 |
+| **Giocata il** | 3 Aprile 2026 |
+| **Luogo** | [[Caverne Sotterranee di Kenabres]] |
+| **Livello party** | 1 |
+
+---
+
 ## Cosa è successo
 
 ### Situazione iniziale

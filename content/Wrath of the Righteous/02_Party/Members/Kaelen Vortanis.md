@@ -2,9 +2,9 @@
 title: Kaelen Vortanis (Spark)
 aliases:
   - Spark
+class: Craftsman
 race: Tiefling
-class:
-level: 1
+level: 2
 player: Blue
 type: character
 tags:
@@ -18,6 +18,17 @@ description: Pratica, curiosa fino all'imprudenza, capace di rattoppare sia feri
 ![[pg_kaelen_vortanis.png]]
 
 > *Prima guarda, poi tocca. Tranne quando la curiosità vince — che è quasi sempre.*
+
+---
+
+## Panoramica
+
+| | |
+|--|--|
+| **Razza** | Tiefling |
+| **Classe** | Craftsman |
+| **Livello** | 2 |
+| **Giocatore** | Blue |
 
 ---
 
@@ -66,6 +77,8 @@ Ha anche un lato che la mette regolarmente nei guai: la curiosità. Vedere qualc
 | Sessione | Cosa è successo |
 |----------|----------------|
 | [[Sessione 001]] | Ha fasciato la gamba rotta di Anevia; si è avvicinata imprudentemente al corpo del drago e è stata colpita dalle larve; ha recuperato 5 scaglie di drago argento |
+| [[Sessione 002]] | Ha partecipato allo scontro nel tempio di Torag; ha ipotizzato che le incisioni raffigurassero i discendenti dei crociati perduti. Caduta a 0 hp nello scontro con i Darkmantle nella stanza buia. |
+| [[Sessione 003]] | Stabilizzata da Tamar. Ha fatto notare a Horgus che seguire Lann era l'unica opzione ragionevole. Confronto acceso con Horgus dopo essere stata chiamata "Tifling" — lo ha minacciato di lasciarlo a piedi. |
 
 ---
 

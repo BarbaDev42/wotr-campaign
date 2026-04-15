@@ -13,8 +13,8 @@ tags: [index, missioni]
 
 | File                                                                                   | Committente                                                      | Luogo                                                                                                       | Iniziata                                                             |
 | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [[Risalire in Superficie]] |                                                                  | [[Caverne Sotterranee di Kenabres]] | [[Sessione 001]] |
-| [[Scorta di Horgus Gwerm]] | [[Horgus Gwerm]] | [[Caverne Sotterranee di Kenabres]] | [[Sessione 003]] |
+| [[Wrath of the Righteous/05_Quests/Risalire in Superficie.md\|Risalire in Superficie]] |                                                                  | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | [[Wrath of the Righteous/01_Sessions/Sessione 001.md\|Sessione 001]] |
+| [[Wrath of the Righteous/05_Quests/Scorta di Horgus Gwerm.md\|Scorta di Horgus Gwerm]] | [[Wrath of the Righteous/03_NPCs/Horgus Gwerm.md\|Horgus Gwerm]] | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | [[Wrath of the Righteous/01_Sessions/Sessione 003.md\|Sessione 003]] |
 
 <!-- SerializedQuery END -->
 

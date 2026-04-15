@@ -1,8 +1,8 @@
 ---
 title: Tamar Darkmane
 race: Umano
-class:
-level: 1
+class: Cleric
+level: 2
 player: Piro
 type: character
 tags:
@@ -16,6 +16,17 @@ description: Soldato devoto a Sarenrae, burbero ma affidabile quando conta.
 ![[pg_tamar.png]]
 
 > *Non sorride spesso, ma quando accende una luce nel buio non lo fa per ricevere un grazie.*
+
+---
+
+## Panoramica
+
+| | |
+|--|--|
+| **Razza** | Umano |
+| **Classe** | Cleric |
+| **Livello** | 2 |
+| **Giocatore** | Piro |
 
 ---
 
@@ -65,3 +76,5 @@ Quando la caverna è piombata nel buio dopo la caduta, è stato il primo a fare 
 | Sessione | Cosa è successo |
 |----------|----------------|
 | [[Sessione 001]] | Gestiva la bancarella al festival; dopo la caduta ha acceso una luce nel buio e ha aiutato Horgus a rialzarsi |
+| [[Sessione 002]] | Ha scoperto che le ferite di Caslek sono false durante un controllo medico. Ha trovato il martello da guerra del sacerdote nano. Ha stabilizzato Caslek con Spare the Dying durante lo scontro con i Darkmantle. |
+| [[Sessione 003]] | Ha pregato Sarenrae sul corpo di Agira, innescando la resurrezione divina. Il suo simbolo sacro è stato trasformato **da argento a oro** dalla dea in persona. Ha stabilizzato Spark con una prova di medicina. |

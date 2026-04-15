@@ -62,11 +62,17 @@ Durante la prima crociata, molte famiglie di crociati scomparvero o scelsero un 
 - **B2: Anticamera** — panca di pietra, acquasantiera su piedistallo (acqua ancora benedetta)
 - **B3: Navata** — [[Tempio di Torag (Caverne)]] interno; panche infrante, altare coperto di polvere; sconsacrato; conteneva un ghast
 
+### Sezione C — Caverna della Torre Crollata
+
+- **C1: Grande caverna circolare** — 21 metri di diametro, formazioni cilindriche che formano una cupola, pareti venate di crepe. Al centro: resti di una torre di pietra crollata, usata dagli [[Ibridati di Neatholm]] come punto di osservazione
+- **C2: Accampamento del nano mago** — piccola caverna raggiungibile da un condotto stretto; fuoco da campo, giaciglio cencioso. Ex-rifugio di un nano delle rocce mago, prigioniero evaso della Regina Meve
+
 ### Altre zone
 
 - **Bivio con stanza circolare** — corridoio che porta al Tempio di Torag (sezione B) e corridoio principale che prosegue verso sud
 - **Corridoio con incisioni raffinate** — pareti con figure di guerrieri tristi; probabilmente opera dei [[Discendenti della Prima Crociata]]
 - **Grande stanza buia** — dove la luce viene soppressa magicamente; scontro con creature di oscurità (totani violacei)
+- **Baratro recente** — fenditura nel pavimento lungo il tunnel verso Neatholm, causata dal crollo della torre; blocca il percorso
 
 ---
 
@@ -96,6 +102,8 @@ Le gallerie esistono almeno dalla prima crociata. Si vocifera che famiglie di cr
 - Larve giganti / mosche (fuori dal tempio di Torag, sessione 002)
 - Ghast (sacerdote nano non morto, dentro il tempio di Torag, sessione 002)
 - Totani violacei con aura di oscurità magica (grande stanza, sessione 002 — capaci di spegnere luce divina e non)
+- Darkmantle (sessione 002/003 — creature da soffitto che avvolgono le prede nell'oscurità)
+- Nano mago folle (sessione 003 — nano delle rocce, prigioniero evaso della Regina Meve, eliminato)
 
 ---
 
@@ -105,3 +113,4 @@ Le gallerie esistono almeno dalla prima crociata. Si vocifera che famiglie di cr
 |----------|----------------|
 | [[Sessione 001]] | Caduta del gruppo; soccorso ai feriti; esplorazione dei due percorsi; recupero scaglie e zaino |
 | [[Sessione 002]] | Combattimento con serpente e larve; presentazioni del gruppo; tempio di Torag trovato, esplorato, ghast sconfitto; sacerdote seppellito; preghiera e Bless a Vlamira; incisioni della prima crociata; scontro con totani di oscurità; Agira morto, Caslek e Spark caduti |
+| [[Sessione 003]] | Resurrezione di Agira da parte di Sarenrae; Horgus si rivela nobile del Casato Gwerm; nano mago folle eliminato; primo contatto con gli [[Ibridati di Neatholm]] (Lann, Crell, Dira); torre crollata; baratro blocca il percorso verso Neatholm |
