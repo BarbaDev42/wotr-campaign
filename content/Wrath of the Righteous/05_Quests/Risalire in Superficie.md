@@ -39,15 +39,14 @@ Trovare un percorso attraverso le caverne che conduca in superficie, portando co
 |----------|----------------|
 | [[Sessione 001]] | Caduta nelle caverne; gruppo formato; prime esplorazioni; recupero risorse |
 | [[Sessione 002]] | Avanzata verso sud; tempio di Torag esplorato; incisioni della prima crociata; scontro con creature di oscurità; gruppo decimato — Agira morto, Caslek e Spark caduti |
+| [[Sessione 004]] | Attraversato il baratro e la caverna del Basidirond. Arrivati a [[Neatholm]], villaggio degli ibridati. [[Sull]] indica il percorso verso la superficie: passa a sud, ma è bloccato dalla tribù ostile. Il gruppo deve prima completare la missione [[Distruggere il Villaggio Ostile]]. |
 
 ---
 
 ## Complicazioni
 
-- **Agira è morto** in [[Sessione 002]] — come si procede?
-- **Caslek e Spark** sono a 0 hp — hanno bisogno di cure prima di poter riprendere il cammino
-- **Creature di oscurità** nelle caverne più profonde — spengono qualsiasi fonte di luce
-- **Discendenti della Prima Crociata** potrebbero abitare le gallerie più in fondo
+- **Tribù ostile a sud** di Neatholm blocca il percorso verso la superficie — il gruppo deve distruggerla prima di proseguire
+- **[[Templari del Labirinto d'Avorio]]** — cultisti di [[Baphomet]] infiltrati tra i crociati, in contatto con la tribù ostile
 - **Anevia e Aravashnial** continuano ad avere bisogno di assistenza
 
 ---

@@ -5,9 +5,9 @@ location: "[[Kenabres]]"
 status: Vivo (cieco)
 first_seen: "[[Sessione 001]]"
 attitude: Neutrale
-type: png
+type: npc
 tags:
-  - png
+  - npc
 description: Elfo arcanista e studioso della biblioteca di Kenabres. La caduta lo ha privato della vista.
 ---
 
@@ -65,7 +65,8 @@ Elfo di aspetto studioso, arcanista di professione. Lavora (lavorava?) alla bibl
 |----------|----------------|
 | [[Sessione 001]] | Trovato cieco tra i sopravvissuti della caduta; viene guidato dal gruppo |
 | [[Sessione 002]] | Crescente inquietudine per la cecità; ha riconosciuto le incisioni come opera dei crociati della prima crociata; ha raccontato la leggenda del plotone infettato e rifugiatosi sottoterra; vuole toccare le pareti per "leggere" la storia |
-| [[Sessione 003]] | Ha spiegato come ha perso la vista: colpito dalla frusta di fulmini del Signore della Tempesta in faccia, mentre era in prima linea. Ha discusso con [[Horgus Gwerm|Horgus]] come due accademici della storia degli ibridati. Ha toccato le cicatrici sul polso del nano mago e ha riconosciuto il marchio della prigionia della Regina Meve. Promette pergamene in cambio di essere portato fuori. |
+| [[Sessione 003]] | Ha spiegato come ha perso la vista: colpito dalla frusta di fulmini del Signore della Tempesta in faccia, mentre era in prima linea. Ha discusso con [[Horgus Gwerm\|Horgus]] come due accademici della storia degli ibridati. Ha toccato le cicatrici sul polso del nano mago e ha riconosciuto il marchio della prigionia della Regina Meve. Promette pergamene in cambio di essere portato fuori. |
+| [[Sessione 004]] | Tirato su dal baratro con una corda. Stranamente eccitato alla scoperta dei cadaveri dei cultisti di [[Baphomet]] — le sue teorie sull'infiltrazione demoniaca tra i crociati erano confermate. Ha identificato i [[Templari del Labirinto d'Avorio]]. |
 
 ---
 

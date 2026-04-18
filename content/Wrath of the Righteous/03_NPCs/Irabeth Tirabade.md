@@ -7,9 +7,9 @@ location: "[[Kenabres]]"
 status: Viva
 first_seen: "[[Sessione 001]]"
 attitude: Amichevole
-type: png
+type: npc
 tags:
-  - png
+  - npc
 description: Paladina mezza orco di Iomedae, moglie di Anevia Tirabade. Affidabile, con una spada stranamente ordinaria.
 ---
 

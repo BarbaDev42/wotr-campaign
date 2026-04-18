@@ -1,13 +1,13 @@
 ---
 title: Dira
 faction: "[[Ibridati di Neatholm]]"
-location: "[[Caverne Sotterranee di Kenabres]]"
+location: "[[Neatholm]]"
 status: Viva
 first_seen: "[[Sessione 003]]"
 attitude: Cauto
-type: png
+type: npc
 tags:
-  - png
+  - npc
 description: Ibridata di Neatholm. Il suo viso è talmente deformato da renderla incapace di parlare comprensibilmente.
 ---
 
@@ -22,7 +22,7 @@ description: Ibridata di Neatholm. Il suo viso è talmente deformato da renderla
 | | |
 |--|--|
 | **Fazione** | Ibridati di Neatholm |
-| **Luogo** | [[Caverne Sotterranee di Kenabres]] |
+| **Luogo** | [[Neatholm]] |
 | **Stato** | Viva |
 | **Atteggiamento verso il gruppo** | Cauto |
 | **Prima apparizione** | [[Sessione 003]] |
@@ -48,3 +48,4 @@ Una donna. Il suo viso sembra deformato da tumori o escrescenze, talmente tanto 
 | Sessione | Cosa è successo |
 |----------|----------------|
 | [[Sessione 003]] | Incontrata nella grande caverna. Presente durante la liberazione di Crell. |
+| [[Sessione 004]] | Ha quasi perso l'equilibrio durante l'attraversamento del baratro — salvata da [[Agira]] che l'ha afferrata al volo. Arrivata a Neatholm. |

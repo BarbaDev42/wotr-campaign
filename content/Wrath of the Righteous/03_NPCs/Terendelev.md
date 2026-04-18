@@ -5,8 +5,8 @@ location: "[[Kenabres]]"
 status: Sconosciuto (probabilmente morto/a)
 first_seen: "[[Sessione 001]]"
 attitude: Alleato
-type: png
-tags: [png, drago, leggenda]
+type: npc
+tags: [npc, drago, leggenda]
 description: Drago d'argento protettore di Kenabres. Ha combattuto Khorramzadeh sopra la piazza durante la caduta.
 ---
 

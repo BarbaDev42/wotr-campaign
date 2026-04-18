@@ -34,6 +34,18 @@ description: Indice delle mappe e riferimenti visivi per la campagna Wrath of th
   - Esplorata in [[Sessione 002]]
   - Include: cortile con tempio di Torag, anticamera, navata
 
+- [[Caverne Sotterranee di Kenabres - Caverna degli Antenati]] — Sezione C: Caverna degli Antenati (C1–C3)
+  - Esplorata in [[Sessione 003]]
+  - Include: caverna dei crociati scolpiti, accampamento di Millorn, percorso verso l'alto
+
+- [[Caverne Sotterranee di Kenabres - Posto di Guardia Crollato]] — Sezioni D–E: Torre crollata e baratro
+  - Esplorata in [[Sessione 003]]–[[Sessione 004]]
+  - Include: grande caverna a cupola con torre (primo incontro con Lann), baratro superato nella sessione 004
+
+- [[Caverne Sotterranee di Kenabres - Cultisti Morti]] — Sezione F: Caverna del Basidirond
+  - Esplorata in [[Sessione 004]]
+  - Include: resti del [[Basidirond]], cadaveri dei cultisti di Baphomet
+
 ---
 
 ## Note

@@ -5,9 +5,9 @@ location: "[[Kenabres]]"
 status: Vivo
 first_seen: "[[Sessione 001]]"
 attitude: Difficile
-type: png
+type: npc
 tags:
-  - png
+  - npc
 description: Nobile del Mendev, Casato Gwerm. Scontroso e difficile, ma si è rivelato un erudito sulla storia sotterranea.
 ---
 
@@ -66,6 +66,7 @@ Un sopravvissuto della caduta. [[Tamar Darkmane|Tamar]] lo ha aiutato ad alzarsi
 | [[Sessione 001]] | Trovato tra i sopravvissuti; [[Tamar Darkmane\|Tamar]] lo ha aiutato ad alzarsi |
 | [[Sessione 002]] | Ha proposto di abbandonare Anevia; litigato con lei sulla fede nascosta; **è stato il primo a notare le figure scolpite** sulle pareti del corridoio più profondo; ha accettato controvoglia di tenere la torcia |
 | [[Sessione 003]] | Si è rivelato: **nobile del Mendev, Casato Gwerm**. Ha mostrato il suo anello sigillare. Offre 1000 gp alla sua magione come ricompensa. Si è rivelato un erudito sulla storia degli ibridati, parlando come un accademico con Aravashnial. Diffida degli ibridati incontrati. |
+| [[Sessione 004]] | Ha attraversato il baratro con il gruppo. Arrivato a Neatholm. Continua a diffidare degli ibridati ma segue il gruppo senza opporsi. |
 
 ---
 

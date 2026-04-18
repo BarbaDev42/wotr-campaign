@@ -1,12 +1,12 @@
 ---
 title: Lann
 faction: "[[Ibridati di Neatholm]]"
-location: "[[Caverne Sotterranee di Kenabres]]"
+location: "[[Neatholm]]"
 status: Vivo
 first_seen: "[[Sessione 003]]"
 attitude: Amichevole
-type: png
-tags: [png]
+type: npc
+tags: [npc]
 description: Ibridato di Neatholm. Guida del gruppo verso il suo villaggio sotterraneo.
 ---
 
@@ -23,9 +23,9 @@ description: Ibridato di Neatholm. Guida del gruppo verso il suo villaggio sotte
 | | |
 |--|--|
 | **Fazione** | Ibridati di Neatholm |
-| **Luogo** | [[Caverne Sotterranee di Kenabres]] / Neatholm |
+| **Luogo** | [[Neatholm]] |
 | **Stato** | Vivo |
-| **Atteggiamento verso il gruppo** | Amichevole / Cauto |
+| **Atteggiamento verso il gruppo** | Amichevole |
 | **Prima apparizione** | [[Sessione 003]] |
 
 ---
@@ -44,15 +44,18 @@ Tra i tre ibridati incontrati, è chiaramente quello più spigliato e eloquente.
 - Stava usando una torre nelle caverne come punto di osservazione, insieme a Crell e Dira.
 - Un crollo ha distrutto la torre e intrappolato Crell — il gruppo ha aiutato a liberarlo.
 - Conosce bene le caverne; ha offerto di guidare il gruppo a Neatholm attraverso un percorso alternativo.
-- Menziona un'altra tribù di ibridati a **sud-est**, con cui Neatholm ha stipulato un'alleanza. Definisce questa tribù "piuttosto violenta, piuttosto cattiva".
-- Questa tribù è in contatto con umani di superficie che portano armatura con l'icona di una dea e un **falcione**.
+- Menziona un'altra tribù di ibridati a **sud-est**, violenta e aggressiva, che attacca a vista gli abitanti di superficie.
+- Questa tribù è in contatto con umani di superficie che portano armatura con l'icona di una dea e un **falcione** — i [[Templari del Labirinto d'Avorio]].
+- Ha guidato il gruppo attraverso il baratro sotterraneo e la caverna del [[Basidirond]].
+- Ha presentato il gruppo a [[Sull]], il Capo di Neatholm.
+- Assegnato da Sull come guida del gruppo verso la superficie.
 
 ---
 
 ## Cosa vuole
 
-- Tornare a Neatholm e avvertire il capo della situazione.
-- Probabilmente: mantenere la sicurezza del suo villaggio.
+- Guidare il gruppo verso la superficie dopo che avranno distrutto il villaggio ostile.
+- Mantenere la sicurezza di Neatholm.
 
 ---
 
@@ -61,11 +64,11 @@ Tra i tre ibridati incontrati, è chiaramente quello più spigliato e eloquente.
 | Sessione | Cosa è successo |
 |----------|----------------|
 | [[Sessione 003]] | Incontrato nella grande caverna con la torre crollata. Ha chiesto aiuto per liberare Crell. Ha offerto ospitalità e guida a Neatholm. |
+| [[Sessione 004]] | Ha guidato il gruppo attraverso il baratro e la caverna del Basidirond. Ha avvertito del pericolo della pianta e della tribù ostile. Ha presentato il gruppo a Sull. Assegnato da Sull come guida verso la superficie e incaricato di preparare l'equipaggiamento. |
 
 ---
 
 ## Speculazioni
 
-- Chi è il capo di Neatholm? Come reagirà all'arrivo di estranei di superficie?
-- Quanto si fida davvero del gruppo? E della tribù alleata?
-- Cosa sa degli umani con il falcione?
+- Quanto conosce del territorio della tribù ostile a sud?
+- Come reagirà quando il gruppo affronterà la tribù?

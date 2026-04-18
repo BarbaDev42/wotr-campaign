@@ -1,13 +1,13 @@
 ---
 title: Crell
 faction: "[[Ibridati di Neatholm]]"
-location: "[[Caverne Sotterranee di Kenabres]]"
-status: Vivo (ferito gravemente)
+location: "[[Neatholm]]"
+status: Vivo (ferito, in recupero)
 first_seen: "[[Sessione 003]]"
 attitude: Cauto
-type: png
+type: npc
 tags:
-  - png
+  - npc
 description: Ibridato di Neatholm. Rimasto intrappolato sotto un masso durante il crollo della torre.
 ---
 
@@ -22,9 +22,9 @@ description: Ibridato di Neatholm. Rimasto intrappolato sotto un masso durante i
 | | |
 |--|--|
 | **Fazione** | Ibridati di Neatholm |
-| **Luogo** | [[Caverne Sotterranee di Kenabres]] |
-| **Stato** | Vivo — ferito gravemente |
-| **Atteggiamento verso il gruppo** | Cauto / Diffidente |
+| **Luogo** | [[Neatholm]] |
+| **Stato** | Vivo — ferito, in recupero |
+| **Atteggiamento verso il gruppo** | Cauto |
 | **Prima apparizione** | [[Sessione 003]] |
 
 ---
@@ -49,3 +49,4 @@ Non se ne è vista bene la forma — era bloccato sotto un masso quando il grupp
 | Sessione | Cosa è successo |
 |----------|----------------|
 | [[Sessione 003]] | Liberato dal masso grazie al gruppo. Ferito gravemente. |
+| [[Sessione 004]] | Ha ricevuto una pozione di cura dal gruppo durante il viaggio verso Neatholm. Le sue condizioni sono migliorate. |

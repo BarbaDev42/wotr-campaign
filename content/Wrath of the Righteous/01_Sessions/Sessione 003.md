@@ -81,7 +81,7 @@ Alla fine [[Vlamyra Ruzclaw|Vlamyra]] lo abbatte con un attacco non letale alle 
 
 Attorno al fuoco: un giaciglio cencioso, uno zaino, una statuetta di marmo scheggiata (raffigurante un umanoide che scaglia una lancia — il suo focus arcano). Il nano porta alla cintura un **libro di incantesimi** in lingua arcana e, nello zaino, un **tomo in cuoio con decorazioni metalliche rosse** scritto in **Abissale**. Addosso: una **pergamena di Protezione dall'Energia**, una **pergamena di Shocking Grasp**, una **pozione di guarigione**, una **pozione di invisibilità**. E indosso, un **[[Mantello della Resistenza]]** con parti d'argento cucite nella stoffa.
 
-[[Aravashnial]] tocca le cicatrici sul polso del nano e capisce: sono simboli simili ai bracciali di [[Caslek Makiya|Caslek]]. *"È un fuggitivo. Era un prigioniero. L'ho visto solo un'altra volta — era stato imprigionato dalla Regina Meve stessa."*
+[[Aravashnial]] tocca le cicatrici sul polso del nano e capisce: sono simboli simili ai bracciali di [[Caslek Makiya|Caslek]]. *"È un fuggitivo. Era un prigioniero. L'ho visto solo un'altra volta — era stato imprigionato dalla Regina Galfrey stessa."*
 
 Il tomo in abissale viene buttato nel fuoco da [[Caslek Makiya|Caslek]] — arde di fiamme rosse intense, l'inchiostro diventa color sangue.
 
@@ -167,7 +167,7 @@ Una sessione di quelle che non si dimenticano. La resurrezione di Agira ha cambi
 - Aravashnial ha perso la vista per la frusta del Signore della Tempesta.
 - Esiste una tribù di ibridati chiamata Neatholm.
 - Esiste un'altra tribù più violenta, alleata con falsi (?) paladini di Iomedae.
-- Il nano folle era un prigioniero evaso, condannato dalla Regina Meve.
+- Il nano folle era un prigioniero evaso, condannato dalla Regina Galfrey.
 - Le cicatrici sul suo polso sono simili ai bracciali di Caslek.
 
 ---
@@ -218,11 +218,11 @@ Una sessione di quelle che non si dimenticano. La resurrezione di Agira ha cambi
 
 - Chi erano i "paladini di Iomedae con il falcione" che frequentano la tribù violenta a sud-est?
 - Cosa sono i bracciali di Caslek e perché il nano aveva le stesse cicatrici?
-- Perché il nano era stato condannato dalla Regina Meve? Cosa sa di cui avevamo bisogno?
+- Perché il nano era stato condannato dalla Regina Galfrey? Cosa sa di cui avevamo bisogno?
 - Cosa vuole Horgus davvero — perché conosce così bene la storia degli ibridati?
 - Cos'è Neatholm e chi è il capo della tribù?
 - Horgus conosce un tabaxi condannato a morte — chi era? C'è un collegamento con Caslek?
-- Horgus ha connessioni dirette con la regina Meve: quanto può essere pericoloso fuori dalle caverne?
+- Horgus ha connessioni dirette con la regina Galfrey: quanto può essere pericoloso fuori dalle caverne?
 
 ---
 
@@ -249,7 +249,7 @@ Il gruppo completo più [[Horgus Gwerm|Horgus]], [[Aravashnial]] e [[Anevia Tira
 Superare o aggirare il baratro. Raggiungere Neatholm con Lann, Crell e Dira.
 
 ### Tensioni aperte
-- Horgus ha minacciato Spark di riferire alla regina Meve. La tensione con lui è aperta.
+- Horgus ha minacciato Spark di riferire alla regina Galfrey. La tensione con lui è aperta.
 - Horgus ha allusivamente menzionato un tabaxi condannato a morte a Caslek — messaggio ricevuto.
 - Caslek ha nascosto di prendere l'anello d'oro e altri oggetti.
 - Il nano mago è stato ucciso — alcuni lo hanno accettato, altri no.

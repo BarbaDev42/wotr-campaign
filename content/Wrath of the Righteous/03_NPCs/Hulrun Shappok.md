@@ -5,8 +5,8 @@ location: "[[Kenabres]]"
 status: Sconosciuto
 first_seen: "[[Sessione 001]]"
 attitude: Neutrale
-type: png
-tags: [png]
+type: npc
+tags: [npc]
 description: Inquisitore prelato di Kenabres, seconda autorità del Mendev. Uomo di grande fama e grande peso sulla coscienza.
 ---
 

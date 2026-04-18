@@ -5,8 +5,8 @@ location: "[[Kenabres]]"
 status: Sconosciuto
 first_seen: "[[Sessione 001]]"
 attitude: Ostile
-type: png
-tags: [png, demone, boss, piaga]
+type: npc
+tags: [npc, demone, boss, piaga]
 description: Il Re della Tempesta. Demone signore che ha attaccato Kenabres e combattuto Terendelev nel cielo.
 ---
 
