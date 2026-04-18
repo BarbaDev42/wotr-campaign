@@ -19,6 +19,7 @@ unit: metri
 scale: 1.5
 marker: default, -0.55, 0.35, [[Caverne Sotterranee di Kenabres - Caverna degli Antenati#C1 — Caverna dei Crociati]]
 marker: default, -0.40, 0.80, [[Caverne Sotterranee di Kenabres - Caverna degli Antenati#C2 — Palazzo di Millorn]]
+marker: default, -0.17, 1.1, [[Caverne Sotterranee di Kenabres - Caverna degli Antenati#C3 — Percorso verso l'Alto]]
 ```
 
 ---
