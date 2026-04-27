@@ -25,7 +25,7 @@ La mattina del 17 Agosto 4713, il gruppo si sveglia a [[Neatholm]]. È sempre bu
 
 Il gruppo visita l'emporio di **[[Brynn]]**, il mercante di Neatholm — in realtà una bancarella tenuta da un ibridato timido e rannicchiato nel suo mantello. Mostrano la spilletta con le ametiste ricevuta da [[Sull]] e ottengono uno sconto. [[Caslek Makiya|Caslek]] tenta di rivendere le armi dei cultisti gonfiando i prezzi, ma fallisce miseramente — Brynn si accorge dei graffi e delle ammaccature. Metà del valore, come di consueto.
 
-[[Kaelen Vortanis|Spark]] compra le Alchemist's Supplies. [[Tamar Darkmane|Tamar]] compra un Healer's Kit, una lanterna, olio e torce. [[Agira]] compra farina e torce. [[Anevia Tirabade|Anevia]] compra una faretra da 20 frecce.
+[[Caslek Makiya|Caslek]] compra le Alchemist's Supplies. [[Tamar Darkmane|Tamar]] compra un Healer's Kit, una lanterna, olio e torce. [[Agira]] compra farina e torce. [[Anevia Tirabade|Anevia]] compra una faretra da 20 frecce.
 
 Brynn mostra al gruppo una **Moneta della Piuma** — un token di ghisa con l'icona di una piuma, che protegge dalle cadute. Costa 75 monete d'oro con lo sconto, troppo per le tasche del gruppo. Spark e Agira la riconoscono: ai bastioni di Kenabres la portavano i cavalieri con cavalcature volanti e le truppe sulle torri alte. Brynn dice che è stata forgiata dal *saggio* del villaggio — e indica una capanna sull'altra sponda del lago. Il gruppo chiede a Brynn di tenerla da parte.
 
@@ -65,9 +65,7 @@ Le guardie sono due ibridati armati di mazza, pugnale e artigli naturali, postat
 
 ### Il combattimento alle barricate
 
-Caslek si arrampica oltre le barricate per raggiungere la porta e la blocca con dei piton. Ma Agira, avvicinandosi, viene avvistato dalle guardie, che urlano e imbracciano le armi. Scoppia la mischia. Agira lancia un *Fire Bolt*, Caslek colpisce alle spalle con lo *Sneak Attack*, [[Vlamyra Ruzclaw|Vlamyra]] usa il soffio di drago per illuminare la grotta, [[Kaelen Vortanis|Kaylin]] attacca con la catena, e Lann rivela di essere un **monaco** — spada corta, calci e punti ki.
-
-Le due guardie cadono rapidamente. Ma dall'interno si sente il ruggito di una creatura — una grossa lucertola.
+Caslek si arrampica oltre le barricate e blocca la porta con dei piton. Ma Agira viene avvistato dalle guardie, che urlano e imbracciano le armi. Scoppia la mischia. Le due guardie cadono rapidamente. Dall'interno si sente il ruggito di una creatura — una grossa lucertola. Lann rivela di essere un **monaco** — spada corta, calci e punti ki.
 
 ### L'incontro con Uziel
 
@@ -89,7 +87,7 @@ Il gruppo discute se uccidere o stordire gli ibridati. Agira e Caslek preferireb
 
 ### Come è finita
 
-Uziel calcia la porta del dormitorio. Dentro, un ibridato si gira armato. Anevia lo colpisce con una freccia, Uziel si lancia nella mischia e fa un *critico* con le sue lame d'ossa — l'ibridato cade privo di sensi in pochi secondi. Ma altri ibridati si stanno preparando, la lucertola gigante è uscita dalla dispensa, e da una stanza a sud arriva una freccia che colpisce Vlamyra al fianco per dieci danni — qualcuno là sotto li sta aspettando.
+Uziel calcia la porta del dormitorio e inizia il secondo scontro. [[Vlamyra Ruzclaw|Vlamyra]] usa il soffio di drago per illuminare la grotta. La lucertola gigante esce dalla dispensa. Da una stanza a sud arriva una freccia che colpisce Vlamyra al fianco per dieci danni — qualcuno là sotto li sta aspettando.
 
 La sessione si chiude a metà combattimento.
 
@@ -157,7 +155,7 @@ Una sessione divisa nettamente in due metà: la prima, sociale e preparatoria, h
 
 | Oggetto | Chi ce l'ha | Note |
 |---------|------------|------|
-| Alchemist's Supplies | [[Kaelen Vortanis\|Spark]] | Comprate da Brynn |
+| Alchemist's Supplies | [[Caslek Makiya\|Caslek]] | Comprate da Brynn |
 | Healer's Kit | [[Tamar Darkmane\|Tamar]] | Comprato da Brynn |
 | Pergamena di Cura Ferite | [[Tamar Darkmane\|Tamar]] | Identificata da sessioni precedenti |
 | Torce, lanterna, olio | Gruppo | Comprate da Brynn |
