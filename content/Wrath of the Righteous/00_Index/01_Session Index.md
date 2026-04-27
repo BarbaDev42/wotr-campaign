@@ -15,5 +15,7 @@ tags: [index, sessioni]
 | [[Wrath of the Righteous/01_Sessions/Sessione 002.md\|Sessione 002]] | August 16, 4713 | April 03, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | 1       |
 | [[Wrath of the Righteous/01_Sessions/Sessione 003.md\|Sessione 003]] | August 16, 4713 | April 10, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | 2       |
 | [[Wrath of the Righteous/01_Sessions/Sessione 004.md\|Sessione 004]] | August 17, 4713 | April 17, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | 2       |
+| [[Wrath of the Righteous/01_Sessions/Sessione 005.md\|Sessione 005]] | August 17, 4713 | April 24, 2026 | [[Wrath of the Righteous/04_Locations/Neatholm.md\|Neatholm]]                                               | 3       |
+
 <!-- SerializedQuery END -->
 

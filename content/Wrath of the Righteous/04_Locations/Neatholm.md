@@ -40,7 +40,7 @@ Le abitazioni sono per lo più palafitte di legno con tetti di paglia. La casa d
 - **Casupola del Capo** — abitazione e sede di comando di [[Sull]], al centro dell'isola
 - **Pontile e zattere** — unico accesso all'isola dal lago
 - **Porta di pietra** — ingresso sorvegliato da guardie ibridate
-- **Bottega di Brin** — il mercante del villaggio (non ancora visitato)
+- **Bottega di Brynn** — il mercante del villaggio (non ancora visitato)
 
 ---
 
@@ -52,7 +52,8 @@ Le abitazioni sono per lo più palafitte di legno con tetti di paglia. La casa d
 | [[Lann]]  | Esploratore e guida              |
 | [[Crell]] | Abitante, ferito                 |
 | [[Dira]]  | Abitante                         |
-| Brin      | Mercante (non ancora incontrato) |
+| [[Brynn]]  | Mercante del villaggio |
+| [[Olop|Il Saggio di Neatholm]] | Veggente e oracolo |
 
 ---
 
@@ -69,3 +70,4 @@ Il villaggio vive sotto la costante minaccia di un'altra tribù di ibridati più
 | Sessione | Cosa è successo |
 |----------|----------------|
 | [[Sessione 004]] | Il gruppo arriva per la prima volta, accolto da Lann. Il capo Sull offre alleanza e chiede aiuto per distruggere il villaggio ostile. Il gruppo riposa per la notte. |
+| [[Sessione 005]] | Il gruppo visita l'emporio di Brynn e il veggente sulla sponda opposta del lago. Shopping, profezie, e preparazione per l'assalto al villaggio ostile. |

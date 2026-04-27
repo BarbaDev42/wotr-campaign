@@ -44,7 +44,7 @@ Ibridato pingue, dall'aspetto sgradevole. Un occhio è velato di bianco. Seduto 
 - Sa dell'esistenza della tribù ostile a sud e del pericolo che rappresenta.
 - Ha risorse limitate ma le condivide generosamente: ha offerto pozioni di guarigione e una guida.
 - Ha mandato esploratori nei tunnel profondi per avvisare altre cellule di ibridati di prepararsi per la crociata.
-- Possiede una spilletta a forma di pipistrello con ametiste, simbolo di riconoscimento per il mercante Brin.
+- Possiede una spilletta a forma di pipistrello con ametiste, simbolo di riconoscimento per il mercante Brynn.
 
 ---
 
