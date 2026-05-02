@@ -18,6 +18,7 @@ tags: [index, luoghi]
 | [[Wrath of the Righteous/04_Locations/Piazza di Clydwell.md\|Piazza di Clydwell]]                                 | [[Wrath of the Righteous/04_Locations/Kenabres.md\|Kenabres]]                                               | Piazza pubblica                | [[Wrath of the Righteous/01_Sessions/Sessione 001.md\|Sessione 001]] |
 | [[Wrath of the Righteous/04_Locations/Tempio di Torag (Caverne).md\|Tempio di Torag (Caverne)]]                   | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | Tempio / Bunker                | [[Wrath of the Righteous/01_Sessions/Sessione 002.md\|Sessione 002]] |
 | [[Wrath of the Righteous/04_Locations/Villaggio degli Ibridati Traditori.md\|Villaggio degli Ibridati Traditori]] | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | Dungeon / Insediamento ostile  | [[Wrath of the Righteous/01_Sessions/Sessione 005.md\|Sessione 005]] |
-
 <!-- SerializedQuery END -->
+
+
 

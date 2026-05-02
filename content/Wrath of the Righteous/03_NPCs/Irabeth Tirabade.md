@@ -2,6 +2,7 @@
 title: Irabeth Tirabade
 aliases:
   - Irabeth
+gender: Femminile
 faction: "[[Esercito del Mendev]]"
 location: "[[Kenabres]]"
 status: Viva

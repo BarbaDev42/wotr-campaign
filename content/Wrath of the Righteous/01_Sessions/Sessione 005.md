@@ -29,6 +29,8 @@ Il gruppo visita l'emporio di **[[Brynn]]**, il mercante di Neatholm — in real
 
 Brynn mostra al gruppo una **Moneta della Piuma** — un token di ghisa con l'icona di una piuma, che protegge dalle cadute. Costa 75 monete d'oro con lo sconto, troppo per le tasche del gruppo. Spark e Agira la riconoscono: ai bastioni di Kenabres la portavano i cavalieri con cavalcature volanti e le truppe sulle torri alte. Brynn dice che è stata forgiata dal *saggio* del villaggio — e indica una capanna sull'altra sponda del lago. Il gruppo chiede a Brynn di tenerla da parte.
 
+![[session_005_1.png]]
+
 ### Il Veggente di Neatholm
 
 [[Lann]] stava appunto attraversando il lago in barca per visitare il saggio e chiedere la sua benedizione prima della spedizione. Il gruppo si divide: Spark, Agira e Lann attraversano il lago; gli altri restano al molo.
@@ -67,6 +69,8 @@ Le guardie sono due ibridati armati di mazza, pugnale e artigli naturali, postat
 
 Caslek si arrampica oltre le barricate e blocca la porta con dei piton. Ma Agira viene avvistato dalle guardie, che urlano e imbracciano le armi. Scoppia la mischia. Le due guardie cadono rapidamente. Dall'interno si sente il ruggito di una creatura — una grossa lucertola. Lann rivela di essere un **monaco** — spada corta, calci e punti ki.
 
+![[session_005_2.png]]
+
 ### L'incontro con Uziel
 
 Il tiefling rientra e lancia *Darkness*, avvolgendo la zona nell'oscurità. Poi, sorprendentemente, inizia a parlare. Si presenta come **[[Uziel]]**, un mercenario. *"Sono i vostri ospiti? Buongiorno, non siete stati invitati."* Poi, pragmatico: *"Io sono pacifico. Questi qua vogliono spudellarvi. Voi quanto offrite?"*
@@ -82,6 +86,8 @@ Uziel fornisce informazioni preziose:
 - Uziel era pagato 100 monete d'oro per proteggerla in silenzio.
 
 Tamar è sospettoso — non si fida di un mercenario che cambia padrone per soldi. Uziel se ne frega: *"Beh, voi mi avete pagato un extra più extra."* Caslek lo prende sotto la sua ala, e i due sembrano andare d'accordo. Uziel si inchina teatralmente a Tamar: *"Al vostro servizio."*
+
+![[session_005_3.png]]
 
 Il gruppo discute se uccidere o stordire gli ibridati. Agira e Caslek preferirebbero non uccidere — Tamar è più pragmatico. Alla fine la linea è: dare una seconda possibilità a chi la vuole, ma proteggere il gruppo prima di tutto.
 

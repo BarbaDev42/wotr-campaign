@@ -1,5 +1,6 @@
 ---
 title: Terendelev
+gender: Femminile
 faction: "[[Protettori di Kenabres]]"
 location: "[[Kenabres]]"
 status: Sconosciuto (probabilmente morto/a)

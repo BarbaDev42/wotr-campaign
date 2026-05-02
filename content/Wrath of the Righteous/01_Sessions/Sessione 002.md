@@ -41,6 +41,8 @@ Un serpente — di quelli grandi, senza rancore personale — aveva sbarrato il 
 
 Horgus, nel frattempo, si era lamentato di Anevia. Anevia aveva risposto in modo secco, accennando al fatto che lui nascondesse qualcosa riguardo alla propria fede. Horgus aveva replicato accusandola di avere rapporti con una gilda di ladri. [[Agira]] li aveva zittiti entrambi con la diplomazia di chi ha visto troppe discussioni inutili.
 
+![[session_002_1.png]]
+
 ### Il Tempio di Torag
 
 A un bivio — una caverna circolare a sinistra, il corridoio dritto a destra — le tracce andavano dritto. Ma quello che c'era nella caverna circolare era troppo evidente per ignorarlo.
@@ -60,6 +62,8 @@ Non lo era. O meglio: lo era, ma non si comportava come tale.
 La creatura si animò come un lampo: bocca aperta su denti fatti per dilaniare, lingua lunghissima, odore atroce. Un **ghast** — versione più potente di un ghoul, capo di branchi, capace di sopravvivere nelle cripte per secoli senza nutrirsi. Il suo stesso fetore era un'arma.
 
 [[Agira]] fu il primo bersaglio: lo salvò il contegno, non la fortuna. La creatura era veloce e il tanfo era quasi paralizzante. Il combattimento fu confuso e pericoloso — [[Anevia Tirabade|Anevia]] usò l'arco dalla parete, [[Vlamyra Ruzclaw|Vlamyra]] saltò sull'altare per attaccare alle spalle e trafiggere la creatura da parte a parte. Il ghast crollò per davvero.
+
+![[session_002_3.png]]
 
 Addosso: un abito cerimoniale dedicato a Torag (con buco nella schiena, ora), un anello d'oro di fattura pregevole (stimato ~150 mo), e nascosta dietro l'altare una borsa con due pozioni. Sul corpo anche monete miste e una pergamena per [[Agira]] e [[Caslek Makiya|Caslek]]. [[Tamar Darkmane|Tamar]] trovò un martello da guerra nella polvere — l'arma del sacerdote, abbandonata chissà quando.
 
@@ -92,6 +96,8 @@ Non erano soli.
 Due Darkmantle scesero dal soffitto e avvolsero il gruppo nell'invisibilità. [[Agira]] fu il primo a cadere, travolto, e quando Tamar posò la mano sulla sua bocca non sentì più il respiro. Non per incoscienza. Proprio morto.
 
 [[Caslek Makiya|Caslek]] cadde poco dopo. [[Tamar Darkmane|Tamar]] riuscì a stabilizzarlo con *Spare the Dying*. Le creature vennero infine abbattute — ma quando la seconda si spense, portò con sé anche [[Kaelen Vortanis|Spark]], che aveva combattuto nell'oscurità fino all'ultimo.
+
+![[session_002_2.png]]
 
 *Noi ci vedremo settimana prossima, per capire cosa ne sarà del povero Agira.*
 

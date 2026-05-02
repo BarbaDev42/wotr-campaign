@@ -1,5 +1,6 @@
 ---
 title: Hulrun Shappok
+gender: Maschile
 faction: "Mendev / Chiesa di Iomedae"
 location: "[[Kenabres]]"
 status: Sconosciuto

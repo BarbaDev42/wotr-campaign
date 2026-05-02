@@ -51,6 +51,8 @@ Le ceneri vorticano. Il corpo si ricompone. Agira riapre gli occhi, si rialza ur
 
 La dea raccoglie il simbolo di Tamar dalla cenere: da argento, è diventato **oro**. Lo porge a Tamar con un sorriso. Poi scompare, come una fiamma che si spegne.
 
+![[session_003_1.png]]
+
 ### Horgus rivela la sua identità
 
 Ripreso fiato, [[Horgus Gwerm|Horgus]] si alza, si toglie l'anello con sigillo nobiliare e lo mostra al gruppo. Sullo stemma: uno scudo con rombi, una spada con un sole al posto dell'elsa — il simbolo araldico della nazione di Mendev.
@@ -87,6 +89,8 @@ Il tomo in abissale viene buttato nel fuoco da [[Caslek Makiya|Caslek]] — arde
 
 Dopo un lungo dibattito sulla sorte del nano (ancora inconscio), è [[Anevia Tirabade|Anevia]] a decidere: *"Siamo di fronte a un uomo blasfemo. Non possiamo permetterci di risparmiare adoratori di demoni."* Gli recide la gola con gesto rapido e sicuro — non la prima volta per lei, ne è evidente. [[Agira]] compone il corpo con rispetto.
 
+![[session_003_2.png]]
+
 Nota: il nano aveva paura dei Darkmantle della sessione precedente perché li usava per riprodursi — e poi mangiava i loro cuccioli.
 
 ### Incontro con gli ibridati
@@ -102,6 +106,8 @@ Avvicinandosi, una delle figure si gira: è [[Lann]], alto e sottile, con i trat
 Con lui ci sono **[[Dira]]** — donna con il viso deformato da tumori, incapace di parlare in modo comprensibile — e **[[Crell]]**, rimasto intrappolato sotto il masso che si è spostato durante il crollo. Crell è ferito gravemente, quasi in fin di vita.
 
 Il gruppo aiuta a spostare la roccia. Con fatica e una prova difficile, riescono a far strisciare fuori Crell, che ha una gamba e parte del torso schiacciati.
+
+![[session_003_3.png]]
 
 Lann si presenta formalmente: *"Il mio nome è Lann. I miei compagni sono Crell e Dira. Veniamo dal villaggio vicino — non so se ne avete sentito parlare, né a Neatholm. La frana ci ha presi alla sprovvista. Avevamo creato un piccolo posto qui per tenere d'occhio la situazione, ma il terreno è franato, la torre è crollata. Dobbiamo tornare al villaggio. Forse volete venire con noi?"*
 

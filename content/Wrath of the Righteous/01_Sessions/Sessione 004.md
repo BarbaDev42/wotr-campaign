@@ -47,6 +47,8 @@ Riesce a trasportare Anevia (senza equipaggiamento), ma Crell è troppo pesante.
 
 Agira prova a risalire dall'altra parte ma cade, battendo la spalla — **7 danni**. *"Sono ancora vivo... ha fatto decisamente male."* Lascia lo zaino, riprova senza equipaggiamento e riesce. Spark risale agile, Vlamyra con un po' più di fatica. Lann scende con abilità consumata — la sua dichiarazione di essere un esploratore è confermata dai fatti. [[Tamar Darkmane|Tamar]] levita con Anevia dall'altro lato e recupera la corda.
 
+![[session_004_1.png]]
+
 ### La caverna della pianta morta
 
 Dopo 20 minuti di cammino verso sud-ovest, la galleria si apre in una caverna circolare di circa 12 metri di diametro. Lann avverte il gruppo: qui vive una **Basidirond** — una pianta predatrice che percepisce i tremori nel terreno e rilascia spore allucinogene. [[Caslek Makiya|Caslek]] conferma — sa che sono indebolite dal freddo.
@@ -68,6 +70,8 @@ Le reazioni sono diverse. [[Aravashnial]] solleva la testa di scatto quando sent
 Il gruppo tiene l'equipaggiamento dei cultisti e prosegue.
 
 [[Kaelen Vortanis|Spark]] raccoglie tutto quello che puo dai corpi.
+
+![[session_004_2.png]]
 
 ### Lann racconta dell'altro villaggio
 
@@ -102,6 +106,8 @@ Ma c'è un ultimo problema. Il percorso più veloce verso la superficie passa a 
 Agira si gira verso il gruppo: *"Non è una decisione che posso prendere da solo."* Il gruppo accetta.
 
 Sull consegna una cassetta con le pozioni e dà a [[Caslek Makiya|Caslek]] una **spilletta a forma di pipistrello con due ametiste al posto degli occhi** — da mostrare a Brin per commerciare.
+
+![[session_004_3.png]]
 
 ### Riposo a Neatholm
 

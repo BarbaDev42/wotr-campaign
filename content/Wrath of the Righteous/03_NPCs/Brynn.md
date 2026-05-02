@@ -1,5 +1,6 @@
 ---
 title: Brynn
+gender: Maschile
 faction: "[[Ibridati di Neatholm]]"
 location: "[[Neatholm]]"
 status: Vivo

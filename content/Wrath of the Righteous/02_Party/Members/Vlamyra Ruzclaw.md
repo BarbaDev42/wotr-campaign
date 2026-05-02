@@ -1,6 +1,7 @@
 ---
 title: Vlamyra Ruzclaw
 race: Dragonide (Rossa)
+gender: Femminile
 class: Paladin
 level: 2
 player: Nina
@@ -55,13 +56,13 @@ Non è difficile da capire — ma non è nemmeno facile da avvicinare. Eppure, q
 
 ## Legami
 
-| Personaggio | Natura del legame |
-|-------------|------------------|
-| [[Caslek Makiya]] | Compagno di gruppo, lo ha aiutato a scalare nella caverna |
-| [[Agira]] | Compagno di gruppo |
-| [[Kaelen Vortanis]] | Compagna di gruppo |
-| [[Tamar Darkmane]] | Compagno di gruppo |
-| [[Anevia Tirabade|Anevia]] | L'ha aiutata a liberarsi dai massi insieme a [[Kaelen Vortanis|Spark]] |
+| Personaggio         | Natura del legame                                                       |
+| ------------------- | ----------------------------------------------------------------------- |
+| [[Caslek Makiya]]   | Compagno di gruppo, lo ha aiutato a scalare nella caverna               |
+| [[Agira]]           | Compagno di gruppo                                                      |
+| [[Kaelen Vortanis]] | Compagna di gruppo                                                      |
+| [[Tamar Darkmane]]  | Compagno di gruppo                                                      |
+| [[Anevia Tirabade]] | L'ha aiutata a liberarsi dai massi insieme a [[Kaelen Vortanis\|Spark]] |
 
 ---
 

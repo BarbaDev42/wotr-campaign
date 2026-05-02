@@ -1,5 +1,6 @@
 ---
 title: Uziel
+gender: Maschile
 faction: ""
 location: "[[Villaggio degli Ibridati Traditori]]"
 status: Vivo

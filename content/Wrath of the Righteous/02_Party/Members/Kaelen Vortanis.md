@@ -4,6 +4,7 @@ aliases:
   - Spark
 class: Craftsman
 race: Tiefling
+gender: Femminile
 level: 2
 player: Blue
 type: character
@@ -56,13 +57,13 @@ Ha anche un lato che la mette regolarmente nei guai: la curiosità. Vedere qualc
 
 ## Legami
 
-| Personaggio         | Natura del legame                           |
-| ------------------- | ------------------------------------------- |
-| [[Caslek Makiya]]   | Compagno di gruppo                          |
-| [[Agira]]           | Compagno di gruppo                          |
-| [[Vlamyra Ruzclaw]] | Compagna di gruppo                          |
-| [[Tamar Darkmane]]  | Compagno di gruppo                          |
-| [[Anevia Tirabade|Anevia]]          | Le ha fasciato la gamba rotta nella caverna |
+| Personaggio                 | Natura del legame                           |
+| --------------------------- | ------------------------------------------- |
+| [[Caslek Makiya]]           | Compagno di gruppo                          |
+| [[Agira]]                   | Compagno di gruppo                          |
+| [[Vlamyra Ruzclaw]]         | Compagna di gruppo                          |
+| [[Tamar Darkmane]]          | Compagno di gruppo                          |
+| [[Anevia Tirabade\|Anevia]] | Le ha fasciato la gamba rotta nella caverna |
 
 ---
 

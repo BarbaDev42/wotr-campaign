@@ -1,5 +1,6 @@
 ---
 title: Dira
+gender: Femminile
 faction: "[[Ibridati di Neatholm]]"
 location: "[[Neatholm]]"
 status: Viva

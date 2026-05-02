@@ -1,5 +1,6 @@
 ---
 title: Hosilla
+gender: Femminile
 faction: "[[Templari del Labirinto d'Avorio]]"
 location: "[[Villaggio degli Ibridati Traditori]]"
 status: Viva

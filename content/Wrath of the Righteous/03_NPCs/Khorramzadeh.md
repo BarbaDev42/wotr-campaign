@@ -1,5 +1,6 @@
 ---
 title: Khorramzadeh
+gender: Maschile
 faction: "[[Piaga del Mondo]]"
 location: "[[Kenabres]]"
 status: Sconosciuto

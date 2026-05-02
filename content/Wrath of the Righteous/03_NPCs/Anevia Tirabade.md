@@ -2,6 +2,7 @@
 title: Anevia Tirabade
 aliases:
   - Anevia
+gender: Femminile
 faction: "[[Esercito del Mendev]]"
 location: "[[Kenabres]]"
 status: Viva (in recupero)

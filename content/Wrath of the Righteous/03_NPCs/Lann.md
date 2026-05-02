@@ -1,5 +1,6 @@
 ---
 title: Lann
+gender: Maschile
 faction: "[[Ibridati di Neatholm]]"
 location: "[[Neatholm]]"
 status: Vivo

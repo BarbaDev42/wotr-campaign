@@ -1,5 +1,6 @@
 ---
 title: Aravashnial
+gender: Maschile
 faction: "[[Biblioteca di Kenabres]]"
 location: "[[Kenabres]]"
 status: Vivo (cieco)

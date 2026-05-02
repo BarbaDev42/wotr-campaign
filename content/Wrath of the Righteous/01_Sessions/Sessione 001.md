@@ -49,6 +49,8 @@ In un angolo sedeva [[Vlamyra Ruzclaw]], una dragonide dalla pelle color rubino,
 
 Dall'altra parte della bancarella c'era anche [[Kaelen Vortanis]], reduce da un turno di riparazioni, che si era sistemata con l'aria pratica di chi sa dove si mangia bene senza fare troppe storie.
 
+![[session_001_1.png]]
+
 ---
 
 ### Volti noti nella folla
@@ -87,6 +89,8 @@ All'inizio della festività una luce aveva brillato a ovest. Un istante dopo: un
 
 Terendelev e Khorramzadeh erano precipitati insieme nel sottosuolo. Nel suo ultimo atto, Terendelev aveva **rallentato la caduta del gruppo** verso le tenebre. La luce del mondo era scomparsa mentre la spada di Khorramzadeh calava su di lei.
 
+![[session_001_2.png]]
+
 ---
 
 ### Esplorazione della caverna
@@ -104,6 +108,8 @@ Il gruppo si mosse verso una strettoia. [[Caslek Makiya|Caslek]] andò avanti, t
 Il percorso alternativo fu più generoso: sulla seconda altura, [[Caslek Makiya|Caslek]] e [[Vlamyra Ruzclaw]] raggiunsero l'alto con una corda e trovarono lo zaino di un crociato caduto prima che la fessura nel terreno si chiudesse. Dentro: razioni da viaggio per dieci giorni, un acciarino con pietra focaia, triboli, due fiaschette d'olio, dodici frecce, due pozioni. Calò una corda per gli altri.
 
 Il gruppo scese. Avanzò. Non sapeva ancora dove stava andando, ma sapeva che non c'era modo di tornare indietro.
+
+![[session_001_3.png]]
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Caslek Makiya
 race: Tabaxi
+gender: Maschile
 class: Rogue
 level: 2
 player: Anti

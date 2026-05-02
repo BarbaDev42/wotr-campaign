@@ -1,5 +1,6 @@
 ---
 title: Borin
+gender: Maschile
 faction: 
 location: 
 status: Vivo

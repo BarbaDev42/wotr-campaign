@@ -1,6 +1,7 @@
 ---
 title: Agira
 race: Mezzelfo
+gender: Maschile
 class: Sorcerer
 level: 2
 player: Luca

@@ -1,5 +1,6 @@
 ---
 title: Horgus Gwerm
+gender: Maschile
 faction: "[[Casato Gwerm]]"
 location: "[[Kenabres]]"
 status: Vivo

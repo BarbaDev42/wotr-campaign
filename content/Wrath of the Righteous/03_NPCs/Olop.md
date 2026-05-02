@@ -1,6 +1,7 @@
 ---
 title: Olop
 aliases: ["Il Saggio di Neatholm", "Saggio"]
+gender: Maschile
 faction: "[[Ibridati di Neatholm]]"
 location: "[[Neatholm]]"
 status: Vivo

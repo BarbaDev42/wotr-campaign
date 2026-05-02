@@ -1,6 +1,7 @@
 ---
 title: Tamar Darkmane
 race: Umano
+gender: Maschile
 class: Cleric
 level: 2
 player: Piro
@@ -55,13 +56,13 @@ Quando la caverna è piombata nel buio dopo la caduta, è stato il primo a fare 
 
 ## Legami
 
-| Personaggio | Natura del legame |
-|-------------|------------------|
-| [[Caslek Makiya]] | Compagno di gruppo |
-| [[Agira]] | Compagno di gruppo |
-| [[Kaelen Vortanis]] | Compagna di gruppo |
-| [[Vlamyra Ruzclaw]] | Compagna di gruppo |
-| [[Horgus Gwerm|Horgus]] | Lo ha aiutato ad alzarsi nella caverna |
+| Personaggio              | Natura del legame                      |
+| ------------------------ | -------------------------------------- |
+| [[Caslek Makiya]]        | Compagno di gruppo                     |
+| [[Agira]]                | Compagno di gruppo                     |
+| [[Kaelen Vortanis]]      | Compagna di gruppo                     |
+| [[Vlamyra Ruzclaw]]      | Compagna di gruppo                     |
+| [[Horgus Gwerm\|Horgus]] | Lo ha aiutato ad alzarsi nella caverna |
 
 ---
 
