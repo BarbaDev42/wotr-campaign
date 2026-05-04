@@ -8,6 +8,8 @@ tags: [index]
 
 Benvenuti nelle note condivise della nostra campagna *Wrath of the Righteous*. Questa wiki è mantenuta dai giocatori e aggiornata dopo ogni sessione.
 
+![[Campaign_Cover_2.png]]
+
 ---
 
 ## Naviga
