@@ -128,14 +128,14 @@ Una sessione divisa nettamente in due metà: la prima, sociale e preparatoria, h
 
 ## PNG incontrati
 
-| PNG | Prima volta? | Impressione |
-|-----|-------------|-------------|
-| [[Brynn]] | Sì | Mercante timido, onesto, sconto con la spilletta di Sull |
-| [[Olop|Il Saggio di Neatholm]] | Sì | Veggente cieco, ex alchimista, inquietante e gentile |
-| [[Uziel]] | Sì | Mercenario tiefling, cinico ma affidabile — se paghi |
-| [[Lann]] | No | Guida, si rivela essere un monaco; teso all'avvicinarsi del villaggio ostile |
-| [[Anevia Tirabade]] | No | Gamba in miglioramento; rivela di essere stata una spia; senso di colpa per aver fallito |
-| [[Horgus Gwerm]] | No | Menzionato — il gruppo conta di fargli pagare Uziel |
+| PNG                            | Prima volta? | Impressione                                                                              |     |
+| ------------------------------ | ------------ | ---------------------------------------------------------------------------------------- | --- |
+| [[Brynn]]                      | Sì           | Mercante timido, onesto, sconto con la spilletta di Sull                                 |     |
+| [[Olop Il Saggio di Neatholm]] | Sì<br>       | Veggente cieco, ex alchimista, inquietante e gentile                                     |     |
+| [[Uziel]]                      | Sì           | Mercenario tiefling, cinico ma affidabile — se paghi                                     |     |
+| [[Lann]]                       | No           | Guida, si rivela essere un monaco; teso all'avvicinarsi del villaggio ostile             |     |
+| [[Anevia Tirabade]]            | No           | Gamba in miglioramento; rivela di essere stata una spia; senso di colpa per aver fallito |     |
+| [[Horgus Gwerm]]               | No           | Menzionato — il gruppo conta di fargli pagare Uziel                                      |     |
 
 ---
 

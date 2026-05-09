@@ -67,6 +67,7 @@ Tra i tre ibridati incontrati, è chiaramente quello più spigliato e eloquente.
 | [[Sessione 003]] | Incontrato nella grande caverna con la torre crollata. Ha chiesto aiuto per liberare Crell. Ha offerto ospitalità e guida a Neatholm. |
 | [[Sessione 004]] | Ha guidato il gruppo attraverso il baratro e la caverna del Basidirond. Ha avvertito del pericolo della pianta e della tribù ostile. Ha presentato il gruppo a Sull. Assegnato da Sull come guida verso la superficie e incaricato di preparare l'equipaggiamento. |
 | [[Sessione 005]] | Ha accompagnato il gruppo dal veggente e poi guidato verso il villaggio ostile. Visibilmente teso all'avvicinarsi del villaggio nemico. |
+| [[Sessione 006]] | Combatte nel villaggio ostile e, spinto a concentrarsi su [[Wenduag]], la colpisce con una freccia decisiva mentre lei combatte dalle pareti. |
 
 ---
 

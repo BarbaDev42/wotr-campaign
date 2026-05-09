@@ -77,3 +77,4 @@ C'è qualcosa di disarmante in lui, nel modo in cui si approccia al mondo con cu
 | [[Sessione 001]] | Ha incontrato Caslek al festival di Kenabres; è sopravvissuto alla caduta nella caverna sotterranea |
 | [[Sessione 002]] | Ha affrontato un serpente con Burning Blade; ha combattuto il ghast nel tempio di Torag; ha recitato la preghiera di sepoltura per il sacerdote nano. Caduto in combattimento contro i Darkmantle — **morto**. |
 | [[Sessione 003]] | **Resuscitato da Sarenrae** in persona, dopo la preghiera di Tamar. Si è rialzato urlando con le mani in fiamme. Ha preso posizione con Kaelen e Caslek nell'eliminare il nano mago folle. |
+| [[Sessione 006]] | Cura Spark dopo il colpo di Wenduag e cade sotto i colpi di Hosilla, venendo poi rimesso in piedi durante lo scontro. |

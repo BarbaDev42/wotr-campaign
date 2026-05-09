@@ -46,6 +46,8 @@ Portare [[Horgus Gwerm|Horgus]] in superficie e accompagnarlo alla sua magione n
 
 Nota: inizialmente il gruppo credeva fosse 1000 gp in totale, ma Horgus ha confermato 1000 gp totali (non a testa).
 
+Nota informale: nella [[Sessione 005]] il gruppo ha promesso 250 mo a [[Uziel]] per cambiare bandiera, con l'idea di scaricare il costo su Horgus.
+
 ---
 
 ## Stato
@@ -59,3 +61,4 @@ Attiva — il gruppo deve ancora raggiungere la superficie con Horgus.
 | Sessione | Aggiornamento |
 |----------|--------------|
 | [[Sessione 003]] | Accordo stipulato. Horgus ha mostrato il sigillo nobiliare come prova della sua identità. |
+| [[Sessione 006]] | Il debito informale verso [[Uziel]] resta aperto: il gruppo intende farlo rientrare nei soldi promessi da Horgus. |

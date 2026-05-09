@@ -79,3 +79,4 @@ Quando la caverna è piombata nel buio dopo la caduta, è stato il primo a fare 
 | [[Sessione 001]] | Gestiva la bancarella al festival; dopo la caduta ha acceso una luce nel buio e ha aiutato Horgus a rialzarsi |
 | [[Sessione 002]] | Ha scoperto che le ferite di Caslek sono false durante un controllo medico. Ha trovato il martello da guerra del sacerdote nano. Ha stabilizzato Caslek con Spare the Dying durante lo scontro con i Darkmantle. |
 | [[Sessione 003]] | Ha pregato Sarenrae sul corpo di Agira, innescando la resurrezione divina. Il suo simbolo sacro è stato trasformato **da argento a oro** dalla dea in persona. Ha stabilizzato Spark con una prova di medicina. |
+| [[Sessione 006]] | Il suo arrivo spinge Wenduag a sparare a Spark e fuggire. Viene poi preso di mira da Hosilla come nemico spirituale, usa una pergamena di *Cura Ferite* per rialzare Agira, cade a terra e viene stabilizzato da Anevia dopo lo scontro. |

@@ -80,6 +80,7 @@ Ha anche un lato che la mette regolarmente nei guai: la curiosità. Vedere qualc
 | [[Sessione 001]] | Ha fasciato la gamba rotta di Anevia; si è avvicinata imprudentemente al corpo del drago e è stata colpita dalle larve; ha recuperato 5 scaglie di drago argento |
 | [[Sessione 002]] | Ha partecipato allo scontro nel tempio di Torag; ha ipotizzato che le incisioni raffigurassero i discendenti dei crociati perduti. Caduta a 0 hp nello scontro con i Darkmantle nella stanza buia. |
 | [[Sessione 003]] | Stabilizzata da Tamar. Ha fatto notare a Horgus che seguire Lann era l'unica opzione ragionevole. Confronto acceso con Horgus dopo essere stata chiamata "Tifling" — lo ha minacciato di lasciarlo a piedi. |
+| [[Sessione 006]] | Viene mandata a terra da Wenduag e poi dai colpi di Hosilla. Durante l'incoscienza riconosce nella donna-farfalla la sconosciuta con simbolo di [[Desna]] che in passato salvò lei e Caslek durante un'incursione demoniaca. Si risveglia con un tatuaggio a forma di farfalla sulla spalla e più tardi prova senza successo ad aprire il forziere di Hosilla. |
 
 ---
 

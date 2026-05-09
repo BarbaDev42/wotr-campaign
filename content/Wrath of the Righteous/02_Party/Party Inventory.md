@@ -32,6 +32,23 @@ description: Oggetti e risorse condivise dal gruppo.
 
 ---
 
+## Bottino Sessione 006
+
+| Oggetto | Chi lo porta | Note |
+|---------|-------------|------|
+| 2 pugnali e 2 mazze | Gruppo | Dagli ibridati nel dormitorio |
+| Arco lungo pregevole | [[Caslek Makiya]] | Preso da [[Wenduag]] |
+| 16 frecce | [[Caslek Makiya]] | Presi da [[Wenduag]] |
+| Mace e 2 spade corte | Gruppo | Bottino di [[Wenduag]] |
+| Giaco di maglia perfetto | Gruppo | Bottino di [[Wenduag]] |
+| [[Bacchetta di Wenduag]] | Gruppo | Non identificata |
+| 2 pozioni di cura | Gruppo | Bottino di [[Wenduag]] |
+| [[Simbolo Sacro di Baphomet in Ossidiana]] | [[Caslek Makiya]] | Valore stimato: 35 mo |
+| 10 monete d'oro di Kenabres | Gruppo | Trovate su [[Wenduag]] |
+| [[Lettera di S.V. a Hosilla]] | Gruppo | Prova dei rifugi cultisti |
+
+---
+
 ## Consumabili
 
 | Oggetto | Quantità | Chi lo porta |

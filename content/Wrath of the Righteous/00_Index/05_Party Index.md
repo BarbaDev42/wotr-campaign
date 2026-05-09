@@ -16,8 +16,8 @@ tags: [index, gruppo]
 | [[Wrath of the Righteous/02_Party/Members/Kaelen Vortanis.md\|Kaelen Vortanis]] | Tiefling          | Craftsman | 2       | Blue      |
 | [[Wrath of the Righteous/02_Party/Members/Tamar Darkmane.md\|Tamar Darkmane]]   | Umano             | Cleric    | 2       | Piro      |
 | [[Wrath of the Righteous/02_Party/Members/Vlamyra Ruzclaw.md\|Vlamyra Ruzclaw]] | Dragonide (Rossa) | Paladin   | 2       | Nina      |
-<!-- SerializedQuery END -->
 
+<!-- SerializedQuery END -->
 
 ---
 

@@ -18,6 +18,7 @@ tags: [index, dashboard]
 | [[Wrath of the Righteous/02_Party/Members/Kaelen Vortanis.md\|Kaelen Vortanis]] | Tiefling          | Craftsman | 2       | Blue      |
 | [[Wrath of the Righteous/02_Party/Members/Tamar Darkmane.md\|Tamar Darkmane]]   | Umano             | Cleric    | 2       | Piro      |
 | [[Wrath of the Righteous/02_Party/Members/Vlamyra Ruzclaw.md\|Vlamyra Ruzclaw]] | Dragonide (Rossa) | Paladin   | 2       | Nina      |
+
 <!-- SerializedQuery END -->
 
 ---
@@ -32,6 +33,7 @@ tags: [index, dashboard]
 | [[Wrath of the Righteous/05_Quests/Distruggere il Villaggio Ostile.md\|Distruggere il Villaggio Ostile]] | Attiva | [[Wrath of the Righteous/03_NPCs/Sull.md\|Sull]]                 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] |
 | [[Wrath of the Righteous/05_Quests/Risalire in Superficie.md\|Risalire in Superficie]]                   | Attiva |                                                                  | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] |
 | [[Wrath of the Righteous/05_Quests/Scorta di Horgus Gwerm.md\|Scorta di Horgus Gwerm]]                   | Attiva | [[Wrath of the Righteous/03_NPCs/Horgus Gwerm.md\|Horgus Gwerm]] | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] |
+
 <!-- SerializedQuery END -->
 
 ---
@@ -41,13 +43,14 @@ tags: [index, dashboard]
 <!-- QueryToSerialize: TABLE date_ingame AS "Data in-game", date_played AS "Giocata il", location AS "Luogo" FROM "Wrath of the Righteous/01_Sessions" SORT date_played DESC LIMIT 5 -->
 <!-- SerializedQuery: TABLE date_ingame AS "Data in-game", date_played AS "Giocata il", location AS "Luogo" FROM "Wrath of the Righteous/01_Sessions" SORT date_played DESC LIMIT 5 -->
 
-| File                                                                 | Data in-game    | Giocata il     | Luogo                                                                                                       |
-| -------------------------------------------------------------------- | --------------- | -------------- | ----------------------------------------------------------------------------------------------------------- |
-| [[Wrath of the Righteous/01_Sessions/Sessione 005.md\|Sessione 005]] | August 17, 4713 | April 24, 2026 | [[Wrath of the Righteous/04_Locations/Neatholm.md\|Neatholm]]                                               |
-| [[Wrath of the Righteous/01_Sessions/Sessione 004.md\|Sessione 004]] | August 17, 4713 | April 17, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] |
-| [[Wrath of the Righteous/01_Sessions/Sessione 003.md\|Sessione 003]] | August 16, 4713 | April 10, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] |
-| [[Wrath of the Righteous/01_Sessions/Sessione 002.md\|Sessione 002]] | August 16, 4713 | April 03, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] |
-| [[Wrath of the Righteous/01_Sessions/Sessione 001.md\|Sessione 001]] | August 16, 4713 | March 26, 2026 | [[Wrath of the Righteous/04_Locations/Kenabres.md\|Kenabres]]                                               |
+| File                                                                 | Data in-game    | Giocata il     | Luogo                                                                                                             |
+| -------------------------------------------------------------------- | --------------- | -------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [[Wrath of the Righteous/01_Sessions/Sessione 006.md\|Sessione 006]] | August 17, 4713 | May 08, 2026   | [[Wrath of the Righteous/04_Locations/Villaggio degli Ibridati Traditori.md\|Villaggio degli Ibridati Traditori]] |
+| [[Wrath of the Righteous/01_Sessions/Sessione 005.md\|Sessione 005]] | August 17, 4713 | April 24, 2026 | [[Wrath of the Righteous/04_Locations/Neatholm.md\|Neatholm]]                                                     |
+| [[Wrath of the Righteous/01_Sessions/Sessione 004.md\|Sessione 004]] | August 17, 4713 | April 17, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]]       |
+| [[Wrath of the Righteous/01_Sessions/Sessione 003.md\|Sessione 003]] | August 16, 4713 | April 10, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]]       |
+| [[Wrath of the Righteous/01_Sessions/Sessione 002.md\|Sessione 002]] | August 16, 4713 | April 03, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]]       |
+
 <!-- SerializedQuery END -->
 
 ---
