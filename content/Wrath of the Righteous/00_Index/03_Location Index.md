@@ -24,3 +24,4 @@ tags: [index, luoghi]
 | [[Wrath of the Righteous/04_Locations/Villaggio degli Ibridati Traditori.md\|Villaggio degli Ibridati Traditori]] | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | Dungeon / Insediamento ostile         | [[Wrath of the Righteous/01_Sessions/Sessione 005.md\|Sessione 005]] |
 
 <!-- SerializedQuery END -->
+

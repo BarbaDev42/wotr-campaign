@@ -16,7 +16,6 @@ tags: [index, missioni]
 | [[Wrath of the Righteous/05_Quests/Distruggere il Villaggio Ostile.md\|Distruggere il Villaggio Ostile]] | [[Wrath of the Righteous/03_NPCs/Sull.md\|Sull]]                 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | [[Wrath of the Righteous/01_Sessions/Sessione 004.md\|Sessione 004]] |
 | [[Wrath of the Righteous/05_Quests/Risalire in Superficie.md\|Risalire in Superficie]]                   |                                                                  | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | [[Wrath of the Righteous/01_Sessions/Sessione 001.md\|Sessione 001]] |
 | [[Wrath of the Righteous/05_Quests/Scorta di Horgus Gwerm.md\|Scorta di Horgus Gwerm]]                   | [[Wrath of the Righteous/03_NPCs/Horgus Gwerm.md\|Horgus Gwerm]] | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]] | [[Wrath of the Righteous/01_Sessions/Sessione 003.md\|Sessione 003]] |
-
 <!-- SerializedQuery END -->
 
 
@@ -40,5 +39,4 @@ tags: [index, missioni]
 | ---- | ----------- |
 
 <!-- SerializedQuery END -->
-
 

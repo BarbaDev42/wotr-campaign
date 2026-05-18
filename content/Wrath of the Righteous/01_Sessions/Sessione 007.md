@@ -39,6 +39,8 @@ La lunga custodia contiene il tesoro più importante: una spada lunga mozzafiato
 
 [[Lann]] la osserva con rispetto. Anevia, invece, la guarda con malinconia: la spada le ricorda un'arma che non vede da anni, e una paladina con una spada le fa pensare a [[Irabeth Tirabade|Irabeth]], che potrebbe essere ancora in pericolo in superficie. Caslek passa l'arma a [[Vlamyra Ruzclaw|Vlamyra]], che la prende come nuova spada.
 
+![[session_007_1.png]]
+
 ### Identificazioni e bottino
 
 Il gruppo fa il punto su tutto ciò che è stato recuperato. La bacchetta trovata su Hosilla viene identificata come una [[Bacchetta di Arma Spirituale]] con 8 cariche. La [[Bacchetta di Wenduag]] viene finalmente identificata: è una bacchetta del passo veloce, equivalente a *Longstrider*, con 10 cariche.
@@ -63,11 +65,15 @@ Sull ha inviato messaggeri alle altre cellule di ibridati: nel giro di un paio d
 
 Uziel prende Caslek da parte e gli fa notare che offendere Horgus non è una buona idea: i soldi di Horgus servono anche a pagare lui. Caslek gli dà 50 monete d'oro come anticipo per calmarlo, ma Uziel resta preoccupato che il gruppo stia mettendo in pericolo il pagamento promesso.
 
+![[session_007_2.png]]
+
 ### Come è finita
 
 Il gruppo riparte verso l'uscita, attraversando di nuovo il villaggio ostile. Quando arriva alla porta che dovrebbe condurre avanti, Spark sente rumori strani dall'altra parte: suoni mollicci e qualcosa che si spezza, non rumori da creature intelligenti.
 
 Anevia fa arretrare [[Aravashnial]] e Horgus, poi il gruppo apre. Nella stanza ci sono Wenduag, Hosilla e altri ibridati già uccisi, ma ora si muovono a scatti, con occhi vitrei e mandibole sporche di sangue. Sono chini sul cadavere della lucertola gigante e lo stanno divorando crudo. Si voltano appena, come animali che temono di perdere il cibo, e si preparano ad attaccare.
+
+![[session_007_3.png]]
 
 La sessione si chiude lì, davanti ai cadaveri rianimati.
 

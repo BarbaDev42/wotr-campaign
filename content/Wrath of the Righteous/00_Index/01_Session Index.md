@@ -20,3 +20,4 @@ tags: [index, sessioni]
 | [[Wrath of the Righteous/01_Sessions/Sessione 007.md\|Sessione 007]] | August 17, 4713 | May 15, 2026   | [[Wrath of the Righteous/04_Locations/Villaggio degli Ibridati Traditori.md\|Villaggio degli Ibridati Traditori]] | 2       |
 
 <!-- SerializedQuery END -->
+

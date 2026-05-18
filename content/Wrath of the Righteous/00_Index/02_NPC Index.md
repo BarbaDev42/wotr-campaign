@@ -32,3 +32,4 @@ tags: [index, png]
 | [[Wrath of the Righteous/03_NPCs/Wenduag.md\|Wenduag]]                   | [[Wrath of the Righteous/04_Locations/Villaggio degli Ibridati Traditori.md\|Villaggio degli Ibridati Traditori]] | [[Wrath of the Righteous/04_Locations/Villaggio degli Ibridati Traditori.md\|Villaggio degli Ibridati Traditori]] | Morta (corpo rianimato?)            | [[Wrath of the Righteous/01_Sessions/Sessione 006.md\|Sessione 006]] |
 
 <!-- SerializedQuery END -->
+
