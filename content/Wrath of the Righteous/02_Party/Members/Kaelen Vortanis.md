@@ -81,6 +81,7 @@ Ha anche un lato che la mette regolarmente nei guai: la curiosità. Vedere qualc
 | [[Sessione 002]] | Ha partecipato allo scontro nel tempio di Torag; ha ipotizzato che le incisioni raffigurassero i discendenti dei crociati perduti. Caduta a 0 hp nello scontro con i Darkmantle nella stanza buia. |
 | [[Sessione 003]] | Stabilizzata da Tamar. Ha fatto notare a Horgus che seguire Lann era l'unica opzione ragionevole. Confronto acceso con Horgus dopo essere stata chiamata "Tifling" — lo ha minacciato di lasciarlo a piedi. |
 | [[Sessione 006]] | Viene mandata a terra da Wenduag e poi dai colpi di Hosilla. Durante l'incoscienza riconosce nella donna-farfalla la sconosciuta con simbolo di [[Desna]] che in passato salvò lei e Caslek durante un'incursione demoniaca. Si risveglia con un tatuaggio a forma di farfalla sulla spalla e più tardi prova senza successo ad aprire il forziere di Hosilla. |
+| [[Sessione 007]] | Mostra la lettera di S.V. ad Anevia, Agira e Tamar, aveva già perquisito Hosilla senza trovare la chiave del forziere, identifica parte del bottino e recupera un pugnale di fattura perfetta dalla cucina. Durante il ritorno a [[Neatholm]], racconta a [[Caslek Makiya\|Caslek]] la visione della donna-farfalla e il riferimento inquietante al "tornare nell'abisso". Tornati al villaggio ostile, è lei a sentire i rumori mollicci dietro la porta prima della scoperta dei cadaveri rianimati. |
 
 ---
 
@@ -89,3 +90,4 @@ Ha anche un lato che la mette regolarmente nei guai: la curiosità. Vedere qualc
 | Oggetto | Note |
 |---------|------|
 | [[Scaglia di Drago Argento]] | Disguise Self 3/gg, +4 Inganno vs malvagi |
+| Pugnale di fattura perfetta | Recuperato nella cucina del [[Villaggio degli Ibridati Traditori]] |

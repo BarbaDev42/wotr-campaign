@@ -41,6 +41,7 @@ Trovare un percorso attraverso le caverne che conduca in superficie, portando co
 | [[Sessione 002]] | Avanzata verso sud; tempio di Torag esplorato; incisioni della prima crociata; scontro con creature di oscurità; gruppo decimato — Agira morto, Caslek e Spark caduti |
 | [[Sessione 004]] | Attraversato il baratro e la caverna del Basidirond. Arrivati a [[Neatholm]], villaggio degli ibridati. [[Sull]] indica il percorso verso la superficie: passa a sud, ma è bloccato dalla tribù ostile. Il gruppo deve prima completare la missione [[Distruggere il Villaggio Ostile]]. |
 | [[Sessione 006]] | Il villaggio ostile è quasi sbloccato: [[Wenduag]] e [[Hosilla]] sono morte, ma restano da controllare forziere, cucina e uscita. La [[Lettera di S.V. a Hosilla]] rende urgente arrivare in superficie e avvisare qualcuno a Kenabres. |
+| [[Sessione 007]] | [[Sull]] può organizzare la traversata di Neatholm in circa due giorni. Caslek e il gruppo vorrebbero aspettare e partire con gli ibridati, ma Horgus, Aravashnial e Anevia si preparano a risalire da soli; il gruppo cambia idea per non lasciarli senza protezione. Il percorso verso la superficie passa ancora dal villaggio ostile, dove i cadaveri di Wenduag, Hosilla e altri ibridati si sono rianimati. |
 
 ---
 
@@ -50,6 +51,7 @@ Trovare un percorso attraverso le caverne che conduca in superficie, portando co
 - **[[Templari del Labirinto d'Avorio]]** — cultisti di [[Baphomet]] infiltrati tra i crociati, in contatto con la tribù ostile
 - **Rifugi cultisti a Kenabres** — la lettera di S.V. cita [[Maniero Nyserian]], [[Topaz Solutions|Soluzioni di Topazio]] e [[Torre di Estrod]]
 - **Anevia e Aravashnial** continuano ad avere bisogno di assistenza
+- **Cadaveri rianimati nel villaggio ostile** — la via d'uscita immediata è bloccata dai corpi di Wenduag, Hosilla e altri ibridati tornati a muoversi
 
 ---
 

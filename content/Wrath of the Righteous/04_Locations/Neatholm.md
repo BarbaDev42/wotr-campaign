@@ -71,3 +71,4 @@ Il villaggio vive sotto la costante minaccia di un'altra tribù di ibridati più
 |----------|----------------|
 | [[Sessione 004]] | Il gruppo arriva per la prima volta, accolto da Lann. Il capo Sull offre alleanza e chiede aiuto per distruggere il villaggio ostile. Il gruppo riposa per la notte. |
 | [[Sessione 005]] | Il gruppo visita l'emporio di Brynn e il veggente sulla sponda opposta del lago. Shopping, profezie, e preparazione per l'assalto al villaggio ostile. |
+| [[Sessione 007]] | Il gruppo ritorna dopo aver eliminato la leadership del villaggio ostile. [[Sull]] ringrazia e avvia i preparativi per una traversata verso la superficie entro circa due giorni. Caslek e il gruppo vorrebbero aspettare gli ibridati, ma Horgus, Aravashnial e Anevia si preparano a partire da soli; il gruppo riparte con loro per non lasciarli senza protezione. |

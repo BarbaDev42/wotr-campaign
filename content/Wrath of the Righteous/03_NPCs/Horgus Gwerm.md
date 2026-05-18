@@ -68,6 +68,7 @@ Un sopravvissuto della caduta. [[Tamar Darkmane|Tamar]] lo ha aiutato ad alzarsi
 | [[Sessione 002]] | Ha proposto di abbandonare Anevia; litigato con lei sulla fede nascosta; **è stato il primo a notare le figure scolpite** sulle pareti del corridoio più profondo; ha accettato controvoglia di tenere la torcia |
 | [[Sessione 003]] | Si è rivelato: **nobile del Mendev, Casato Gwerm**. Ha mostrato il suo anello sigillare. Offre 1000 gp alla sua magione come ricompensa. Si è rivelato un erudito sulla storia degli ibridati, parlando come un accademico con Aravashnial. Diffida degli ibridati incontrati. |
 | [[Sessione 004]] | Ha attraversato il baratro con il gruppo. Arrivato a Neatholm. Continua a diffidare degli ibridati ma segue il gruppo senza opporsi. |
+| [[Sessione 007]] | Dopo il ritorno del gruppo a [[Neatholm]], rifiuta di aspettare due giorni la traversata organizzata da [[Sull]]. Vuole raggiungere la sua magione il prima possibile, teme che sia stata distrutta e minaccia di assoldare qualcun altro se il gruppo non lo accompagna. Inizia a organizzarsi per partire comunque, spingendo il gruppo a seguirlo per non lasciarlo senza protezione. |
 
 ---
 

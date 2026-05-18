@@ -2,10 +2,10 @@
 title: Villaggio degli Ibridati Traditori
 region: "[[Caverne Sotterranee di Kenabres]]"
 type: Dungeon / Insediamento ostile
-status: Leadership eliminata, non ancora ripulito
+status: Cadaveri rianimati incontrati sulla via d'uscita
 first_visited: "[[Sessione 005]]"
 tags: [luogo]
-description: Insediamento sotterraneo di ibridati ostili; Hosilla e Wenduag sono morte, ma alcune stanze restano da controllare.
+description: Insediamento sotterraneo di ibridati ostili; Hosilla e Wenduag sono morte, ma i loro cadaveri si sono rianimati sulla via d'uscita.
 ---
 
 # Villaggio degli Ibridati Traditori
@@ -20,7 +20,7 @@ description: Insediamento sotterraneo di ibridati ostili; Hosilla e Wenduag sono
 |--|--|
 | **Regione** | [[Caverne Sotterranee di Kenabres]] |
 | **Tipo** | Dungeon / Insediamento ostile |
-| **Stato** | Leadership eliminata, non ancora ripulito |
+| **Stato** | Cadaveri rianimati incontrati sulla via d'uscita |
 | **Prima visita** | [[Sessione 005]] |
 
 ---
@@ -39,9 +39,9 @@ Un complesso sotterraneo raggiungibile da [[Neatholm]] dopo circa mezz'ora di ca
 - **Pozzo/condotto verso il piano inferiore** — discesa usata dal gruppo per inseguire Wenduag
 - **Barricate inferiori** — difese nel livello basso, assaltate dal gruppo con Uziel in testa
 - **Sala di Hosilla** — sala illuminata da bracieri e macchiata di sangue, luogo dello scontro con l'inquisitrice
-- **Cucina / stanza maleodorante** — non ancora esplorata
+- **Cucina / stanza maleodorante** — esplorata nella [[Sessione 007]]; piena di sangue vecchio, carne macellata e utensili per scuoiare; recuperato un pugnale di fattura perfetta
 - **Stanza privata di Hosilla** — braciere, giaciglio di pellicce, scrivania, lettera di S.V. e forziere
-- **Forziere chiuso** — lungo forziere di ferro sotto la scrivania di Hosilla, non ancora aperto
+- **Forziere di Hosilla** — lungo forziere di ferro sotto la scrivania, aperto nella [[Sessione 007]] con la chiave nascosta nello stivale dell'inquisitrice
 - **Passaggio verso la superficie** — in alto, percorso sconosciuto ma con "un tanfo incredibile" secondo Uziel
 
 ---
@@ -68,3 +68,4 @@ Originariamente una tribù indipendente di ibridati, violenta e aggressiva verso
 |----------|----------------|
 | [[Sessione 005]] | Il gruppo assalta l'ingresso: elimina due guardie, recluta Uziel, entra nel dormitorio. Combattimento in corso — lucertola libera, freccia da sud. |
 | [[Sessione 006]] | Il gruppo ripulisce il dormitorio, insegue e uccide [[Wenduag]], scende al livello inferiore e sconfigge [[Hosilla]]. Vlamyra e Spark trovano la stanza privata dell'inquisitrice, la [[Lettera di S.V. a Hosilla]] e un forziere chiuso che Spark non riesce ad aprire. Cucina, uscita e forziere restano da gestire. |
+| [[Sessione 007]] | Il gruppo apre il forziere di Hosilla, recupera la [[Spada di Yaniel]], controlla la cucina e torna verso l'uscita. Quando riapre la porta del dormitorio, trova Wenduag, Hosilla e altri ibridati rianimati che divorano la carcassa della lucertola gigante. |

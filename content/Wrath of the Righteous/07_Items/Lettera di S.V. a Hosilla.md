@@ -73,3 +73,4 @@ La lettera è firmata **S.V.** e invoca [[Deskari]] e [[Baphomet]].
 
 - S.V. potrebbe essere [[Staunton Vhane]].
 - Appena possibile, il gruppo deve parlarne con [[Anevia Tirabade|Anevia]]: la lettera è collegata ai traditori che stava già cercando di smascherare.
+- Nella [[Sessione 007]] il gruppo ha recuperato dal forziere di Hosilla la [[Spada di Yaniel]] citata nella lettera.

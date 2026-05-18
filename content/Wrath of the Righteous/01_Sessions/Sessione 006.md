@@ -154,8 +154,8 @@ La sessione è stata una lunga pressione in discesa: dal combattimento del dormi
 | 16 frecce | [[Caslek Makiya\|Caslek]] | Presi da Wenduag |
 | Mace e 2 spade corte | Gruppo | Bottino di Wenduag |
 | Giàco di maglia perfetto | Gruppo | Bottino di Wenduag |
-| [[Bacchetta di Wenduag]] | Gruppo | Non identificata |
-| 2 pozioni di cura | Gruppo | Bottino di Wenduag |
+| [[Bacchetta di Wenduag]] | Gruppo | Identificata nella [[Sessione 007]] come bacchetta di *Longstrider*, 10 cariche |
+| 2 pozioni di cura | Conteggiate nel saldo corrente | Bottino di Wenduag; saldo aggiornato nella [[Sessione 007]] |
 | [[Simbolo Sacro di Baphomet in Ossidiana]] | [[Caslek Makiya\|Caslek]] | Valore stimato: 35 mo |
 | 10 monete d'oro di Kenabres | Gruppo | Trovate su Wenduag |
 | [[Lettera di S.V. a Hosilla]] | Gruppo | Prova dei rifugi cultisti |

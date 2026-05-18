@@ -216,6 +216,6 @@ Sopravvivere allo scontro in corso. Una lucertola gigante è uscita dalla dispen
 - Uziel fa tre attacchi per turno e ha fatto un critico al primo round — è forte.
 - La Scaglia di Drago Argento ora dà anche Divine Favor (5/giorno).
 - Tamar ha curato Vlamyra (da confermare).
-- Le pozioni rosse e azzurre di Sull sono ancora disponibili.
+- Le pozioni di cura ferite e di *Lesser Restoration* ricevute da Sull sono ancora disponibili.
 - Horgus deve 250gp al gruppo per Uziel — se mai lo scoprirà.
 - Moneta della Piuma tenuta da parte da Brynn (75gp).

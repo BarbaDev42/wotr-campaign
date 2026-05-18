@@ -37,3 +37,4 @@ Distruggere l'insediamento della tribù ostile a sud di Neatholm.
 | [[Sessione 004]] | Missione ricevuta da Sull. Il gruppo accetta. |
 | [[Sessione 005]] | Il gruppo assalta il villaggio. Due guardie eliminate all'ingresso. Il mercenario [[Uziel]] cambia bandiera per 250gp. Combattimento in corso nel dormitorio — sei ibridati dentro, una lucertola gigante libera, e Hosilla in basso con due guardie. |
 | [[Sessione 006]] | Leadership eliminata: [[Wenduag]] e [[Hosilla]] sono morte. La missione resta attiva finché non vengono controllati forziere, cucina, uscita e rapporto a [[Sull]]. |
+| [[Sessione 007]] | Il gruppo apre il forziere, controlla la cucina e riferisce a [[Sull]] che il villaggio ostile è stato sconfitto. Sulla via d'uscita, però, trova Wenduag, Hosilla e altri ibridati rianimati: la minaccia non è ancora davvero conclusa. |

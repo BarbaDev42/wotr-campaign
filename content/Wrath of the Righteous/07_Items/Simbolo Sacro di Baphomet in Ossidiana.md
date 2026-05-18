@@ -44,4 +44,5 @@ Nessun effetto magico noto. È comunque un indizio materiale dei legami tra gli 
 
 ## Note
 
-Caslek lo tiene nascosto, più per il valore che per devozione.
+- Caslek lo tiene nascosto, più per il valore che per devozione.
+- Nella [[Sessione 007]] chiede a Spark se valga la pena smussarlo o modificarlo per rivenderlo, ma Spark lo sconsiglia: vendere apertamente un simbolo di Baphomet a Kenabres è rischioso.

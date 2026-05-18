@@ -101,7 +101,7 @@ Poi guarda Lann: ordina che prepari il suo equipaggiamento, che gli altri recupe
 
 ### La richiesta di Sull
 
-Ma c'è un ultimo problema. Il percorso più veloce verso la superficie passa a **sud** — vicino al villaggio ostile. Sull chiede l'aiuto del gruppo per **distruggere l'insediamento nemico**. In cambio offre: sei pozioni rosse (guarigione), tre pozioni azzurre, una guida per la superficie, e la spilletta di riconoscimento per il mercante **Brin**.
+Ma c'è un ultimo problema. Il percorso più veloce verso la superficie passa a **sud** — vicino al villaggio ostile. Sull chiede l'aiuto del gruppo per **distruggere l'insediamento nemico**. In cambio offre: sei pozioni rosse (poi identificate come cura ferite), tre pozioni azzurre (poi identificate come *Lesser Restoration*), una guida per la superficie, e la spilletta di riconoscimento per il mercante **Brin**.
 
 Agira si gira verso il gruppo: *"Non è una decisione che posso prendere da solo."* Il gruppo accetta.
 
@@ -218,8 +218,8 @@ Una sessione di transizione che ha costruito molto. L'attraversamento del baratr
 | Pergamena magica | Gruppo | Dai cultisti, non ancora identificata |
 | 129 monete d'oro | Gruppo | Dai cultisti |
 | Ciondolo di Baphomet | Gruppo | Forma di toro, simbolo sacrilego |
-| Pozioni rosse ×6 | Gruppo | Guarigione, da Sull |
-| Pozioni azzurre ×3 | Gruppo | Da Sull, effetto sconosciuto |
+| Pozioni rosse ×6 | Gruppo | Guarigione / cura ferite, da Sull |
+| Pozioni azzurre ×3 | Gruppo | *Lesser Restoration*, da Sull |
 | Spilletta pipistrello con ametiste | [[Caslek Makiya\|Caslek]] | Da Sull, per accedere al mercante Brin |
 
 ---
@@ -230,7 +230,7 @@ Una sessione di transizione che ha costruito molto. L'attraversamento del baratr
 - Aravashnial parla dei "Templari del Labirinto d'Avorio" — quanto è estesa l'infiltrazione?
 - I cultisti avevano rapporti con la tribù ostile — qual è il collegamento?
 - La pergamena magica dei cultisti — cosa contiene?
-- Le pozioni azzurre di Sull — che effetto hanno?
+- Come usare al meglio le pozioni di *Lesser Restoration* ricevute da Sull.
 - Chi è Brin e cosa vende?
 - Cosa c'è nel villaggio ostile? Quanto è pericoloso?
 - Caslek era in missione "per quelli che frequentava" — per chi lavorava?
@@ -267,7 +267,7 @@ Visitare il mercante **Brin** (mostrare la spilletta pipistrello). Poi dirigerci
 - La tribù ostile ha rapporti con i cultisti di Baphomet.
 
 ### Non dimenticare
-- Abbiamo 6 pozioni rosse e 3 azzurre da Sull.
+- Abbiamo 6 pozioni rosse di cura ferite e 3 pozioni azzurre di *Lesser Restoration* da Sull.
 - Le chain shirt perfette dei cultisti — Spark le sta lavorando.
 - La spilletta pipistrello con ametiste per Brin.
 - La scaglia di Terendelev fa Levitate (solo per Caslek, 150 lbs max).

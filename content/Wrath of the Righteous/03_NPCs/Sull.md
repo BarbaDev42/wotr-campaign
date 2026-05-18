@@ -62,6 +62,7 @@ Ibridato pingue, dall'aspetto sgradevole. Un occhio è velato di bianco. Seduto 
 | Sessione | Cosa è successo |
 |----------|----------------|
 | [[Sessione 004]] | Ha accolto il gruppo a Neatholm, offerto alleanza contro i demoni, chiesto aiuto per distruggere il villaggio ostile. Ha dato pozioni e una spilletta per il mercante Brin. |
+| [[Sessione 007]] | Riceve il rapporto sulla caduta del villaggio ostile e ringrazia il gruppo. Ha già inviato messaggeri alle altre cellule di ibridati e prevede che in circa due giorni saranno pronti per la traversata verso la superficie. |
 
 ---
 

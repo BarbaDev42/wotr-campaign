@@ -62,3 +62,4 @@ Attiva — il gruppo deve ancora raggiungere la superficie con Horgus.
 |----------|--------------|
 | [[Sessione 003]] | Accordo stipulato. Horgus ha mostrato il sigillo nobiliare come prova della sua identità. |
 | [[Sessione 006]] | Il debito informale verso [[Uziel]] resta aperto: il gruppo intende farlo rientrare nei soldi promessi da Horgus. |
+| [[Sessione 007]] | Horgus rifiuta l'idea di aspettare due giorni a [[Neatholm]] e vuole raggiungere la sua magione il prima possibile. Minaccia di assoldare qualcun altro e si prepara a partire anche senza il gruppo; [[Uziel]] avverte Caslek che irritare il nobile mette a rischio anche il suo pagamento. |

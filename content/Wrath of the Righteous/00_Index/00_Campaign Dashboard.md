@@ -45,11 +45,11 @@ tags: [index, dashboard]
 
 | File                                                                 | Data in-game    | Giocata il     | Luogo                                                                                                             |
 | -------------------------------------------------------------------- | --------------- | -------------- | ----------------------------------------------------------------------------------------------------------------- |
+| [[Wrath of the Righteous/01_Sessions/Sessione 007.md\|Sessione 007]] | August 17, 4713 | May 15, 2026   | [[Wrath of the Righteous/04_Locations/Villaggio degli Ibridati Traditori.md\|Villaggio degli Ibridati Traditori]] |
 | [[Wrath of the Righteous/01_Sessions/Sessione 006.md\|Sessione 006]] | August 17, 4713 | May 08, 2026   | [[Wrath of the Righteous/04_Locations/Villaggio degli Ibridati Traditori.md\|Villaggio degli Ibridati Traditori]] |
 | [[Wrath of the Righteous/01_Sessions/Sessione 005.md\|Sessione 005]] | August 17, 4713 | April 24, 2026 | [[Wrath of the Righteous/04_Locations/Neatholm.md\|Neatholm]]                                                     |
 | [[Wrath of the Righteous/01_Sessions/Sessione 004.md\|Sessione 004]] | August 17, 4713 | April 17, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]]       |
 | [[Wrath of the Righteous/01_Sessions/Sessione 003.md\|Sessione 003]] | August 16, 4713 | April 10, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]]       |
-| [[Wrath of the Righteous/01_Sessions/Sessione 002.md\|Sessione 002]] | August 16, 4713 | April 03, 2026 | [[Wrath of the Righteous/04_Locations/Caverne Sotterranee di Kenabres.md\|Caverne Sotterranee di Kenabres]]       |
 
 <!-- SerializedQuery END -->
 

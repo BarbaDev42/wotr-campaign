@@ -8,7 +8,7 @@ first_seen: "[[Sessione 005]]"
 attitude: Alleato (contratto in corso)
 type: npc
 tags: [npc]
-description: Mercenario tiefling con armatura d'ossa, reclutato dal gruppo per 250 monete d'oro; ha ucciso Hosilla.
+description: Mercenario tiefling con armatura d'ossa, reclutato dal gruppo per 250 monete d'oro; ha ucciso Hosilla e continua a seguire il gruppo in attesa del pagamento.
 ---
 
 # Uziel
@@ -50,6 +50,9 @@ Tiefling alto e magro con pelle completamente rossa, corna seghettate e piedi ca
 - Dice di servire il dio dei denari (probabilmente [[Abadar]]).
 - Menziona di essere "nato qui" (a Kenabres/Mendev).
 - Ha conoscenze di superficie — parla di Horgus come persona nota per la sua ricchezza.
+- Nella [[Sessione 007]] ha ricevuto 50 monete d'oro da [[Caslek Makiya|Caslek]] come anticipo.
+- È preoccupato che il conflitto con [[Horgus Gwerm|Horgus]] metta a rischio il suo pagamento.
+- Dopo il tentativo fallito di Caslek di aprire il forziere di Hosilla, suggerisce di perquisire meglio il cadavere dell'inquisitrice: così viene trovata la chiave nello stivale sinistro.
 
 ---
 
@@ -65,6 +68,7 @@ Tiefling alto e magro con pelle completamente rossa, corna seghettate e piedi ca
 |----------|----------------|
 | [[Sessione 005]] | Avvistato mentre fumava un sigaro fuori dal tunnel. Ha lanciato Darkness durante lo scontro alle barricate, poi ha negoziato — 250gp per cambiare bandiera. Ha fornito informazioni su Hosilla e la disposizione del complesso. |
 | [[Sessione 006]] | Scende per primo nel piano inferiore, rompe una barricata, aiuta il gruppo negli scontri e infine uccide [[Hosilla]] dopo che lei tenta di richiamarlo al proprio servizio. |
+| [[Sessione 007]] | Caslek prova a convincerlo a restare col gruppo oltre il contratto, ma Uziel rimanda la decisione alla superficie. Suggerisce di cercare meglio addosso a Hosilla dopo il fallimento dello scasso, permettendo di trovare la chiave del forziere nello stivale. Chiede di essere presentato ai paladini come un eroe, riceve 50 mo di anticipo e avverte Caslek di non compromettere i soldi di Horgus. |
 
 ---
 
